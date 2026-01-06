@@ -53,8 +53,31 @@ See detailed insights in: [business_insights.md](business_insights.md)
 
 This project includes a *simulated automation pipeline* to demonstrate how the analytics workflow can be scaled and operationalized in a real business environment.
 
+
 ### Simulated Automation Pipeline
 A script named:
 
 ```text
 run_pipeline.py
+```
+
+
+## How to Run the Project 
+
+1. Clone the repository
+2. Ensure Python is installed
+3. Run individual analysis scripts as needed:
+   - data_inspection.py
+   - eda_analysis.py
+   - kpi_design.py
+4. To simulate the full pipeline:
+   python run_pipeline.py
+
+
+## Tools & Technologies Used
+
+- Python (Pandas, NumPy)
+- Power BI
+- Git & GitHub
+- CSV-based datasets
+- Markdown for documentation
