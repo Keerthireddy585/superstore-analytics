@@ -6,7 +6,6 @@ The objective is to analyze business performance across revenue, growth, product
 
 The project emphasizes not only data analysis and visualization, but also structured business storytelling, KPI-driven decision-making, and readiness for real-world analytics workflows through basic automation and scalability considerations. 
 
----
 
 ## Business Questions Addressed
 How is the business performing overall, and are we growing?
@@ -15,7 +14,6 @@ Which product categories and products drive the most revenue?
 Which regions require attention based on revenue performance?
 Who are the most valuable customers, and how concentrated is revenue?
 
----
 
 ## Project Components
 
@@ -47,11 +45,14 @@ Key business insights and recommendations are documented separately using a stru
 
 See detailed insights in: [business_insights.md](business_insights.md)
 
----
 
 ## Automation & Scalability
 
-This project includes a *simulated automation pipeline* to demonstrate how the analytics workflow can be scaled and operationalized in a real business environment.
+This project includes a simulated automation pipeline to demonstrate how the analytics workflow can be scaled and operationalized in a real business environment.
+
+Note:
+The automation script is a conceptual demonstration intended to show how this analysis could be operationalized in a production environment. 
+It does not rely on scheduling tools (e.g., Airflow) but reflects end-to-end workflow thinking.
 
 
 ### Simulated Automation Pipeline
