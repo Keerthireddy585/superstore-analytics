@@ -51,7 +51,11 @@ See detailed insights in: [business_insights.md](business_insights.md)
 
 ## Automation & Scalability
 
-This project includes a *simulated automation pipeline* to demonstrate how the analytics workflow can be scaled and operationalized in a real business environment.
+This project includes a simulated automation pipeline to demonstrate how the analytics workflow can be scaled and operationalized in a real business environment.
+
+Note:
+The automation script is a conceptual demonstration intended to show how this analysis could be operationalized in a production environment. 
+It does not rely on scheduling tools (e.g., Airflow) but reflects end-to-end workflow thinking.
 
 ### Simulated Automation Pipeline
 A script named:
