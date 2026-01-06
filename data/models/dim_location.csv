@@ -1,0 +1,3820 @@
+Location_ID,Country,Region,State,City
+1,United States,East,New York,New York City
+2,Australia,Oceania,New South Wales,Wollongong
+3,Australia,Oceania,Queensland,Brisbane
+4,Germany,Central,Berlin,Berlin
+5,Senegal,Africa,Dakar,Dakar
+6,Australia,Oceania,New South Wales,Sydney
+7,New Zealand,Oceania,Wellington,Porirua
+8,New Zealand,Oceania,Waikato,Hamilton
+9,United States,West,California,Sacramento
+10,United States,South,North Carolina,Concord
+11,United States,South,Virginia,Alexandria
+12,Afghanistan,Central Asia,Kabul,Kabul
+13,Saudi Arabia,EMEA,Jizan,Jizan
+14,Brazil,South,Parana,Toledo
+15,China,North Asia,Heilongjiang,Mudanjiang
+16,France,Central,Ile-de-France,Paris
+17,United States,South,Kentucky,Henderson
+18,Italy,South,Tuscany,Prato
+19,Australia,Oceania,Queensland,Townsville
+20,Tanzania,Africa,Kigoma,Uvinza
+21,Poland,EMEA,Silesia,Bytom
+22,United States,Central,Illinois,Chicago
+23,China,North Asia,Anhui,Suzhou
+24,United Kingdom,North,Scotland,Edinburgh
+25,Mexico,North,Chihuahua,Juárez
+26,El Salvador,Central,San Salvador,Soyapango
+27,Taiwan,North Asia,Taipei City,Taipei
+28,Germany,Central,Saxony,Leipzig
+29,United States,West,California,Los Angeles
+30,India,Central Asia,Gujarat,Surat
+31,Dominican Republic,Caribbean,Santo Domingo,Santo Domingo
+32,France,Central,Brittany,Saint-Brieuc
+33,United States,Central,Texas,Amarillo
+34,Australia,Oceania,Queensland,Gold Coast
+35,United States,West,California,Fresno
+36,Democratic Republic of the Congo,Africa,Katanga,Kamina
+37,United States,South,North Carolina,Burlington
+38,United Kingdom,North,England,Stockton-on-Tees
+39,Indonesia,Southeast Asia,Nusa Tenggara Barat,Mataram
+40,India,Central Asia,Haryana,Gorakhpur
+41,India,Central Asia,Kerala,Thiruvananthapuram
+42,United Kingdom,North,England,Huddersfield
+43,United States,Central,Minnesota,Minneapolis
+44,France,Central,Ile-de-France,Montreuil
+45,China,North Asia,Shandong,Shouguang
+46,India,Central Asia,Jharkhand,Jamshedpur
+47,Uruguay,South,Paysandú,Paysandú
+48,Iran,EMEA,Mazandaran,Behshahr
+49,United States,West,California,Huntington Beach
+50,Mozambique,Africa,Cidade De Maputo,Maputo
+51,India,Central Asia,Madhya Pradesh,Bhopal
+52,United States,West,Washington,Seattle
+53,India,Central Asia,Delhi,Delhi
+54,Australia,Oceania,Western Australia,Geraldton
+55,United States,South,Florida,Tallahassee
+56,Bangladesh,Central Asia,Dhaka,Dhaka
+57,Germany,Central,Lower Saxony,Munster
+58,Germany,Central,Lower Saxony,Celle
+59,China,North Asia,Jiangsu,Wuxi
+60,United States,South,Virginia,Richmond
+61,Spain,South,Andalusía,Seville
+62,India,Central Asia,Uttarakhand,Raipur
+63,Mexico,North,Durango,Gómez Palacio
+64,Ukraine,EMEA,Kharkiv,Kharkiv
+65,China,North Asia,Shandong,Jinan
+66,Nicaragua,Central,Chinandega,Chinandega
+67,Democratic Republic of the Congo,Africa,Kasai-Occidental,Kananga
+68,Indonesia,Southeast Asia,Sumatera Selatan,Palembang
+69,United Kingdom,North,England,London
+70,Australia,Oceania,Victoria,Melbourne
+71,United States,South,Georgia,Atlanta
+72,Germany,Central,North Rhine-Westphalia,Duisburg
+73,China,North Asia,Sichuan,Nanchong
+74,India,Central Asia,West Bengal,Naihati
+75,France,Central,Nord-Pas-de-Calais,Lille
+76,Morocco,Africa,Meknès-Tafilalet,Meknes
+77,United States,Central,Michigan,Jackson
+78,United States,East,Pennsylvania,Philadelphia
+79,Germany,Central,North Rhine-Westphalia,Krefeld
+80,Indonesia,Southeast Asia,Jawa Barat,Bandung
+81,Morocco,Africa,Grand Casablanca,Casablanca
+82,Bangladesh,Central Asia,Dhaka,Tongi
+83,United States,West,Nevada,Henderson
+84,Canada,Canada,Quebec,Montréal
+85,Philippines,Southeast Asia,National Capital,Manila
+86,Australia,Oceania,New South Wales,Newcastle
+87,Austria,Central,Styria,Graz
+88,Australia,Oceania,New South Wales,Nowra
+89,France,Central,Ile-de-France,Boulogne-Billancourt
+90,France,Central,Ile-de-France,Malakoff
+91,Democratic Republic of the Congo,Africa,Kinshasa,Kinshasa
+92,Australia,Oceania,Western Australia,Perth
+93,France,Central,Aquitaine,Le Bouscat
+94,Mexico,North,Puebla,Puebla
+95,Germany,Central,Bavaria,Augsburg
+96,France,Central,Provence-Alpes-Côte d'Azur,Nice
+97,Colombia,South,Antioquia,Medellín
+98,Netherlands,Central,North Brabant,Bergen op Zoom
+99,United States,East,New Jersey,Lakewood
+100,Germany,Central,Lower Saxony,Hanover
+101,Spain,South,Galicia,Vigo
+102,China,North Asia,Jiangsu,Gaoyou
+103,Germany,Central,Bremen,Bremen
+104,France,Central,Midi-Pyrénées,Muret
+105,China,North Asia,Sichuan,Zigong
+106,Australia,Oceania,South Australia,Adelaide
+107,United States,Central,Michigan,Detroit
+108,France,Central,Ile-de-France,Chelles
+109,Malaysia,Southeast Asia,Pahang,Kuantan
+110,United States,South,Virginia,Harrisonburg
+111,United States,East,Massachusetts,Everett
+112,Ecuador,South,Pichincha,Quito
+113,India,Central Asia,Gujarat,Vadodara
+114,China,North Asia,Hainan,Sanya
+115,Thailand,Southeast Asia,Bangkok,Bangkok
+116,United States,West,California,San Diego
+117,Indonesia,Southeast Asia,Jawa Barat,Tasikmalaya
+118,Mexico,North,Sonora,Guaymas
+119,China,North Asia,Hubei,Wuhan
+120,United States,Central,Wisconsin,Madison
+121,Brazil,South,São Paulo,Salto
+122,Italy,South,Veneto,Treviso
+123,Somalia,Africa,Woqooyi Galbeed,Hargeysa
+124,United States,West,California,Long Beach
+125,Indonesia,Southeast Asia,Yogyakarta,Yogyakarta
+126,China,North Asia,Liaoning,Anshan
+127,Netherlands,Central,North Holland,Amsterdam
+128,France,Central,Upper Normandy,Le Petit-Quevilly
+129,Germany,Central,North Rhine-Westphalia,Bochum
+130,Germany,Central,Hamburg,Hamburg
+131,United States,Central,Texas,Houston
+132,Guatemala,Central,Guatemala,Mixco
+133,United States,East,New York,Yonkers
+134,Mexico,North,Michoacán,Morelia
+135,China,North Asia,Jilin,Changchun
+136,Spain,South,Madrid,Madrid
+137,Saudi Arabia,EMEA,Makkah,Jeddah
+138,United States,Central,Oklahoma,Norman
+139,Indonesia,Southeast Asia,Sumatera Utara,Medan
+140,Indonesia,Southeast Asia,Jakarta,Jakarta
+141,United States,East,Ohio,Lancaster
+142,Indonesia,Southeast Asia,Jawa Tengah,Surakarta
+143,China,North Asia,Beijing,Beijing
+144,Mexico,North,Hidalgo,Tulancingo
+145,Belarus,EMEA,Brest,Brest
+146,Spain,South,Valenciana,Valencia
+147,United States,South,North Carolina,Charlotte
+148,Ukraine,EMEA,Zhytomyr,Zhytomyr
+149,France,Central,Ile-de-France,Argenteuil
+150,France,Central,Aquitaine,Talence
+151,India,Central Asia,Bihar,Aurangabad
+152,France,Central,Ile-de-France,Plaisir
+153,United Kingdom,North,England,Harrogate
+154,Cambodia,Southeast Asia,Phnom Penh,Phnom Penh
+155,Australia,Oceania,Queensland,Mackay
+156,United States,West,Nevada,North Las Vegas
+157,Indonesia,Southeast Asia,Jambi,Jambi
+158,Germany,Central,North Rhine-Westphalia,Moers
+159,United States,East,Delaware,Newark
+160,China,North Asia,Guangdong,Shenzhen
+161,Australia,Oceania,Tasmania,Launceston
+162,Philippines,Southeast Asia,National Capital,Marikina
+163,South Africa,Africa,Gauteng,Johannesburg
+164,Spain,South,Basque Country,Barakaldo
+165,United States,East,Rhode Island,Providence
+166,United States,East,New York,Long Beach
+167,China,North Asia,Shandong,Qingdao
+168,United States,West,California,San Francisco
+169,Iran,EMEA,Fars,Shiraz
+170,India,Central Asia,Jharkhand,Bokaro
+171,Japan,North Asia,Shizuoka,Fuji
+172,Spain,South,Valenciana,Benidorm
+173,India,Central Asia,Kerala,Kozhikode
+174,Malaysia,Southeast Asia,Kuala Lumpur,Kuala Lumpur
+175,Russia,EMEA,Astrakhan',Astrakhan'
+176,United States,East,Ohio,Columbus
+177,China,North Asia,Hunan,Xiangtan
+178,China,North Asia,Zhejiang,Shaoxing
+179,India,Central Asia,Madhya Pradesh,Jabalpur
+180,India,Central Asia,Bihar,Patna
+181,France,Central,Pays de la Loire,La Baule-Escoublac
+182,France,Central,Burgundy,Dijon
+183,South Africa,Africa,Western Cape,Cape Town
+184,Egypt,Africa,Al Qahirah,Cairo
+185,United Kingdom,North,England,West Bromwich
+186,Azerbaijan,EMEA,Baki,Baku
+187,United Kingdom,North,England,Burnley
+188,France,Central,Pays de la Loire,Laval
+189,Lithuania,EMEA,Vilnius,Vilnius
+190,Argentina,South,Buenos Aires,Buenos Aires
+191,Egypt,Africa,Suhaj,Girga
+192,India,Central Asia,Kerala,Kochi
+193,Lesotho,Africa,Maseru,Maseru
+194,New Zealand,Oceania,Wellington,Wellington
+195,China,North Asia,Henan,Luoyang
+196,Brazil,South,Bahia,Feira de Santana
+197,Nicaragua,Central,Matagalpa,Matagalpa
+198,United States,South,Virginia,Virginia Beach
+199,Nicaragua,Central,Managua,Managua
+200,China,North Asia,Inner Mongolia,Wuhai
+201,France,Central,Pays de la Loire,Nantes
+202,France,Central,Alsace,Strasbourg
+203,Indonesia,Southeast Asia,Jawa Timur,Surabaya
+204,Brazil,South,São Paulo,Tupã
+205,Austria,Central,Vienna,Vienna
+206,Mexico,North,Distrito Federal,Mexico City
+207,Australia,Oceania,Tasmania,Hobart
+208,Japan,North Asia,Osaka,Hirakata
+209,United Kingdom,North,England,Preston
+210,India,Central Asia,Uttar Pradesh,Agra
+211,Spain,South,Catalonia,Granollers
+212,Vietnam,Southeast Asia,Ho Chí Minh City,Ho Chi Minh City
+213,Cuba,Caribbean,Camagüey,Camagüey
+214,United States,East,New Jersey,Morristown
+215,Romania,EMEA,Neamt,Piatra-Neamt
+216,Mexico,North,Distrito Federal,Milpa Alta
+217,Mexico,North,Guanajuato,León
+218,Turkey,EMEA,Izmir,Izmir
+219,Mexico,North,Distrito Federal,Coyoacán
+220,New Zealand,Oceania,Auckland,Manukau City
+221,Cameroon,Africa,Centre,Yaounde
+222,United Kingdom,North,England,Newcastle upon Tyne
+223,India,Central Asia,Uttarakhand,Dehra Dun
+224,Spain,South,Cantabria,Santander
+225,China,North Asia,Hebei,Cangzhou
+226,China,North Asia,Shanghai,Shanghai
+227,Nicaragua,Central,León,León
+228,Russia,EMEA,Yaroslavl',Rybinsk
+229,Brazil,South,São Paulo,Ibiúna
+230,Australia,Oceania,Australian Capital Territory,Canberra
+231,South Africa,Africa,Eastern Cape,Port Elizabeth
+232,United States,East,Ohio,Newark
+233,United Kingdom,North,England,Cambridge
+234,India,Central Asia,Chhattisgarh,Kota
+235,New Zealand,Oceania,Canterbury,Christchurch
+236,France,Central,Ile-de-France,Vincennes
+237,China,North Asia,Chongqing,Chongqing
+238,Hungary,EMEA,Bekes,Gyula
+239,India,Central Asia,Uttar Pradesh,Lucknow
+240,United States,South,Kentucky,Florence
+241,Italy,South,Piedmont,Turin
+242,United States,Central,Missouri,Springfield
+243,Singapore,Southeast Asia,Singapore,Singapore
+244,Angola,Africa,Benguela,Benguela
+245,United States,Central,Indiana,Lafayette
+246,Japan,North Asia,Hyogo,Himeji
+247,Indonesia,Southeast Asia,Sulawesi Tenggara,Kendari
+248,El Salvador,Central,San Salvador,Mejicanos
+249,Spain,South,Catalonia,Barcelona
+250,France,Central,Provence-Alpes-Côte d'Azur,Menton
+251,United States,South,Alabama,Huntsville
+252,France,Central,Auvergne,Clermont-Ferrand
+253,Romania,EMEA,Buzau,Buzau
+254,Brazil,South,Paraíba,Bayeux
+255,United States,South,Georgia,Columbus
+256,United States,Central,Texas,San Antonio
+257,Australia,Oceania,Northern Territory,Darwin
+258,United States,East,New York,Jamestown
+259,France,Central,Lower Normandy,Bayeux
+260,France,Central,Nord-Pas-de-Calais,Lens
+261,France,Central,Brittany,Lannion
+262,Germany,Central,North Rhine-Westphalia,Iserlohn
+263,Democratic Republic of the Congo,Africa,Katanga,Kalemie
+264,Belgium,Central,East Flanders,Ghent
+265,United States,Central,Indiana,Indianapolis
+266,France,Central,Provence-Alpes-Côte d'Azur,Marseille
+267,Pakistan,Central Asia,Punjab,Lahore
+268,France,Central,Rhône-Alpes,Grenoble
+269,Finland,North,Uusimaa,Espoo
+270,Australia,Oceania,South Australia,Whyalla
+271,France,Central,Ile-de-France,Ivry-sur-Seine
+272,India,Central Asia,Uttar Pradesh,Kanpur
+273,France,Central,Provence-Alpes-Côte d'Azur,Saint-Laurent-du-Var
+274,Colombia,South,Bolívar,Cartagena
+275,Mexico,North,Quintana Roo,Cancún
+276,China,North Asia,Heilongjiang,Harbin
+277,Ghana,Africa,Ashanti,Kumasi
+278,India,Central Asia,Tamil Nadu,Salem
+279,France,Central,Pays de la Loire,Angers
+280,Iran,EMEA,Lorestan,Khorramabad
+281,India,Central Asia,Tamil Nadu,Chennai
+282,Italy,South,Apulia,Barletta
+283,United Kingdom,North,England,Tamworth
+284,India,Central Asia,West Bengal,Kulti
+285,France,Central,Pays de la Loire,Le Mans
+286,China,North Asia,Sichuan,Mianyang
+287,Mexico,North,Nuevo León,Cadereyta
+288,Australia,Oceania,Queensland,Bundaberg
+289,Brazil,South,Goiás,Valparaíso de Goiás
+290,Indonesia,Southeast Asia,Sulawesi Utara,Manado
+291,India,Central Asia,Bihar,Muzaffarpur
+292,Iran,EMEA,Kermanshah,Kermanshah
+293,India,Central Asia,Maharashtra,Thane
+294,Colombia,South,Santander,Piedecuesta
+295,India,Central Asia,Karnataka,Bangalore
+296,China,North Asia,Fujian,Xiamen
+297,Zambia,Africa,Copperbelt,Kitwe
+298,China,North Asia,Guangdong,Jieyang
+299,Japan,North Asia,Shizuoka,Hamamatsu
+300,China,North Asia,Zhejiang,Ningbo
+301,India,Central Asia,Rajasthan,Jodhpur
+302,Germany,Central,Thuringia,Weimar
+303,New Zealand,Oceania,Auckland,Auckland
+304,Democratic Republic of the Congo,Africa,Katanga,Lubumbashi
+305,United States,Central,Wisconsin,Franklin
+306,United States,Central,Nebraska,Omaha
+307,India,Central Asia,Maharashtra,Nagpur
+308,Mexico,North,Tabasco,Villahermosa
+309,France,Central,Rhône-Alpes,Oyonnax
+310,Mexico,North,México,Metepec
+311,United States,West,California,Santa Ana
+312,France,Central,Ile-de-France,Antony
+313,Mexico,North,Sinaloa,Culiacán
+314,United States,South,Alabama,Mobile
+315,Iraq,EMEA,Maysan,Al Amarah
+316,Iran,EMEA,Razavi Khorasan,Mashhad
+317,United States,South,Virginia,Springfield
+318,India,Central Asia,Gujarat,Bhavnagar
+319,Italy,South,Lazio,Rome
+320,Spain,South,Balearic Islands,Palma de Mallorca
+321,France,Central,Rhône-Alpes,Saint-Priest
+322,Hungary,EMEA,Gyor,Gyor
+323,Liberia,Africa,Montserrado,Monrovia
+324,Cuba,Caribbean,Santiago de Cuba,Santiago de Cuba
+325,Colombia,South,Bogota,Bogotá
+326,Germany,Central,Bavaria,Erlangen
+327,Georgia,EMEA,Tbilisi,Tbilisi
+328,India,Central Asia,Rajasthan,Jaipur
+329,China,North Asia,Gansu,Suzhou
+330,Italy,South,Emilia-Romagna,Reggio nell'Emilia
+331,Mexico,North,Distrito Federal,Azcapotzalco
+332,Poland,EMEA,Lublin,Lublin
+333,Switzerland,Central,Zürich,Zurich
+334,Albania,EMEA,Elbasan,Elbasan
+335,Russia,EMEA,Voronezh,Voronezh
+336,Japan,North Asia,Yamaguchi,Shimonoseki
+337,Indonesia,Southeast Asia,Sulawesi Tengah,Palu
+338,India,Central Asia,Manipur,Imphal
+339,China,North Asia,Liaoning,Shenyang
+340,United States,East,Pennsylvania,Bethlehem
+341,Chad,Africa,Mandoul,Koumra
+342,Australia,Oceania,Victoria,Ballarat
+343,Montenegro,EMEA,Podgorica,Podgorica
+344,Brazil,South,São Paulo,Ribeirão Preto
+345,Mexico,North,Jalisco,Zapopan
+346,Canada,Canada,Ontario,Guelph
+347,United States,West,Washington,Bellingham
+348,France,Central,Aquitaine,Bordeaux
+349,Iran,EMEA,Hamadan,Hamadan
+350,Namibia,Africa,Khomas,Windhoek
+351,Netherlands,Central,North Brabant,Eindhoven
+352,Guatemala,Central,Quezaltenango,Quetzaltenango
+353,El Salvador,Central,La Libertad,Antiguo Cuscatlán
+354,United States,East,Rhode Island,Cranston
+355,Cuba,Caribbean,Guantánamo,Guantánamo
+356,Philippines,Southeast Asia,Western Visayas,Bacolod City
+357,Australia,Oceania,Western Australia,Kwinana
+358,France,Central,Ile-de-France,Deuil-la-Barre
+359,United States,South,Louisiana,Lafayette
+360,Portugal,South,Lisboa,Lisbon
+361,India,Central Asia,Uttar Pradesh,Jhansi
+362,India,Central Asia,Maharashtra,Amravati
+363,China,North Asia,Liaoning,Wafangdian
+364,Dominican Republic,Caribbean,San Juan,San Juan de la Maguana
+365,Madagascar,Africa,Analamanga,Antananarivo
+366,Russia,EMEA,Bashkortostan,Ufa
+367,Iran,EMEA,Tehran,Tehran
+368,Australia,Oceania,Victoria,Bendigo
+369,Pakistan,Central Asia,Baluchistan,Quetta
+370,Italy,South,Veneto,Rovigo
+371,Colombia,South,Cundinamarca,Soacha
+372,United Kingdom,North,England,Dudley
+373,Austria,EMEA,Vienna,Vienna
+374,France,Central,Ile-de-France,Ris-Orangis
+375,France,Central,Ile-de-France,Levallois-Perret
+376,Ukraine,EMEA,Volyn,Luts'k
+377,El Salvador,Central,San Salvador,San Salvador
+378,United States,East,Ohio,Lorain
+379,United Kingdom,North,England,Stoke-on-Trent
+380,Brazil,South,São Paulo,São Paulo
+381,China,North Asia,Anhui,Huaibei
+382,United States,West,Utah,Lehi
+383,New Zealand,Oceania,Wellington,Masterton
+384,New Zealand,Oceania,Northland,Whangarei
+385,China,North Asia,Yunnan,Kunming
+386,United States,Central,Missouri,Columbia
+387,Canada,Canada,British Columbia,Vancouver
+388,Spain,South,Navarra,Pamplona
+389,Sweden,North,Stockholm,Haninge
+390,Spain,South,Asturias,Oviedo
+391,United States,Central,Texas,Carrollton
+392,India,Central Asia,Maharashtra,Nasik
+393,Spain,South,Valenciana,Torrevieja
+394,Japan,North Asia,Yamaguchi,Ube
+395,Italy,South,Campania,Pozzuoli
+396,Ukraine,EMEA,Poltava,Poltava
+397,Indonesia,Southeast Asia,Yogyakarta,Depok
+398,Germany,Central,Bavaria,Regensburg
+399,India,Central Asia,Andhra Pradesh,Visakhapatnam
+400,France,Central,Ile-de-France,Clamart
+401,Germany,Central,Lower Saxony,Garbsen
+402,China,North Asia,Heilongjiang,Jixi
+403,South Africa,Africa,North-West,Potchefstroom
+404,Russia,EMEA,Vladimir,Vladimir
+405,Spain,South,Castile and León,Burgos
+406,India,Central Asia,Kerala,Kollam
+407,Myanmar (Burma),Southeast Asia,Yangon,Yangon
+408,France,Central,Ile-de-France,Bondy
+409,France,Central,Aquitaine,Mont-de-Marsan
+410,France,Central,Rhône-Alpes,Lyon
+411,Indonesia,Southeast Asia,Jawa Barat,Depok
+412,Brazil,South,São Paulo,Santo André
+413,Germany,Central,North Rhine-Westphalia,Menden
+414,Jamaica,Caribbean,Saint Catherine,Spanish Town
+415,New Zealand,Oceania,Waikato,Taupo
+416,China,North Asia,Liaoning,Fengcheng
+417,France,Central,Upper Normandy,Vernon
+418,China,North Asia,Tianjin,Tianjin
+419,Mexico,North,Chihuahua,Chihuahua
+420,Spain,South,Valenciana,Elx
+421,Dominican Republic,Caribbean,Barahona,Santa Cruz de Barahona
+422,Brazil,South,Federal District,Brasília
+423,China,North Asia,Gansu,Lanzhou
+424,Italy,South,Emilia-Romagna,Bologna
+425,Australia,Oceania,Northern Territory,Alice Springs
+426,Qatar,EMEA,Ad Dawhah,Doha
+427,Italy,South,Lazio,Velletri
+428,Japan,North Asia,Oita,Matsubara
+429,United Kingdom,North,England,Gloucester
+430,France,Central,Ile-de-France,Puteaux
+431,Australia,Oceania,Victoria,Geelong
+432,New Zealand,Oceania,Bay of Plenty,Whakatane
+433,Brazil,South,Rio Grande do Norte,Açu
+434,United Kingdom,North,England,Colchester
+435,United States,South,Georgia,Sandy Springs
+436,France,Central,Languedoc-Roussillon,Montpellier
+437,Germany,Central,Hesse,Wetzlar
+438,United States,East,Ohio,Cleveland
+439,China,North Asia,Hubei,Shashi
+440,China,North Asia,Jilin,Chaoyang
+441,United Kingdom,North,England,Rugby
+442,United States,Central,Texas,Round Rock
+443,France,Central,Rhône-Alpes,Saint-Chamond
+444,France,Central,Ile-de-France,Fontenay-aux-Roses
+445,China,North Asia,Inner Mongolia,Baotou
+446,United States,Central,Texas,Fort Worth
+447,Brazil,South,Santa Catarina,Joinville
+448,Brazil,South,Parana,Colombo
+449,United States,East,New Hampshire,Dover
+450,China,North Asia,Shandong,Jining
+451,China,North Asia,Jiangsu,Zhenjiang
+452,United Kingdom,North,England,York
+453,China,North Asia,Inner Mongolia,Jining
+454,Mexico,North,Yucatán,Mérida
+455,Guatemala,Central,Guatemala,Villa Nueva
+456,France,Central,Rhône-Alpes,Annecy-le-Vieux
+457,France,Central,Ile-de-France,Drancy
+458,United States,South,Florida,Jacksonville
+459,Tanzania,Africa,Dar Es Salaam,Dar es Salaam
+460,Germany,Central,Bavaria,Nuremberg
+461,United States,West,California,Concord
+462,China,North Asia,Hubei,Macheng
+463,Morocco,Africa,Tadla-Azilal,Beni Mellal
+464,United States,South,Georgia,Roswell
+465,India,Central Asia,Tamil Nadu,Madurai
+466,Germany,Central,North Rhine-Westphalia,Dortmund
+467,Republic of the Congo,Africa,Niari,Loubomo
+468,China,North Asia,Guangdong,Jiangmen
+469,United States,East,Ohio,Troy
+470,Russia,EMEA,Kaliningrad,Kaliningrad
+471,Norway,North,Vest-Agder,Kristiansand
+472,Iraq,EMEA,Al Qadisiyah,Ad Diwaniyah
+473,France,Central,Aquitaine,Bayonne
+474,United States,West,Arizona,Avondale
+475,United States,East,Ohio,Fairfield
+476,Cuba,Caribbean,Mayabeque,San José de las Lajas
+477,Algeria,Africa,Alger,Algiers
+478,United States,East,Massachusetts,Lowell
+479,Turkey,EMEA,Istanbul,Istanbul
+480,Lithuania,EMEA,Kaunas,Kaunas
+481,Iran,EMEA,Ardabil,Ardabil
+482,Mexico,North,Baja California,Mexicali
+483,Saudi Arabia,EMEA,Makkah,Mecca
+484,Egypt,Africa,Al Iskandariyah,Alexandria
+485,Australia,Oceania,New South Wales,Queanbeyan
+486,China,North Asia,Guangxi,Guilin
+487,China,North Asia,Shandong,Gaomi
+488,South Africa,Africa,Gauteng,Pretoria
+489,United Kingdom,North,England,Blackpool
+490,Germany,Central,Mecklenburg-Vorpommern,Schwerin
+491,India,Central Asia,Uttar Pradesh,Aligarh
+492,Italy,South,Trentino-Alto Adige,Trento
+493,Italy,South,Emilia-Romagna,Ravenna
+494,Switzerland,Central,Basel-Stadt,Basel
+495,Mozambique,Africa,Maputo,Matola
+496,France,Central,Poitou-Charentes,Poitiers
+497,South Korea,North Asia,Seoul,Seoul
+498,France,Central,Alsace,Mulhouse
+499,Italy,South,Lombardy,Milan
+500,Malaysia,Southeast Asia,Sabah,Kota Kinabalu
+501,United States,West,Colorado,Denver
+502,Brazil,South,Minas Gerais,Uberaba
+503,France,Central,Ile-de-France,Rueil-Malmaison
+504,United Kingdom,North,England,Crawley
+505,Nigeria,Africa,Benue,Makurdi
+506,Estonia,EMEA,Harjumaa,Tallinn
+507,United Kingdom,North,Wales,Swansea
+508,Brazil,South,Parana,Paranaguá
+509,Indonesia,Southeast Asia,Kalimantan Timur,Samarinda
+510,India,Central Asia,Andhra Pradesh,Vijayawada
+511,Turkey,EMEA,Balikesir,Bandirma
+512,Cote d'Ivoire,Africa,Fromager,Gagnoa
+513,Honduras,Central,Francisco Morazán,Tegucigalpa
+514,France,Central,Ile-de-France,Villiers-le-Bel
+515,Canada,Canada,Ontario,Brampton
+516,United States,East,Maryland,Columbia
+517,Mexico,North,Jalisco,Tlaquepaque
+518,France,Central,Ile-de-France,Saint-Denis
+519,India,Central Asia,Karnataka,Mangalore
+520,Cuba,Caribbean,Sancti Spíritus,Sancti Spíritus
+521,Brazil,South,Santa Catarina,Indaial
+522,Norway,North,Hordaland,Bergen
+523,Saudi Arabia,EMEA,Ar Riyad,Riyadh
+524,Switzerland,Central,Lucerne,Lucerne
+525,Paraguay,South,Central,Fernando de la Mora
+526,United States,Central,Indiana,Noblesville
+527,Iran,EMEA,Hamadan,Malayer
+528,Democratic Republic of the Congo,Africa,Kasai-Oriental,Mbuji-mayi
+529,India,Central Asia,Madhya Pradesh,Gwalior
+530,China,North Asia,Fujian,Luoyang
+531,United Kingdom,North,England,Southend-on-Sea
+532,France,Central,Lorraine,Thionville
+533,India,Central Asia,Jammu and Kashmir,Srinagar
+534,India,Central Asia,Uttar Pradesh,Allahabad
+535,Indonesia,Southeast Asia,Jawa Barat,Bekasi
+536,Cote d'Ivoire,Africa,Haut-Sassandra,Daloa
+537,Mexico,North,Coahuila,Saltillo
+538,United States,West,California,Anaheim
+539,United Kingdom,North,England,Woking
+540,Philippines,Southeast Asia,Cordillera,Baguio City
+541,Russia,EMEA,Chelyabinsk,Magnitogorsk
+542,India,Central Asia,Uttar Pradesh,Varanasi
+543,Brazil,South,Espírito Santo,Serra
+544,Italy,South,Tuscany,Florence
+545,United States,South,North Carolina,Raleigh
+546,Italy,South,Abruzzi,Pescara
+547,United States,East,Rhode Island,Warwick
+548,Bangladesh,Central Asia,Chittagong,Chittagong
+549,Mexico,North,Coahuila,Monclova
+550,United Kingdom,North,England,Worthing
+551,Brazil,South,São Paulo,Lençóis Paulista
+552,Australia,Oceania,New South Wales,Coffs Harbour
+553,Iraq,EMEA,Baghdad,Baghdad
+554,Italy,South,Apulia,San Severo
+555,Argentina,South,San Luis,San Luis
+556,China,North Asia,Guangdong,Guangzhou
+557,India,Central Asia,Tamil Nadu,Tiruppur
+558,Mexico,North,San Luis Potosí,San Luis Potosí
+559,France,Central,Ile-de-France,Le Chesnay
+560,Czech Republic,EMEA,Prague,Prague
+561,United States,Central,Michigan,Lansing
+562,France,Central,Upper Normandy,Dieppe
+563,France,Central,Provence-Alpes-Côte d'Azur,Gap
+564,United States,West,California,Redlands
+565,China,North Asia,Heilongjiang,Shuangcheng
+566,Central African Republic,Africa,Bangui,Bangui
+567,New Zealand,Oceania,Hawke's Bay,Hastings
+568,United States,West,California,Oakland
+569,Mexico,North,Guanajuato,Irapuato
+570,China,North Asia,Guangdong,Xinyi
+571,India,Central Asia,Rajasthan,Bhilwara
+572,Belgium,Central,Antwerp,Antwerp
+573,Australia,Oceania,New South Wales,Orange
+574,New Zealand,Oceania,Hawke's Bay,Napier
+575,Mexico,North,Coahuila,Torreón
+576,Japan,North Asia,Chiba,Noda
+577,Benin,Africa,Ouémé,Porto-Novo
+578,France,Central,Nord-Pas-de-Calais,Outreau
+579,United States,East,Vermont,Burlington
+580,United States,Central,Oklahoma,Muskogee
+581,France,Central,Rhône-Alpes,Bourg-en-Bresse
+582,Brazil,South,São Paulo,Americana
+583,Iran,EMEA,Esfahan,Kashan
+584,Australia,Oceania,Victoria,Sunbury
+585,Germany,Central,North Rhine-Westphalia,Herford
+586,United States,South,Virginia,Chesapeake
+587,Australia,Oceania,Queensland,Cairns
+588,Ukraine,EMEA,L'viv,L'viv
+589,Norway,North,Oslo,Oslo
+590,Iraq,EMEA,Arbil,Arbil
+591,United States,West,Washington,Des Moines
+592,United Kingdom,North,England,Bradford
+593,Dominican Republic,Caribbean,San Pedro de Macorís,San Pedro de Macorís
+594,Nicaragua,Central,Estelí,Estelí
+595,Spain,South,Basque Country,San Sebastian
+596,France,Central,Alsace,Schiltigheim
+597,United States,Central,Wisconsin,Milwaukee
+598,Cuba,Caribbean,Pinar del Río,Consolación del Sur
+599,Morocco,Africa,Tanger-Tétouan,Tangier
+600,Bolivia,South,Oruro,Oruro
+601,Germany,Central,Bavaria,Munich
+602,India,Central Asia,Maharashtra,Malegaon
+603,Germany,Central,North Rhine-Westphalia,Euskirchen
+604,Japan,North Asia,Gunma,Sakai
+605,Russia,EMEA,Amur,Blagoveshchensk
+606,Mexico,North,Baja California,Tijuana
+607,India,Central Asia,Telangana,Hyderabad
+608,France,Central,Ile-de-France,Villeneuve-Saint-Georges
+609,Japan,North Asia,Gunma,Takasaki
+610,India,Central Asia,Chhattisgarh,Bhilai
+611,United States,West,California,Santa Barbara
+612,United States,East,New York,Rochester
+613,Albania,EMEA,Durrës,Durres
+614,Germany,Central,Hesse,Frankfurt
+615,China,North Asia,Anhui,Anqing
+616,Mexico,North,Tamaulipas,Victoria
+617,United States,West,California,San Gabriel
+618,Chile,South,Atacama,Copiapó
+619,United States,East,Ohio,Cincinnati
+620,Mexico,North,Baja California,Ensenada
+621,Dominican Republic,Caribbean,La Romana,La Romana
+622,Martinique,Caribbean,Martinique,Fort-de-France
+623,United Kingdom,North,England,Kingswood
+624,Germany,Central,Rhineland-Palatinate,Trier
+625,United Kingdom,North,England,Leeds
+626,China,North Asia,Guangdong,Luoyang
+627,Brazil,South,Rio de Janeiro,Petrópolis
+628,Finland,North,Uusimaa,Vantaa
+629,United States,East,New York,Watertown
+630,France,Central,Ile-de-France,Noisy-le-Grand
+631,Syria,EMEA,Hims,Homs
+632,China,North Asia,Liaoning,Liaoyang
+633,United States,South,North Carolina,Fayetteville
+634,Brazil,South,Tocantins,Araguaína
+635,Indonesia,Southeast Asia,Bali,Denpasar
+636,France,Central,Provence-Alpes-Côte d'Azur,Toulon
+637,India,Central Asia,Maharashtra,Pune
+638,United States,West,Arizona,Tucson
+639,United States,South,Florida,Miami
+640,South Korea,North Asia,Gyeonggi,Goyang
+641,India,Central Asia,Maharashtra,Kalyan
+642,Bangladesh,Central Asia,Khulna,Khulna
+643,India,Central Asia,Tamil Nadu,Avadi
+644,Indonesia,Southeast Asia,Jawa Tengah,Semarang
+645,Germany,Central,Baden-Württemberg,Stuttgart
+646,Russia,EMEA,Chelyabinsk,Chelyabinsk
+647,China,North Asia,Guangdong,Zhanjiang
+648,United States,South,North Carolina,Greenville
+649,China,North Asia,Hunan,Yueyang
+650,United States,West,Colorado,Pueblo
+651,Germany,Central,Baden-Württemberg,Reutlingen
+652,France,Central,Nord-Pas-de-Calais,Arras
+653,Japan,North Asia,Chiba,Matsudo
+654,Cuba,Caribbean,Granma,Bayamo
+655,Mexico,North,Tamaulipas,Reynosa
+656,United Kingdom,North,England,Chester
+657,Germany,Central,Mecklenburg-Vorpommern,Rostock
+658,Belgium,Central,Namur,Namur
+659,Germany,Central,North Rhine-Westphalia,Aachen
+660,Iran,EMEA,Gilan,Rasht
+661,Brazil,South,Maranhão,Grajaú
+662,Japan,North Asia,Saitama,Koshigaya
+663,Lebanon,EMEA,Beirut,Beirut
+664,Spain,South,Andalusía,Huelva
+665,China,North Asia,Anhui,Hefei
+666,United States,South,Kentucky,Louisville
+667,Philippines,Southeast Asia,National Capital,Valenzuela
+668,India,Central Asia,Tamil Nadu,Thanjavur
+669,Indonesia,Southeast Asia,Jawa Tengah,Tegal
+670,Canada,Canada,Ontario,Kitchener
+671,France,Central,Ile-de-France,Sevran
+672,United Kingdom,North,England,Hastings
+673,Sweden,North,Halland,Halmstad
+674,Netherlands,Central,North Holland,Amstelveen
+675,Italy,South,Campania,Portici
+676,United States,East,Ohio,Toledo
+677,United States,West,Nevada,Sparks
+678,Australia,Oceania,South Australia,Murray Bridge
+679,China,North Asia,Shandong,Tengzhou
+680,France,Central,Ile-de-France,Bagneux
+681,Indonesia,Southeast Asia,Kalimantan Timur,Balikpapan
+682,India,Central Asia,Punjab,Bhatinda
+683,Mexico,North,Veracruz,Poza Rica de Hidalgo
+684,France,Central,Alsace,Colmar
+685,France,Central,Ile-de-France,Clichy-sous-Bois
+686,France,Central,Provence-Alpes-Côte d'Azur,La Seyne-sur-Mer
+687,Philippines,Southeast Asia,Calabarzon,Antipolo
+688,France,Central,Picardy,Creil
+689,Brazil,South,Parana,Curitiba
+690,Morocco,Africa,Rabat-Salé-Zemmour-Zaer,Sale
+691,Australia,Oceania,New South Wales,Albury
+692,Turkey,EMEA,Kutahya,Kutahya
+693,China,North Asia,Heilongjiang,Daqing
+694,United States,South,Virginia,Waynesboro
+695,Australia,Oceania,Queensland,Rockhampton
+696,Ghana,Africa,Greater Accra,Accra
+697,Brazil,South,Minas Gerais,Conselheiro Lafaiete
+698,China,North Asia,Jiangsu,Jiangdu
+699,Bolivia,South,Cochabamba,Cochabamba
+700,United Kingdom,North,England,Wolverhampton
+701,India,Central Asia,Maharashtra,Mumbai
+702,Australia,Oceania,Queensland,Caloundra
+703,Chile,South,Biobio,Talcahuano
+704,Chile,South,Santiago,Santiago
+705,Kenya,Africa,Nairobi,Nairobi
+706,United States,Central,Illinois,Aurora
+707,New Zealand,Oceania,Taranaki,New Plymouth
+708,Italy,South,Lombardy,Sesto San Giovanni
+709,United States,South,Alabama,Florence
+710,China,North Asia,Hebei,Tangshan
+711,Canada,Canada,Alberta,Edmonton
+712,Australia,Oceania,New South Wales,Lismore
+713,Mali,Africa,Sikasso,Sikasso
+714,Brazil,South,Amapá,Macapá
+715,United Kingdom,North,England,Nottingham
+716,Australia,Oceania,Western Australia,Mandurah
+717,Italy,South,Veneto,Venice
+718,Germany,Central,North Rhine-Westphalia,Dormagen
+719,Spain,South,Basque Country,Bilbao
+720,Turkey,EMEA,Istanbul,Bagcilar
+721,France,Central,Poitou-Charentes,Bressuire
+722,France,Central,Ile-de-France,Houilles
+723,India,Central Asia,Maharashtra,Solapur
+724,Italy,South,Tuscany,Capannori
+725,Japan,North Asia,Saitama,Kawagoe
+726,China,North Asia,Jiangsu,Yangzhou
+727,Mexico,North,Nuevo León,Monterrey
+728,United States,Central,Michigan,Ann Arbor
+729,Libya,Africa,Misratah,Misratah
+730,Mexico,North,Distrito Federal,Tlalpan
+731,Cuba,Caribbean,Matanzas,Matanzas
+732,Vietnam,Southeast Asia,Tỉnh Cần Thơ,Can Tho
+733,United States,Central,Indiana,Greenwood
+734,Cuba,Caribbean,Las Tunas,Las Tunas
+735,United States,West,Arizona,Phoenix
+736,France,Central,Ile-de-France,Villeneuve-le-Roi
+737,France,Central,Provence-Alpes-Côte d'Azur,Vitrolles
+738,India,Central Asia,Tamil Nadu,Tiruchchirappalli
+739,China,North Asia,Hunan,Hengyang
+740,United States,South,Florida,Hialeah
+741,United States,South,Georgia,Marietta
+742,El Salvador,Central,San Salvador,Ilopango
+743,Turkey,EMEA,Izmir,Torbali
+744,India,Central Asia,Maharashtra,Bhiwandi
+745,New Zealand,Oceania,Manawatu-Wanganui,Palmerston North
+746,China,North Asia,Henan,Kaifeng
+747,United States,West,Colorado,Thornton
+748,United States,South,Kentucky,Georgetown
+749,Chile,South,Valparaíso,Villa Alemana
+750,Mexico,North,México,Tlalnepantla
+751,Brazil,South,Rio de Janeiro,São Gonçalo
+752,United States,South,Kentucky,Richmond
+753,Poland,EMEA,Silesia,Katowice
+754,Venezuela,South,Lara,Carora
+755,Spain,South,Valenciana,Orihuela
+756,United States,Central,Oklahoma,Tulsa
+757,Iran,EMEA,Fars,Fasa
+758,Trinidad and Tobago,Caribbean,San Fernando,San Fernando
+759,Germany,Central,Rhineland-Palatinate,Mainz
+760,Germany,Central,North Rhine-Westphalia,Gronau
+761,China,North Asia,Anhui,Bengbu
+762,Ireland,North,Dublin,Dublin
+763,France,Central,Provence-Alpes-Côte d'Azur,Antibes
+764,Brazil,South,Rio Grande do Norte,Natal
+765,France,Central,Brittany,Concarneau
+766,United States,South,Florida,Lakeland
+767,United States,West,California,Brentwood
+768,Germany,Central,North Rhine-Westphalia,Solingen
+769,Australia,Oceania,Northern Territory,Palmerston
+770,Morocco,Africa,Marrakech-Tensift-El Haouz,Marrakech
+771,Germany,Central,North Rhine-Westphalia,Cologne
+772,United Kingdom,North,England,Reading
+773,China,North Asia,Hubei,Xinshi
+774,Bulgaria,EMEA,Sofiya-Grad,Sofia
+775,Ukraine,EMEA,Dnipropetrovs'k,Kryvyy Rih
+776,France,Central,Ile-de-France,Cachan
+777,United Kingdom,North,England,Carlisle
+778,United States,West,Utah,Pleasant Grove
+779,Colombia,South,Quindío,Montenegro
+780,United States,South,North Carolina,Asheville
+781,Malaysia,Southeast Asia,Perak,Ipoh
+782,China,North Asia,Hubei,Xiaogan
+783,China,North Asia,Shanxi,Yuci
+784,Russia,EMEA,Dagestan,Makhachkala
+785,China,North Asia,Jilin,Gongzhuling
+786,Australia,Oceania,Tasmania,Devonport
+787,Germany,Central,North Rhine-Westphalia,Bottrop
+788,Indonesia,Southeast Asia,Jawa Timur,Jember
+789,China,North Asia,Jilin,Shulan
+790,Germany,Central,Baden-Württemberg,Ulm
+791,United Kingdom,North,England,Sheffield
+792,Algeria,Africa,Guelma,Guelma
+793,Sweden,North,Stockholm,Stockholm
+794,China,North Asia,Shandong,Liaocheng
+795,Austria,Central,Tyrol,Innsbruck
+796,China,North Asia,Guangdong,Shantou
+797,United States,Central,Illinois,Rockford
+798,Panama,Central,Panama,Panama City
+799,Brazil,South,Pernambuco,Cabo de Santo Agostinho
+800,Germany,Central,North Rhine-Westphalia,Castrop-Rauxel
+801,France,Central,Ile-de-France,Saint-Germain-en-Laye
+802,India,Central Asia,Odisha,Cuttack
+803,Netherlands,Central,North Brabant,Tilburg
+804,Spain,South,Madrid,Parla
+805,India,Central Asia,Punjab,Ludhiana
+806,China,North Asia,Shanxi,Xinzhou
+807,United States,West,Arizona,Glendale
+808,France,Central,Poitou-Charentes,La Rochelle
+809,Colombia,South,Atlántico,Soledad
+810,Israel,EMEA,Tel Aviv,Ramat Aviv
+811,Brazil,South,Pernambuco,Paulista
+812,Australia,Oceania,New South Wales,Wagga Wagga
+813,France,Central,Languedoc-Roussillon,Lunel
+814,Brazil,South,Paraíba,Cajazeiras
+815,China,North Asia,Shandong,Laiyang
+816,France,Central,Ile-de-France,Guyancourt
+817,Spain,South,Castile and León,Zamora
+818,United States,Central,Texas,Dallas
+819,Nigeria,Africa,Lagos,Lagos
+820,China,North Asia,Shandong,Ninghai
+821,Indonesia,Southeast Asia,Jawa Barat,Bogor
+822,France,Central,Lorraine,Nancy
+823,Colombia,South,Antioquia,Bello
+824,Guatemala,Central,Chimaltenango,Chimaltenango
+825,Canada,Canada,Ontario,Toronto
+826,Spain,South,Catalonia,El Prat de Llobregat
+827,Indonesia,Southeast Asia,Sumatera Utara,Pematangsiantar
+828,Spain,South,Castile-La Mancha,Albacete
+829,Cuba,Caribbean,Villa Clara,Santa Clara
+830,Brazil,South,Parana,Maringá
+831,Chile,South,Los Lagos,Osorno
+832,Italy,South,Apulia,Brindisi
+833,United Kingdom,North,England,Doncaster
+834,United States,Central,Nebraska,Fremont
+835,Mexico,North,Nuevo León,Santa Catarina
+836,Algeria,Africa,Annaba,Annaba
+837,Netherlands,Central,Utrecht,Utrecht
+838,Japan,North Asia,Nagasaki,Nagasaki
+839,Australia,Oceania,Western Australia,Albany
+840,Philippines,Southeast Asia,National Capital,Las Pinas
+841,United States,West,California,Westminster
+842,Malaysia,Southeast Asia,Selangor,Shah Alam
+843,United Kingdom,North,England,Birmingham
+844,Vietnam,Southeast Asia,Kiên Giang,Rach Gia
+845,China,North Asia,Guangdong,Dongguan
+846,France,Central,Ile-de-France,Fontainebleau
+847,Bolivia,South,Santa Cruz,Santa Cruz de la Sierra
+848,Ukraine,EMEA,Donetsk,Donets'k
+849,United States,South,North Carolina,Jacksonville
+850,United Kingdom,North,Wales,Cardiff
+851,United States,West,Washington,Spokane
+852,France,Central,Rhône-Alpes,Villeurbanne
+853,Mexico,North,México,Nicolás Romero
+854,Zambia,Africa,Copperbelt,Chililabombwe
+855,United States,East,Maryland,Baltimore
+856,France,Central,Ile-de-France,Nanterre
+857,China,North Asia,Xinjiang Uygur,Shihezi
+858,France,Central,Rhône-Alpes,Givors
+859,Haiti,Caribbean,Ouest,Carrefour
+860,Romania,EMEA,Brasov,Brasov
+861,France,Central,Auvergne,Vichy
+862,Japan,North Asia,Hiroshima,Kure
+863,United Kingdom,North,England,Derby
+864,Netherlands,Central,Gelderland,Arnhem
+865,Italy,South,Lazio,Aprilia
+866,New Zealand,Oceania,Auckland,Waitakere
+867,United States,Central,North Dakota,Fargo
+868,United States,West,Colorado,Aurora
+869,Vietnam,Southeast Asia,Thủ Dô Hà Nội,Hanoi
+870,Belgium,Central,Limburg,Genk
+871,Brazil,South,Pará,Castanhal
+872,Italy,South,Liguria,La Spezia
+873,China,North Asia,Jiangsu,Jiangyan
+874,United States,East,Delaware,Wilmington
+875,United States,East,Connecticut,Fairfield
+876,United Kingdom,North,England,Littlehampton
+877,Indonesia,Southeast Asia,Sumatera Barat,Padang
+878,China,North Asia,Henan,Yunyang
+879,India,Central Asia,Rajasthan,Fatehpur
+880,China,North Asia,Jiangsu,Changshu
+881,Ecuador,South,Los Rios,Quevedo
+882,China,North Asia,Jiangsu,Changzhou
+883,Saudi Arabia,EMEA,Al Jawf,Sakaka
+884,France,Central,Champagne-Ardenne,Saint-Dizier
+885,United Kingdom,North,England,Stourbridge
+886,Brazil,South,Maranhão,Presidente Dutra
+887,United States,Central,Texas,El Paso
+888,United Kingdom,North,England,Bognor Regis
+889,China,North Asia,Jiangsu,Xuzhou
+890,China,North Asia,Zhejiang,Ninghai
+891,Barbados,Caribbean,Saint Michael,Bridgetown
+892,United States,South,Florida,Fort Lauderdale
+893,France,Central,Picardy,Beauvais
+894,United Kingdom,North,England,South Shields
+895,United States,East,Connecticut,Manchester
+896,Mexico,North,Tamaulipas,Nuevo Laredo
+897,Nigeria,Africa,Kano,Kano
+898,India,Central Asia,Madhya Pradesh,Dewas
+899,Spain,South,Castile-La Mancha,Puertollano
+900,United States,East,Massachusetts,Lawrence
+901,Germany,Central,North Rhine-Westphalia,Bonn
+902,United States,West,California,Danville
+903,France,Central,Provence-Alpes-Côte d'Azur,Arles
+904,Spain,South,Murcia,Murcia
+905,United Kingdom,North,England,Liverpool
+906,Morocco,Africa,Fès-Boulemane,Fes
+907,United Kingdom,North,England,Farnborough
+908,China,North Asia,Sichuan,Suining
+909,Germany,Central,North Rhine-Westphalia,Herne
+910,Cuba,Caribbean,Ciego de Ávila,Ciego de Ávila
+911,Russia,EMEA,Arkhangel'sk,Arkhangelsk
+912,Slovenia,EMEA,Ljubljana,Ljubljana
+913,United States,East,Ohio,Marion
+914,Australia,Oceania,Queensland,Mount Isa
+915,Ukraine,EMEA,Chernihiv,Nizhyn
+916,Mali,Africa,Bamako,Bamako
+917,Uruguay,South,Montevideo,Montevideo
+918,Mexico,North,Nayarit,Tepic
+919,Ukraine,EMEA,Dnipropetrovs'k,Dnipropetrovs'k
+920,India,Central Asia,Uttar Pradesh,Gorakhpur
+921,Italy,South,Sicily,Catania
+922,France,Central,Ile-de-France,Grigny
+923,China,North Asia,Sichuan,Yibin
+924,Madagascar,Africa,Boeny,Mahajanga
+925,Algeria,Africa,Saida,Saida
+926,France,Central,Ile-de-France,Cergy
+927,Russia,EMEA,Stavropol',Arzgir
+928,United Kingdom,North,England,Gravesend
+929,China,North Asia,Beijing,Mentougou
+930,Mozambique,Africa,Nampula,Nampula
+931,United States,West,Washington,Edmonds
+932,Australia,Oceania,Victoria,Traralgon
+933,Ukraine,EMEA,Vinnytsya,Vinnytsya
+934,United States,Central,Illinois,Evanston
+935,United States,South,Louisiana,Bossier City
+936,New Zealand,Oceania,Canterbury,Timaru
+937,France,Central,Aquitaine,Libourne
+938,United States,South,Florida,Tampa
+939,Israel,EMEA,Southern,Ashdod
+940,Brazil,South,Minas Gerais,Patrocínio
+941,United Kingdom,North,England,Slough
+942,France,Central,Brittany,Rennes
+943,China,North Asia,Shanxi,Datong
+944,Germany,Central,North Rhine-Westphalia,Oberhausen
+945,Zambia,Africa,Eastern,Chipata
+946,Romania,EMEA,Galati,Galati
+947,Australia,Oceania,Queensland,Toowoomba
+948,France,Central,Ile-de-France,Bry-sur-Marne
+949,Brazil,South,Santa Catarina,Balneário Camboriú
+950,France,Central,Centre,Dreux
+951,France,Central,Midi-Pyrénées,Toulouse
+952,Libya,Africa,Banghazi,Benghazi
+953,Philippines,Southeast Asia,Calabarzon,Bacoor
+954,China,North Asia,Guangxi,Nanning
+955,Germany,Central,North Rhine-Westphalia,Stolberg
+956,Italy,South,Apulia,Bari
+957,China,North Asia,Qinghai,Xining
+958,Saudi Arabia,EMEA,Tabuk,Tabuk
+959,China,North Asia,Guizhou,Guiyang
+960,Mexico,North,Durango,Durango
+961,United States,Central,Wisconsin,Kenosha
+962,Japan,North Asia,Tokyo,Tokyo
+963,Israel,EMEA,Tel Aviv,Bene Beraq
+964,United Kingdom,North,England,Rotherham
+965,Ireland,North,Cork,Cork
+966,United States,Central,Indiana,Columbus
+967,South Africa,Africa,Gauteng,Roodepoort
+968,France,Central,Rhône-Alpes,Fontaine
+969,Morocco,Africa,Rabat-Salé-Zemmour-Zaer,Rabat
+970,United States,West,California,Temecula
+971,Brazil,South,São Paulo,José Bonifácio
+972,Zambia,Africa,Lusaka,Lusaka
+973,Iraq,EMEA,Al Basrah,Basra
+974,United States,West,California,Apple Valley
+975,China,North Asia,Guangdong,Meizhou
+976,Mexico,North,Sinaloa,Guasave
+977,United States,Central,Texas,Richardson
+978,Brazil,South,São Paulo,Santana de Parnaíba
+979,United States,South,Alabama,Montgomery
+980,United States,Central,Texas,Austin
+981,France,Central,Ile-de-France,Aubervilliers
+982,New Zealand,Oceania,Wellington,Upper Hutt
+983,France,Central,Ile-de-France,Neuilly-sur-Seine
+984,India,Central Asia,Haryana,Faridabad
+985,United States,West,California,Fairfield
+986,El Salvador,Central,Santa Ana,Santa Ana
+987,France,Central,Upper Normandy,Le Havre
+988,Tanzania,Africa,Mwanza,Mwanza
+989,United States,West,Utah,Orem
+990,Guatemala,Central,Guatemala,Petapa
+991,United States,South,Virginia,Newport News
+992,France,Central,Provence-Alpes-Côte d'Azur,Miramas
+993,South Africa,Africa,Gauteng,Mabopane
+994,Panama,Central,Chiriquí,David
+995,Spain,South,Andalusía,Dos Hermanas
+996,Mexico,North,Coahuila,Villa Frontera
+997,United States,East,Massachusetts,Franklin
+998,China,North Asia,Jiangsu,Suzhou
+999,United Kingdom,North,England,Hartlepool
+1000,Mexico,North,Veracruz,Orizaba
+1001,Mexico,North,Michoacán,Lázaro Cárdenas
+1002,South Korea,North Asia,Busan,Busan
+1003,United States,Central,Texas,Pearland
+1004,Cuba,Caribbean,Holguín,Holguín
+1005,India,Central Asia,Chhattisgarh,Korba
+1006,Italy,South,Lazio,Viterbo
+1007,France,Central,Languedoc-Roussillon,Carcassonne
+1008,Austria,Central,Carinthia,Villach
+1009,Italy,South,Apulia,Altamura
+1010,United States,West,Colorado,Longmont
+1011,China,North Asia,Hubei,Ezhou
+1012,Guatemala,Central,Escuintla,Escuintla
+1013,Pakistan,Central Asia,Punjab,Gujranwala
+1014,Germany,Central,Thuringia,Jena
+1015,United Kingdom,North,England,Oxford
+1016,India,Central Asia,Andhra Pradesh,Anantapur
+1017,Iran,EMEA,Qom,Qom
+1018,China,North Asia,Henan,Jiaozuo
+1019,United Kingdom,North,England,Portsmouth
+1020,Germany,Central,Lower Saxony,Hildesheim
+1021,United Kingdom,North,England,Sunderland
+1022,Egypt,Africa,Al Gharbiyah,Al Mahallah al Kubra
+1023,Argentina,South,Provincia de Buenos Aires,La Plata
+1024,Sweden,North,Skåne,Landskrona
+1025,Finland,North,Uusimaa,Helsinki
+1026,United States,West,Nevada,Las Vegas
+1027,Hungary,EMEA,Budapest,Budapest
+1028,United Kingdom,North,England,Bath
+1029,Togo,Africa,Maritime,Lome
+1030,Italy,South,Emilia-Romagna,Ferrara
+1031,France,Central,Ile-de-France,Palaiseau
+1032,United Kingdom,North,England,Gateshead
+1033,France,Central,Alsace,Saint-Louis
+1034,United States,East,New Jersey,Plainfield
+1035,Brazil,South,Bahia,Itamaraju
+1036,United Kingdom,North,England,Coventry
+1037,France,Central,Nord-Pas-de-Calais,Villeneuve-d'Ascq
+1038,India,Central Asia,Uttar Pradesh,Mathura
+1039,Germany,Central,Lower Saxony,Wilhelmshaven
+1040,Egypt,Africa,Al Bahr Al Ahmar,Hurghada
+1041,India,Central Asia,Bihar,Gaya
+1042,France,Central,Lorraine,Toul
+1043,Tanzania,Africa,Arusha,Arusha
+1044,Brazil,South,Minas Gerais,Ibirité
+1045,Mexico,North,Jalisco,Guadalajara
+1046,Mexico,North,Campeche,Ciudad del Carmen
+1047,India,Central Asia,Maharashtra,Kolhapur
+1048,Mexico,North,San Luis Potosí,Valles
+1049,United States,East,Massachusetts,Beverly
+1050,United States,East,New York,Buffalo
+1051,Germany,Central,Hesse,Kassel
+1052,United States,South,North Carolina,Greensboro
+1053,Dominican Republic,Caribbean,La Vega,La Vega
+1054,Mauritania,Africa,Nouakchott,Nouakchott
+1055,Senegal,Africa,Saint-Louis,Saint-Louis
+1056,Colombia,South,Magdalena,Santa Marta
+1057,Argentina,South,Córdoba,Córdoba
+1058,South Africa,Africa,Western Cape,George
+1059,Germany,Central,Baden-Württemberg,Sindelfingen
+1060,Japan,North Asia,Chiba,Kawaguchi
+1061,Guatemala,Central,Guatemala,Villa Canales
+1062,China,North Asia,Guizhou,Zunyi
+1063,China,North Asia,Heilongjiang,Wuchang
+1064,Mexico,North,Sonora,Hermosillo
+1065,France,Central,Nord-Pas-de-Calais,Douai
+1066,Japan,North Asia,Hiroshima,Fukuyama
+1067,Poland,EMEA,Silesia,Dabrowa Gornicza
+1068,Germany,Central,North Rhine-Westphalia,Essen
+1069,United States,West,Oregon,Gresham
+1070,Spain,South,Galicia,Santiago de Compostela
+1071,New Zealand,Oceania,Wellington,Paraparaumu
+1072,Argentina,South,San Juan,San Juan
+1073,Brazil,South,Amazonas,Manaus
+1074,France,Central,Ile-de-France,Mantes-la-Jolie
+1075,United Kingdom,North,Scotland,Glasgow
+1076,United States,West,Nevada,Reno
+1077,France,Central,Brittany,Pontivy
+1078,New Zealand,Oceania,Bay of Plenty,Tauranga
+1079,Netherlands,Central,South Holland,The Hague
+1080,Sweden,North,Värmland,Karlstad
+1081,India,Central Asia,Gujarat,Rajkot
+1082,India,Central Asia,Madhya Pradesh,Satna
+1083,China,North Asia,Shaanxi,Yulin
+1084,Cuba,Caribbean,Granma,Manzanillo
+1085,Iraq,EMEA,Karbala',Karbala'
+1086,Belarus,EMEA,Hrodna,Hrodna
+1087,United States,South,Tennessee,Clarksville
+1088,China,North Asia,Hubei,Guangshui
+1089,India,Central Asia,Rajasthan,Bikaner
+1090,India,Central Asia,Madhya Pradesh,Indore
+1091,United Kingdom,North,England,Wigan
+1092,Turkey,EMEA,Istanbul,Beykoz
+1093,France,Central,Provence-Alpes-Côte d'Azur,Le Cannet
+1094,United States,South,South Carolina,Columbia
+1095,India,Central Asia,Andhra Pradesh,Tirupati
+1096,Colombia,South,Caldas,Manizales
+1097,France,Central,Ile-de-France,Conflans-Sainte-Honorine
+1098,United Kingdom,North,England,Leicester
+1099,Angola,Africa,Luanda,Luanda
+1100,Democratic Republic of the Congo,Africa,Equateur,Mbandaka
+1101,Mexico,North,Morelos,Cuernavaca
+1102,Honduras,Central,Cortés,San Pedro Sula
+1103,China,North Asia,Fujian,Jinjiang
+1104,China,North Asia,Guangdong,Zhaoqing
+1105,United States,Central,Oklahoma,Broken Arrow
+1106,Spain,South,Castile and León,Ponferrada
+1107,France,Central,Ile-de-France,Yerres
+1108,United States,Central,Indiana,Lawrence
+1109,New Zealand,Oceania,Marlborough,Blenheim
+1110,France,Central,Rhône-Alpes,Rillieux-la-Pape
+1111,China,North Asia,Henan,Luohe
+1112,Netherlands,Central,South Holland,Spijkenisse
+1113,Guinea,Africa,Nzérékoré,Nzerekore
+1114,Nigeria,Africa,Kaduna,Zaria
+1115,Germany,Central,North Rhine-Westphalia,Bielefeld
+1116,France,Central,Ile-de-France,Stains
+1117,Dominican Republic,Caribbean,Duarte,San Francisco de Macorís
+1118,Italy,South,Apulia,Lecce
+1119,United States,West,Colorado,Colorado Springs
+1120,Brazil,South,Maranhão,São Luís
+1121,France,Central,Ile-de-France,Bagnolet
+1122,China,North Asia,Heilongjiang,Qitaihe
+1123,India,Central Asia,Uttar Pradesh,Meerut
+1124,Bulgaria,EMEA,Shumen,Shumen
+1125,Brazil,South,Minas Gerais,Ponte Nova
+1126,China,North Asia,Zhejiang,Jinhua
+1127,United Kingdom,North,England,Cheltenham
+1128,Nigeria,Africa,Kaduna,Kaduna
+1129,Netherlands,Central,North Brabant,Breda
+1130,Spain,South,Castile and León,Valladolid
+1131,France,Central,Ile-de-France,Courbevoie
+1132,Spain,South,Andalusía,Fuengirola
+1133,Belgium,Central,Hainaut,Charleroi
+1134,Algeria,Africa,Oran,Oran
+1135,Rwanda,Africa,Kigali,Kigali
+1136,Turkey,EMEA,Adana,Adana
+1137,Brazil,South,Minas Gerais,Nova Serrana
+1138,Spain,South,Castile-La Mancha,Guadalajara
+1139,United States,Central,Oklahoma,Oklahoma City
+1140,Brazil,South,Maranhão,Santa Helena
+1141,United States,West,Montana,Great Falls
+1142,Brazil,South,Minas Gerais,Belo Horizonte
+1143,Canada,Canada,Ontario,North York
+1144,United States,Central,Minnesota,Lakeville
+1145,Togo,Africa,Plateaux,Atakpame
+1146,Portugal,South,Lisboa,Amadora
+1147,Indonesia,Southeast Asia,Riau,Pekanbaru
+1148,United States,West,Colorado,Louisville
+1149,United States,South,Georgia,Smyrna
+1150,United States,Central,Minnesota,Saint Cloud
+1151,Colombia,South,Valle del Cauca,Jamundí
+1152,Cameroon,Africa,Ouest,Foumban
+1153,China,North Asia,Jilin,Jilin
+1154,France,Central,Ile-de-France,Versailles
+1155,Spain,South,Murcia,Lorca
+1156,Germany,Central,Lower Saxony,Langenhagen
+1157,Brazil,South,Ceará,Caucaia
+1158,Iran,EMEA,Lorestan,Borujerd
+1159,Brazil,South,Ceará,Fortaleza
+1160,South Korea,North Asia,Gyeonggi,Anyang
+1161,Mexico,North,Nuevo León,Apodaca
+1162,India,Central Asia,Maharashtra,Parbhani
+1163,Japan,North Asia,Osaka,Kita-ku
+1164,Democratic Republic of the Congo,Africa,Katanga,Likasi
+1165,Brazil,South,Bahia,Bom Jesus da Lapa
+1166,United States,South,Virginia,Arlington
+1167,United States,Central,Wisconsin,Appleton
+1168,El Salvador,Central,San Salvador,Apopa
+1169,Italy,South,Piedmont,Asti
+1170,Brazil,South,São Paulo,Mauá
+1171,India,Central Asia,Jharkhand,Ranchi
+1172,France,Central,Brittany,Brest
+1173,South Africa,Africa,Kwazulu-natal,Newcastle
+1174,Ukraine,EMEA,Luhans'k,Luhans'k
+1175,Switzerland,Central,Geneva,Geneva
+1176,France,Central,Nord-Pas-de-Calais,Hautmont
+1177,Germany,Central,Baden-Württemberg,Offenburg
+1178,Brazil,South,Pará,Ananindeua
+1179,India,Central Asia,Tamil Nadu,Nagercoil
+1180,Mexico,North,Guerrero,Iguala
+1181,United States,West,Oregon,Portland
+1182,Argentina,South,Chubut,Comodoro Rivadavia
+1183,India,Central Asia,Telangana,Nizamabad
+1184,United States,East,Connecticut,Meriden
+1185,Argentina,South,Chaco,Resistencia
+1186,China,North Asia,Guizhou,Bijie
+1187,Denmark,North,Hovedstaden,Copenhagen
+1188,Niger,Africa,Niamey,Niamey
+1189,France,Central,Ile-de-France,Evry
+1190,France,Central,Centre,Bourges
+1191,United Kingdom,North,England,Great Yarmouth
+1192,United States,South,Tennessee,Nashville
+1193,France,Central,Provence-Alpes-Côte d'Azur,Draguignan
+1194,Mexico,North,Morelos,Jiutepec
+1195,Germany,Central,North Rhine-Westphalia,Hamm
+1196,India,Central Asia,Uttar Pradesh,Bareilly
+1197,Turkey,EMEA,Ankara,Mamak
+1198,France,Central,Ile-de-France,Sannois
+1199,Mexico,North,México,Toluca
+1200,Austria,Central,Upper Austria,Linz
+1201,United States,Central,Iowa,Dubuque
+1202,Papua New Guinea,Oceania,National Capital,Port Moresby
+1203,Iran,EMEA,Kerman,Kerman
+1204,United States,East,Ohio,Lakewood
+1205,Honduras,Central,Atlántida,La Ceiba
+1206,Australia,Oceania,New South Wales,Port Macquarie
+1207,New Zealand,Oceania,Nelson,Nelson
+1208,Poland,EMEA,Pomerania,Gdansk
+1209,India,Central Asia,Puducherry,Puducherry
+1210,United States,South,Arkansas,Little Rock
+1211,South Korea,North Asia,Gyeongsangnam,Changwon
+1212,Germany,Central,North Rhine-Westphalia,Remscheid
+1213,United Kingdom,North,England,Exeter
+1214,China,North Asia,Sichuan,Leshan
+1215,Guatemala,Central,Guatemala,Chinautla
+1216,Germany,Central,Brandenburg,Brandenburg
+1217,France,Central,Ile-de-France,Saint-Ouen
+1218,France,Central,Ile-de-France,Le Plessis-Robinson
+1219,Germany,Central,Saxony-Anhalt,Halle
+1220,United Kingdom,North,England,Harrow
+1221,France,Central,Rhône-Alpes,Echirolles
+1222,France,Central,Picardy,Nogent-sur-Oise
+1223,Italy,South,Campania,Casoria
+1224,Australia,Oceania,New South Wales,Griffith
+1225,Brazil,South,Rio de Janeiro,Barra Mansa
+1226,United States,Central,Illinois,Naperville
+1227,France,Central,Rhône-Alpes,Saint-Genis-Laval
+1228,Colombia,South,Tolima,Ibagué
+1229,India,Central Asia,Tamil Nadu,Tirunelveli
+1230,Mongolia,EMEA,Ulaanbaatar,Ulan Bator
+1231,France,Central,Pays de la Loire,Les Herbiers
+1232,United States,West,Washington,Pasco
+1233,United States,West,Wyoming,Cheyenne
+1234,Italy,South,Umbria,Perugia
+1235,Germany,Central,Saxony,Dresden
+1236,Brazil,South,Parana,Francisco Beltrão
+1237,France,Central,Centre,Tours
+1238,Brazil,South,São Paulo,Araçatuba
+1239,Australia,Oceania,South Australia,Gawler
+1240,United States,Central,Iowa,Des Moines
+1241,Netherlands,Central,Groningen,Groningen
+1242,India,Central Asia,Maharashtra,Ichalkaranji
+1243,Italy,South,Campania,Naples
+1244,Sudan,Africa,Red Sea,Bur Sudan
+1245,India,Central Asia,Uttar Pradesh,Firozabad
+1246,Germany,Central,Bavaria,Aschaffenburg
+1247,France,Central,Picardy,Soissons
+1248,Japan,North Asia,Kanagawa,Aoba-ku
+1249,Turkey,EMEA,Istanbul,Silivri
+1250,Malaysia,Southeast Asia,Sabah,Tawau
+1251,Brazil,South,São Paulo,Limeira
+1252,United Kingdom,North,England,Oldham
+1253,Brazil,South,Santa Catarina,Itajaí
+1254,Brazil,South,Goiás,Goiânia
+1255,Germany,Central,Rhineland-Palatinate,Neuwied
+1256,Italy,South,Campania,Marano di Napoli
+1257,New Zealand,Oceania,Auckland,Papakura
+1258,United Kingdom,North,England,Watford
+1259,China,North Asia,Liaoning,Dalian
+1260,France,Central,Rhône-Alpes,Annecy
+1261,United States,West,California,Sunnyvale
+1262,Mexico,North,Tamaulipas,Madero
+1263,China,North Asia,Shaanxi,Tongchuan
+1264,Ukraine,EMEA,Donetsk,Kramators'k
+1265,India,Central Asia,Madhya Pradesh,Ujjain
+1266,India,Central Asia,West Bengal,Asansol
+1267,India,Central Asia,Odisha,Brahmapur
+1268,France,Central,Ile-de-France,Roissy-en-Brie
+1269,Italy,South,Lombardy,Varese
+1270,France,Central,Ile-de-France,Coulommiers
+1271,United Kingdom,North,England,Chelmsford
+1272,Portugal,South,Coimbra,Coimbra
+1273,United Kingdom,North,England,Ashford
+1274,Cote d'Ivoire,Africa,Vallee Du Bandama,Bouake
+1275,Australia,Oceania,Victoria,Mildura
+1276,Venezuela,South,Anzoátegui,Puerto La Cruz
+1277,Brazil,South,Rio de Janeiro,Teresópolis
+1278,Brazil,South,Minas Gerais,Juiz de Fora
+1279,Italy,South,Apulia,Foggia
+1280,United States,East,Ohio,Parma
+1281,United States,West,New Mexico,Farmington
+1282,Mexico,North,Puebla,Cholula
+1283,France,Central,Midi-Pyrénées,Pamiers
+1284,Brazil,South,Santa Catarina,Criciúma
+1285,Brazil,South,São Paulo,Taubaté
+1286,France,Central,Ile-de-France,Pantin
+1287,United States,West,Arizona,Gilbert
+1288,United States,East,New York,Oceanside
+1289,Mexico,North,Guanajuato,Celaya
+1290,United Kingdom,North,England,Mansfield
+1291,Iran,EMEA,Fars,Kazerun
+1292,China,North Asia,Shanxi,Taiyuan
+1293,United States,Central,Texas,Pasadena
+1294,Mexico,North,Tamaulipas,Río Bravo
+1295,Spain,South,Andalusía,Chiclana de la Frontera
+1296,Mexico,North,Sinaloa,Los Mochis
+1297,United States,South,Virginia,Suffolk
+1298,China,North Asia,Guizhou,Anshun
+1299,Mexico,North,México,San Pablo de las Salinas
+1300,France,Central,Ile-de-France,Poissy
+1301,Honduras,Central,Choluteca,Choluteca
+1302,Mexico,North,Veracruz,San Andrés Tuxtla
+1303,United States,West,Colorado,Fort Collins
+1304,United States,East,Ohio,Dublin
+1305,Japan,North Asia,Kanagawa,Hiratsuka
+1306,China,North Asia,Hubei,Huangshi
+1307,China,North Asia,Jiangsu,Xinghua
+1308,United States,South,Tennessee,Knoxville
+1309,Sudan,Africa,Khartoum,Khartoum
+1310,Egypt,Africa,Al Minya,Al Minya
+1311,United States,Central,Michigan,Midland
+1312,Italy,South,Veneto,Vicenza
+1313,Peru,South,Lima (city),Lima
+1314,France,Central,Ile-de-France,Pontoise
+1315,South Korea,North Asia,Daejeon,Daejeon
+1316,United States,East,Ohio,Springfield
+1317,China,North Asia,Henan,Zhengzhou
+1318,France,Central,Brittany,Landerneau
+1319,France,Central,Upper Normandy,Rouen
+1320,China,North Asia,Shandong,Heze
+1321,Mozambique,Africa,Zambezia,Quelimane
+1322,Mexico,North,Puebla,Atlixco
+1323,Bangladesh,Central Asia,Rajshahi,Rajshahi
+1324,France,Central,Rhône-Alpes,Villefontaine
+1325,Panama,Central,Panama,Arraiján
+1326,Mexico,North,Querétaro,Querétaro
+1327,Romania,EMEA,Prahova,Ploiesti
+1328,Sudan,Africa,Kassala,Kassala
+1329,Iran,EMEA,Kordestan,Saqqez
+1330,Colombia,South,Risaralda,Dos Quebradas
+1331,Malaysia,Southeast Asia,Negeri Sembilan,Seremban
+1332,France,Central,Ile-de-France,Meudon
+1333,Czech Republic,EMEA,Hradec Kralove,Hradec Kralove
+1334,United States,Central,Illinois,Peoria
+1335,France,Central,Ile-de-France,Villemomble
+1336,Indonesia,Southeast Asia,Nusa Tenggara Timur,Kupang
+1337,Mexico,North,Nuevo León,General Escobedo
+1338,Japan,North Asia,Fukuoka,Kawasaki
+1339,France,Central,Ile-de-France,Rambouillet
+1340,Russia,EMEA,Chelyabinsk,Kopeysk
+1341,China,North Asia,Liaoning,Kaiyuan
+1342,Italy,South,Emilia-Romagna,Parma
+1343,Brazil,South,Alagoas,Maceió
+1344,Zambia,Africa,Copperbelt,Ndola
+1345,Iraq,EMEA,Salah Ad Din,Samarra'
+1346,China,North Asia,Anhui,Huainan
+1347,Ukraine,EMEA,Sumy,Sumy
+1348,Italy,South,Apulia,Taranto
+1349,Australia,Oceania,South Australia,Mount Gambier
+1350,United Kingdom,North,England,Bolton
+1351,Brazil,South,São Paulo,Valinhos
+1352,Morocco,Africa,Doukkala-Abda,Safi
+1353,United States,South,Mississippi,Jackson
+1354,France,Central,Ile-de-France,Marly-le-Roi
+1355,Spain,South,Galicia,Lugo
+1356,Bolivia,South,Potosí,Potosí
+1357,United States,East,New Jersey,Belleville
+1358,Germany,Central,Lower Saxony,Oldenburg
+1359,Mexico,North,Nuevo León,Garza García
+1360,United States,East,New Hampshire,Concord
+1361,Syria,EMEA,Dayr Az Zawr,Dayr az Zawr
+1362,Russia,EMEA,Irkutsk,Irkutsk
+1363,Panama,Central,Panama,San Miguelito
+1364,Chile,South,Biobio,Chillán
+1365,Australia,Oceania,Victoria,Wodonga
+1366,France,Central,Rhône-Alpes,Annonay
+1367,China,North Asia,Hubei,Zhongxiang
+1368,Somalia,Africa,Banaadir,Mogadishu
+1369,Russia,EMEA,Bryansk,Bryansk
+1370,Russia,EMEA,Arkhangel'sk,Severodvinsk
+1371,China,North Asia,Sichuan,Chengdu
+1372,Australia,Oceania,New South Wales,Armidale
+1373,South Africa,Africa,Gauteng,Soweto
+1374,India,Central Asia,Maharashtra,Durgapur
+1375,Cuba,Caribbean,Isla de la Juventud,Nueva Gerona
+1376,Argentina,South,Chaco,Presidencia Roque Sáenz Peña
+1377,France,Central,Midi-Pyrénées,Castres
+1378,China,North Asia,Liaoning,Fushun
+1379,Brazil,South,São Paulo,Franca
+1380,Germany,Central,Rhineland-Palatinate,Ludwigshafen am Rhein
+1381,Chile,South,Arica y Parinacota,Arica
+1382,France,Central,Ile-de-France,Sartrouville
+1383,Kenya,Africa,Coast,Mombasa
+1384,Turkey,EMEA,Aydin,Nazilli
+1385,China,North Asia,Jilin,Jiutai
+1386,Sierra Leone,Africa,Eastern,Koidu
+1387,China,North Asia,Heilongjiang,Suihua
+1388,Italy,South,Sicily,Messina
+1389,France,Central,Champagne-Ardenne,Reims
+1390,Iran,EMEA,Khuzestan,Behbahan
+1391,India,Central Asia,Rajasthan,Ajmer
+1392,Romania,EMEA,Cluj,Cluj-Napoca
+1393,Romania,EMEA,Bihor,Oradea
+1394,United Kingdom,North,England,Bristol
+1395,Nicaragua,Central,Managua,Tipitapa
+1396,Spain,South,Valenciana,Alicante
+1397,Belgium,Central,Limburg,Hasselt
+1398,China,North Asia,Xinjiang Uygur,Aksu
+1399,Turkey,EMEA,Trabzon,Trabzon
+1400,Germany,Central,North Rhine-Westphalia,Troisdorf
+1401,Guinea,Africa,Kindia,Kindia
+1402,France,Central,Provence-Alpes-Côte d'Azur,Aix-en-Provence
+1403,Egypt,Africa,Al Gharbiyah,Tanta
+1404,Honduras,Central,Cortés,Choloma
+1405,India,Central Asia,Maharashtra,Ulhasnagar
+1406,Venezuela,South,Distrito Capital,Caracas
+1407,Ukraine,EMEA,Kirovohrad,Oleksandriya
+1408,Canada,Canada,Ontario,Mississauga
+1409,United States,Central,Missouri,Independence
+1410,France,Central,Nord-Pas-de-Calais,Wattrelos
+1411,China,North Asia,Guangdong,Licheng
+1412,Netherlands,Central,Utrecht,Nieuwegein
+1413,China,North Asia,Jiangsu,Huaiyin
+1414,India,Central Asia,Maharashtra,Pimpri
+1415,United States,Central,Texas,Brownsville
+1416,Cote d'Ivoire,Africa,Lagunes,Abidjan
+1417,Finland,North,Finland Proper,Turku
+1418,Jamaica,Caribbean,Saint Catherine,Portmore
+1419,Russia,EMEA,Ivanovo,Ivanovo
+1420,Cuba,Caribbean,Artemisa,Artemisa
+1421,France,Central,Poitou-Charentes,Niort
+1422,Turkey,EMEA,Denizli,Denizli
+1423,Netherlands,Central,Limburg,Heerlen
+1424,United States,Central,Texas,Pharr
+1425,Venezuela,South,Carabobo,Valencia
+1426,Japan,North Asia,Kagawa,Takamatsu
+1427,Russia,EMEA,Kaluga,Kaluga
+1428,United States,West,California,Burbank
+1429,Indonesia,Southeast Asia,Papua,Jayapura
+1430,France,Central,Provence-Alpes-Côte d'Azur,Martigues
+1431,France,Central,Corsica,Bastia
+1432,United States,South,Florida,Deltona
+1433,Canada,Canada,Ontario,London
+1434,Guinea,Africa,Kankan,Kankan
+1435,China,North Asia,Guangdong,Shanwei
+1436,France,Central,Ile-de-France,Massy
+1437,Canada,Canada,Ontario,Vaughan
+1438,Mexico,North,Coahuila,Acuña
+1439,Germany,Central,Lower Saxony,Langen
+1440,France,Central,Aquitaine,Villeneuve-sur-Lot
+1441,United Kingdom,North,England,Manchester
+1442,Italy,South,Lombardy,Como
+1443,France,Central,Ile-de-France,Les Ulis
+1444,Ukraine,EMEA,Zaporizhzhya,Melitopol'
+1445,Netherlands,Central,North Holland,Haarlem
+1446,United States,South,Tennessee,Memphis
+1447,Israel,EMEA,Southern,Ashqelon
+1448,United Kingdom,North,England,Garforth
+1449,Bosnia and Herzegovina,EMEA,Federation of Bosnia and Herzegovina,Sarajevo
+1450,New Zealand,Oceania,Otago,Dunedin
+1451,Spain,South,Basque Country,Vitoria
+1452,United Kingdom,North,England,Middlesbrough
+1453,Guinea-Bissau,Africa,Bissau,Bissau
+1454,Australia,Oceania,New South Wales,Dubbo
+1455,Italy,South,Liguria,Genoa
+1456,India,Central Asia,Madhya Pradesh,Ratlam
+1457,Ukraine,EMEA,Khmel'nyts'kyy,Khmel'nyts'kyy
+1458,China,North Asia,Zhejiang,Linhai
+1459,France,Central,Nord-Pas-de-Calais,Avion
+1460,Germany,Central,Baden-Württemberg,Pforzheim
+1461,India,Central Asia,Tamil Nadu,Coimbatore
+1462,United States,South,North Carolina,Durham
+1463,Philippines,Southeast Asia,National Capital,Makati
+1464,Belgium,Central,Antwerp,Mechelen
+1465,United States,East,New Jersey,Perth Amboy
+1466,India,Central Asia,Andhra Pradesh,Nellore
+1467,Italy,South,Lazio,Tivoli
+1468,Brazil,South,Mato Grosso,Cuiabá
+1469,Cuba,Caribbean,Pinar del Río,Pinar del Río
+1470,Mexico,North,México,Coacalco
+1471,United States,East,Ohio,Bowling Green
+1472,United States,South,Florida,Tamarac
+1473,Colombia,South,Norte de Santander,Cúcuta
+1474,Brazil,South,Rio Grande do Sul,Ijuí
+1475,United States,East,Maryland,Clinton
+1476,Mozambique,Africa,Sofala,Beira
+1477,United Kingdom,North,England,Basildon
+1478,Cote d'Ivoire,Africa,Lacs,Yamoussoukro
+1479,United States,West,California,San Jose
+1480,United States,Central,Texas,Huntsville
+1481,France,Central,Nord-Pas-de-Calais,Maubeuge
+1482,Djibouti,Africa,Djibouti,Djibouti
+1483,Japan,North Asia,Saga,Saga
+1484,France,Central,Midi-Pyrénées,Tournefeuille
+1485,United States,East,Pennsylvania,Chester
+1486,China,North Asia,Guangdong,Donghai
+1487,Canada,Canada,Ontario,Oshawa
+1488,United Kingdom,North,England,Crewe
+1489,France,Central,Ile-de-France,Sucy-en-Brie
+1490,United States,South,Tennessee,Jackson
+1491,United States,Central,Minnesota,Roseville
+1492,United States,West,Washington,Renton
+1493,Kenya,Africa,Rift Valley,Nakuru
+1494,France,Central,Ile-de-France,Montmorency
+1495,Brazil,South,São Paulo,Barueri
+1496,France,Central,Nord-Pas-de-Calais,Valenciennes
+1497,India,Central Asia,Uttar Pradesh,Bilaspur
+1498,Brazil,South,Minas Gerais,Divinópolis
+1499,Romania,EMEA,Timis,Lugoj
+1500,Mexico,North,Guanajuato,Salamanca
+1501,Brazil,South,Rio Grande do Sul,Passo Fundo
+1502,France,Central,Pays de la Loire,Saumur
+1503,Germany,Central,North Rhine-Westphalia,Siegen
+1504,Indonesia,Southeast Asia,Riau,Dumai
+1505,Italy,South,Sicily,Palermo
+1506,India,Central Asia,Karnataka,Tumkur
+1507,United States,East,New York,Mount Vernon
+1508,France,Central,Limousin,Limoges
+1509,France,Central,Nord-Pas-de-Calais,Wasquehal
+1510,Italy,South,Sardinia,Cagliari
+1511,France,Central,Brittany,Vannes
+1512,Switzerland,Central,Vaud,Lausanne
+1513,France,Central,Ile-de-France,Athis-Mons
+1514,Israel,EMEA,Jerusalem,Jerusalem
+1515,Venezuela,South,Miranda,Charallave
+1516,Iran,EMEA,Khuzestan,Masjed Soleyman
+1517,Cuba,Caribbean,Santiago de Cuba,Palma Soriano
+1518,El Salvador,Central,Sonsonate,Sonsonate
+1519,United Kingdom,North,England,Northampton
+1520,Germany,Central,Thuringia,Gera
+1521,United States,West,California,Redondo Beach
+1522,United Kingdom,North,England,Walsall
+1523,United States,South,Arkansas,Jonesboro
+1524,Germany,Central,Brandenburg,Potsdam
+1525,Italy,South,Tuscany,Grosseto
+1526,United States,West,Colorado,Parker
+1527,Germany,Central,Saarland,Neunkirchen
+1528,France,Central,Provence-Alpes-Côte d'Azur,Marignane
+1529,United States,West,Idaho,Boise
+1530,South Africa,Africa,Kwazulu-natal,Pietermaritzburg
+1531,Guatemala,Central,Huehuetenango,Huehuetenango
+1532,Ecuador,South,Azuay,Cuenca
+1533,Saudi Arabia,EMEA,Al Madinah,Medina
+1534,United States,Central,Texas,Mansfield
+1535,Australia,Oceania,New South Wales,Tamworth
+1536,United Kingdom,North,England,Worcester
+1537,France,Central,Ile-de-France,Champigny-sur-Marne
+1538,Nigeria,Africa,Rivers,Port Harcourt
+1539,United States,South,Tennessee,Smyrna
+1540,United States,South,Alabama,Hoover
+1541,Brazil,South,Minas Gerais,Ituiutaba
+1542,India,Central Asia,Chhattisgarh,Raipur
+1543,India,Central Asia,Assam,Guwahati
+1544,Turkey,EMEA,Gaziantep,Gaziantep
+1545,Spain,South,Andalusía,Jerez de la Frontera
+1546,Italy,South,Tuscany,Carrara
+1547,Romania,EMEA,Constanta,Constanta
+1548,Brazil,South,São Paulo,Cotia
+1549,United States,Central,Texas,Beaumont
+1550,Iran,EMEA,Kerman,Rafsanjan
+1551,Venezuela,South,Carabobo,Guacara
+1552,Saudi Arabia,EMEA,Ash Sharqiyah,Al Mubarraz
+1553,United Kingdom,North,Scotland,Aberdeen
+1554,Brazil,South,Minas Gerais,Montes Claros
+1555,Panama,Central,Panama,La Chorrera
+1556,Benin,Africa,Littoral,Cotonou
+1557,United States,East,District of Columbia,Washington
+1558,United States,West,California,Chico
+1559,Chile,South,Santiago,Puente Alto
+1560,Mexico,North,Colima,Tecomán
+1561,Pakistan,Central Asia,Khyber Pakhtunkhwa,Peshawar
+1562,Japan,North Asia,Kanagawa,Kawasaki
+1563,United States,West,California,Pasadena
+1564,Italy,South,Campania,Acerra
+1565,Mexico,North,Guerrero,Chilpancingo
+1566,Iran,EMEA,Esfahan,Khomeynishahr
+1567,United States,Central,Oklahoma,Edmond
+1568,China,North Asia,Anhui,Jieshou
+1569,Canada,Canada,British Columbia,Surrey
+1570,Mexico,North,Yucatán,Progreso
+1571,United States,Central,Illinois,Decatur
+1572,Chile,South,Santiago,San Bernardo
+1573,Germany,Central,Baden-Württemberg,Aalen
+1574,India,Central Asia,Maharashtra,Aurangabad
+1575,Kenya,Africa,Eastern,Marsabit
+1576,Poland,EMEA,Lodz,Lodz
+1577,Pakistan,Central Asia,Punjab,Multan
+1578,United States,East,Pennsylvania,Allentown
+1579,Zambia,Africa,Copperbelt,Mufulira
+1580,Germany,Central,Mecklenburg-Vorpommern,Greifswald
+1581,United States,West,Arizona,Tempe
+1582,United Kingdom,North,England,Letchworth
+1583,Iraq,EMEA,Ninawa,Mosul
+1584,Brazil,South,Paraíba,João Pessoa
+1585,Romania,EMEA,Sibiu,Sibiu
+1586,France,Central,Ile-de-France,Fresnes
+1587,Mexico,North,Distrito Federal,Cuajimalpa
+1588,Mexico,North,Veracruz,Córdoba
+1589,United States,South,Arkansas,Fayetteville
+1590,Tunisia,Africa,Tunis,Tunis
+1591,Brazil,South,São Paulo,Itapevi
+1592,Germany,Central,North Rhine-Westphalia,Halle
+1593,Argentina,South,Santa Fe,Rosario
+1594,Ukraine,EMEA,Mykolayiv,Mykolayiv
+1595,Norway,North,Rogaland,Sandnes
+1596,Nicaragua,Central,Masaya,Masaya
+1597,United States,South,Florida,Kissimmee
+1598,United Kingdom,North,England,Aylesbury
+1599,Brazil,South,Parana,Cambé
+1600,Brazil,South,Sergipe,Aracaju
+1601,United Kingdom,North,England,Warrington
+1602,Nicaragua,Central,Granada,Granada
+1603,Brazil,South,Ceará,Limoeiro do Norte
+1604,Australia,Oceania,New South Wales,Katoomba
+1605,Indonesia,Southeast Asia,Jawa Timur,Kediri
+1606,Russia,EMEA,Yaroslavl',Yaroslavl'
+1607,Russia,EMEA,Bashkortostan,Salavat
+1608,Indonesia,Southeast Asia,Jawa Timur,Malang
+1609,France,Central,Nord-Pas-de-Calais,Calais
+1610,United States,West,Utah,Provo
+1611,Brazil,South,Goiás,Novo Gama
+1612,United Kingdom,North,England,Peterborough
+1613,Australia,Oceania,Western Australia,Bunbury
+1614,United Kingdom,North,England,Plymouth
+1615,Australia,Oceania,Queensland,Maryborough
+1616,Belgium,Central,Flemish Brabant,Leuven
+1617,Croatia,EMEA,Grad Zagreb,Zagreb
+1618,Mexico,North,Tabasco,Frontera
+1619,Brazil,South,Rio de Janeiro,Resende
+1620,China,North Asia,Shandong,Weifang
+1621,France,Central,Ile-de-France,Chaville
+1622,India,Central Asia,Punjab,Patiala
+1623,Iraq,EMEA,Babil,Al Hillah
+1624,United Kingdom,North,England,Lowestoft
+1625,Netherlands,Central,Overijssel,Hardenberg
+1626,Hong Kong,North Asia,Hong Kong,Kowloon
+1627,El Salvador,Central,San Salvador,Cuscatancingo
+1628,China,North Asia,Shandong,Yantai
+1629,Australia,Oceania,Victoria,Melton
+1630,Norway,North,Buskerud,Drammen
+1631,United States,South,Alabama,Auburn
+1632,Netherlands,Central,North Brabant,Oosterhout
+1633,United States,West,California,Torrance
+1634,France,Central,Midi-Pyrénées,Montauban
+1635,China,North Asia,Sichuan,Jiangyou
+1636,France,Central,Ile-de-France,Livry-Gargan
+1637,Brazil,South,São Paulo,Sorocaba
+1638,China,North Asia,Shaanxi,Xi'an
+1639,Nepal,Central Asia,Central,Kathmandu
+1640,France,Central,Brittany,Quimper
+1641,Mexico,North,México,Ixtapaluca
+1642,Germany,Central,Hesse,Wiesbaden
+1643,Poland,EMEA,Pomerania,Gdynia
+1644,Germany,Central,Saxony-Anhalt,Magdeburg
+1645,France,Central,Ile-de-France,Gennevilliers
+1646,Spain,South,Catalonia,Castelldefels
+1647,United Kingdom,North,England,Widnes
+1648,Russia,EMEA,Dagestan,Kaspiysk
+1649,Brazil,South,Santa Catarina,Chapecó
+1650,India,Central Asia,Bihar,Darbhanga
+1651,United States,South,Florida,Coral Springs
+1652,United States,Central,Texas,Laredo
+1653,Austria,Central,Carinthia,Klagenfurt
+1654,Egypt,Africa,Aswan,Aswan
+1655,Cuba,Caribbean,Cienfuegos,Cienfuegos
+1656,Mexico,North,Distrito Federal,Miguel Hidalgo
+1657,Lithuania,EMEA,Panevezys,Panevezys
+1658,Germany,Central,North Rhine-Westphalia,Erftstadt
+1659,Germany,Central,North Rhine-Westphalia,Lippstadt
+1660,France,Central,Limousin,Brive-la-Gaillarde
+1661,New Zealand,Oceania,Gisborne,Gisborne
+1662,Germany,Central,North Rhine-Westphalia,Pulheim
+1663,France,Central,Nord-Pas-de-Calais,Coudekerque-Branche
+1664,Belgium,Central,West Flanders,Roeselare
+1665,United States,Central,Illinois,Highland Park
+1666,Colombia,South,Magdalena,Ciénaga
+1667,Turkey,EMEA,Bingol,Bingol
+1668,Guadeloupe,Caribbean,Guadeloupe,Les Abymes
+1669,United Kingdom,North,England,Swindon
+1670,Brazil,South,Pernambuco,Abreu e Lima
+1671,Colombia,South,Risaralda,Pereira
+1672,Denmark,North,South Denmark,Odense
+1673,China,North Asia,Hainan,Haikou
+1674,Mexico,North,Sonora,Obregón
+1675,Iran,EMEA,Mazandaran,Sari
+1676,Venezuela,South,Miranda,Baruta
+1677,China,North Asia,Zhejiang,Hangzhou
+1678,Zambia,Africa,Copperbelt,Chingola
+1679,France,Central,Centre,Saint-Cyr-sur-Loire
+1680,India,Central Asia,Andhra Pradesh,Guntur
+1681,Japan,North Asia,Hyogo,Nishinomiya
+1682,Germany,Central,Hesse,Offenbach
+1683,United Kingdom,North,England,Waterlooville
+1684,China,North Asia,Guangdong,Huizhou
+1685,Egypt,Africa,Suhaj,Sohag
+1686,United States,South,Alabama,Decatur
+1687,United Kingdom,North,England,Dewsbury
+1688,Kyrgyzstan,EMEA,Bishkek,Bishkek
+1689,China,North Asia,Jiangsu,Licheng
+1690,Kenya,Africa,Central,Thika
+1691,France,Central,Rhône-Alpes,Bron
+1692,United States,Central,Illinois,Normal
+1693,Netherlands,Central,Overijssel,Deventer
+1694,China,North Asia,Liaoning,Tieling
+1695,Dominican Republic,Caribbean,Santiago,Santiago de los Caballeros
+1696,Canada,Canada,Quebec,Laval
+1697,France,Central,Ile-de-France,Montereau-Fault-Yonne
+1698,Zimbabwe,Africa,Bulawayo,Bulawayo
+1699,China,North Asia,Hebei,Xuanhua
+1700,France,Central,Provence-Alpes-Côte d'Azur,Vallauris
+1701,United States,West,Oregon,Redmond
+1702,United Kingdom,North,Wales,Clydach
+1703,China,North Asia,Shaanxi,Xianyang
+1704,Australia,Oceania,New South Wales,Forster
+1705,United States,West,Oregon,Springfield
+1706,United Kingdom,North,England,Dartford
+1707,Japan,North Asia,Mie,Yokkaichi
+1708,Spain,South,Andalusía,El Ejido
+1709,Austria,Central,Salzburg,Salzburg
+1710,United Kingdom,North,Scotland,Dundee
+1711,India,Central Asia,Karnataka,Belgaum
+1712,Poland,EMEA,Silesia,Rybnik
+1713,Tanzania,Africa,Iringa,Iringa
+1714,Nigeria,Africa,Edo,Benin City
+1715,United States,Central,Texas,Arlington
+1716,China,North Asia,Hubei,Yicheng
+1717,Germany,Central,Schleswig-Holstein,Kiel
+1718,Germany,Central,Rhineland-Palatinate,Kaiserslautern
+1719,France,Central,Ile-de-France,Garches
+1720,United States,East,Connecticut,Waterbury
+1721,Germany,Central,Bavaria,Rosenheim
+1722,United Kingdom,North,England,Poole
+1723,United States,West,Idaho,Pocatello
+1724,France,Central,Ile-de-France,Villejuif
+1725,South Africa,Africa,North-West,Vryburg
+1726,Uzbekistan,EMEA,Surxondaryo,Termez
+1727,China,North Asia,Shandong,Xintai
+1728,United States,Central,Indiana,Richmond
+1729,China,North Asia,Guangdong,Wuchuan
+1730,Mexico,North,Michoacán,Heroica Zitácuaro
+1731,Canada,Canada,British Columbia,Richmond
+1732,Germany,Central,Rhineland-Palatinate,Worms
+1733,Germany,Central,Hesse,Darmstadt
+1734,France,Central,Auvergne,Issoire
+1735,China,North Asia,Heilongjiang,Yichun
+1736,France,Central,Ile-de-France,Issy-les-Moulineaux
+1737,China,North Asia,Guangdong,Chaozhou
+1738,China,North Asia,Liaoning,Chaoyang
+1739,Spain,South,Andalusía,Granada
+1740,India,Central Asia,Odisha,Bhubaneswar
+1741,Australia,Oceania,New South Wales,Broken Hill
+1742,Portugal,South,Porto,Porto
+1743,United States,South,Tennessee,Columbia
+1744,China,North Asia,Fujian,Sanming
+1745,New Zealand,Oceania,Southland,Invercargill
+1746,United States,West,Utah,Salt Lake City
+1747,Malaysia,Southeast Asia,Sarawak,Kuching
+1748,Indonesia,Southeast Asia,Jawa Timur,Probolinggo
+1749,United States,West,Arizona,Chandler
+1750,Afghanistan,Central Asia,Kandahar,Kandahar
+1751,Colombia,South,Boyacá,Duitama
+1752,France,Central,Ile-de-France,Taverny
+1753,Brazil,South,Rio Grande do Sul,Caxias do Sul
+1754,United States,Central,Illinois,Elmhurst
+1755,Algeria,Africa,Laghouat,Laghouat
+1756,South Sudan,Africa,Central Equatoria,Juba
+1757,Brazil,South,São Paulo,Sumaré
+1758,Italy,South,Tuscany,Lucca
+1759,Germany,Central,North Rhine-Westphalia,Minden
+1760,Germany,Central,North Rhine-Westphalia,Herten
+1761,Brazil,South,Rio Grande do Sul,Pelotas
+1762,United States,West,Colorado,Arvada
+1763,Brazil,South,Mato Grosso do Sul,Campo Grande
+1764,New Zealand,Oceania,Wellington,Lower Hutt
+1765,Poland,EMEA,Greater Poland,Poznan
+1766,Brazil,South,São Paulo,Birigui
+1767,Sudan,Africa,Gezira,Wad Madani
+1768,United States,South,South Carolina,Florence
+1769,Pakistan,Central Asia,F.C.T.,Islamabad
+1770,United Kingdom,North,England,Stevenage
+1771,China,North Asia,Jiangxi,Nanchang
+1772,Ecuador,South,Guayas,Guayaquil
+1773,Chile,South,O'Higgins,Rancagua
+1774,Pakistan,Central Asia,Punjab,Rawalpindi
+1775,China,North Asia,Guangdong,Zhuhai
+1776,India,Central Asia,Madhya Pradesh,Mau
+1777,Iran,EMEA,Tehran,Shahriar
+1778,Cuba,Caribbean,Santiago de Cuba,Contramaestre
+1779,France,Central,Rhône-Alpes,Thonon-les-Bains
+1780,France,Central,Provence-Alpes-Côte d'Azur,Allauch
+1781,India,Central Asia,Punjab,Amritsar
+1782,Brazil,South,Mato Grosso,Rondonópolis
+1783,China,North Asia,Hebei,Handan
+1784,Spain,South,Madrid,Coslada
+1785,United States,South,Florida,Plantation
+1786,Nigeria,Africa,Bauchi,Bauchi
+1787,United States,Central,Minnesota,Maple Grove
+1788,United States,East,New York,Auburn
+1789,Germany,Central,North Rhine-Westphalia,Ratingen
+1790,Philippines,Southeast Asia,National Capital,Caloocan
+1791,United States,West,California,Inglewood
+1792,Gabon,Africa,Estuaire,Libreville
+1793,United States,Central,Illinois,Saint Charles
+1794,United States,West,California,Pomona
+1795,Poland,EMEA,Opole,Opole
+1796,United States,South,North Carolina,Gastonia
+1797,Brazil,South,São Paulo,São Bernardo do Campo
+1798,France,Central,Lorraine,Metz
+1799,United States,West,Arizona,Peoria
+1800,United States,West,New Mexico,Albuquerque
+1801,United States,Central,Texas,Plano
+1802,China,North Asia,Anhui,Tongling
+1803,Mexico,North,Colima,Colima
+1804,United States,Central,Wisconsin,Green Bay
+1805,Austria,EMEA,Carinthia,Klagenfurt
+1806,United Kingdom,North,England,Cheshunt
+1807,United States,East,Connecticut,Middletown
+1808,United States,West,California,Chula Vista
+1809,United States,West,California,Riverside
+1810,Brazil,South,São Paulo,Guarulhos
+1811,Belarus,EMEA,Homyel',Homyel'
+1812,United Kingdom,North,England,Torquay
+1813,France,Central,Languedoc-Roussillon,Narbonne
+1814,Bangladesh,Central Asia,Sylhet,Sylhet
+1815,Malaysia,Southeast Asia,Sabah,Sandakan
+1816,Japan,North Asia,Ishikawa,Takamatsu
+1817,Bahrain,EMEA,Muharraq,Al Muharraq
+1818,India,Central Asia,Maharashtra,Akola
+1819,United States,East,New York,Troy
+1820,United States,West,California,El Cajon
+1821,United Kingdom,North,England,Birkenhead
+1822,France,Central,Provence-Alpes-Côte d'Azur,Istres
+1823,France,Central,Ile-de-France,Noisy-le-Sec
+1824,China,North Asia,Zhejiang,Shangyu
+1825,Canada,Canada,Manitoba,Winnipeg
+1826,Canada,Canada,British Columbia,Burnaby
+1827,Romania,EMEA,Bacau,Bacau
+1828,China,North Asia,Jiangsu,Nantong
+1829,France,Central,Provence-Alpes-Côte d'Azur,Mougins
+1830,Italy,South,Trentino-Alto Adige,Bolzano
+1831,France,Central,Picardy,Amiens
+1832,Philippines,Southeast Asia,Northern Mindanao,Valencia
+1833,Brazil,South,Rio Grande do Sul,Farroupilha
+1834,China,North Asia,Tianjin,Hangu
+1835,Turkey,EMEA,Istanbul,Uskudar
+1836,China,North Asia,Hunan,Wuxi
+1837,Spain,South,Andalusía,Lora del Río
+1838,United States,Central,Texas,Mcallen
+1839,Panama,Central,Colón,Colón
+1840,France,Central,Ile-de-France,Torcy
+1841,Iran,EMEA,Zanjan,Zanjan
+1842,Nigeria,Africa,Cross River,Calabar
+1843,New Zealand,Oceania,Bay of Plenty,Rotorua
+1844,Mexico,North,Veracruz,Veracruz
+1845,Turkey,EMEA,Ankara,Sincan
+1846,Germany,Central,North Rhine-Westphalia,Paderborn
+1847,France,Central,Ile-de-France,Orsay
+1848,United States,East,Ohio,Medina
+1849,Venezuela,South,Miranda,Guatire
+1850,France,Central,Ile-de-France,Thiais
+1851,Paraguay,South,Central,San Lorenzo
+1852,Russia,EMEA,Bashkortostan,Sterlitamak
+1853,France,Central,Aquitaine,La Teste-de-Buch
+1854,Israel,EMEA,Haifa,Haifa
+1855,Colombia,South,Atlántico,Barranquilla
+1856,Niger,Africa,Maradi,Maradi
+1857,United States,Central,Michigan,Dearborn
+1858,Brazil,South,Santa Catarina,Blumenau
+1859,Brazil,South,Pernambuco,Gravatá
+1860,United States,West,Arizona,Scottsdale
+1861,United States,West,California,Oxnard
+1862,United Kingdom,North,England,Margate
+1863,Italy,South,Sicily,Trapani
+1864,France,Central,Aquitaine,Lormont
+1865,Brazil,South,Rio Grande do Sul,Sapucaia do Sul
+1866,Brazil,South,Maranhão,Paço do Lumiar
+1867,China,North Asia,Hubei,Jingmen
+1868,Indonesia,Southeast Asia,Bengkulu,Bengkulu
+1869,United States,Central,Missouri,Kirkwood
+1870,Mozambique,Africa,Niassa,Lichinga
+1871,Pakistan,Central Asia,Punjab,Sargodha
+1872,Turkey,EMEA,Mardin,Mardin
+1873,France,Central,Ile-de-France,Aulnay-sous-Bois
+1874,United States,West,Arizona,Mesa
+1875,India,Central Asia,Bihar,Bihar Sharif
+1876,Canada,Canada,Ontario,Ottawa
+1877,United Kingdom,North,England,Huyton
+1878,Pakistan,Central Asia,Sindh,Hyderabad
+1879,Yemen,EMEA,Ta'izz,Taizz
+1880,France,Central,Ile-de-France,Trappes
+1881,France,Central,Ile-de-France,Montrouge
+1882,Angola,Africa,Huambo,Huambo
+1883,Germany,Central,North Rhine-Westphalia,Wuppertal
+1884,Italy,South,Veneto,Verona
+1885,United Kingdom,North,England,Brighton
+1886,Germany,Central,Bavaria,Bayreuth
+1887,Turkey,EMEA,Ankara,Ankara
+1888,Mexico,North,Puebla,Tehuacán
+1889,United Kingdom,North,England,Redditch
+1890,United States,West,Washington,Kent
+1891,Vietnam,Southeast Asia,Dà Nang,Da Nang
+1892,South Africa,Africa,Eastern Cape,Umtata
+1893,India,Central Asia,Karnataka,Hubli
+1894,Germany,Central,Brandenburg,Ludwigsfelde
+1895,United Kingdom,North,England,Maidenhead
+1896,Germany,Central,Lower Saxony,Delmenhorst
+1897,Canada,Canada,Ontario,Kingston
+1898,France,Central,Ile-de-France,Gagny
+1899,United Kingdom,North,England,Weston-super-Mare
+1900,Malaysia,Southeast Asia,Trengganu,Kuala Terengganu
+1901,Germany,Central,Lower Saxony,Emden
+1902,Germany,Central,Baden-Württemberg,Karlsruhe
+1903,Jordan,EMEA,'Amman,Amman
+1904,France,Central,Aquitaine,Pau
+1905,Canada,Canada,Alberta,Calgary
+1906,Canada,Canada,Ontario,Whitby
+1907,Italy,South,Lombardy,Legnano
+1908,India,Central Asia,West Bengal,Baranagar
+1909,Peru,South,Arequipa,Arequipa
+1910,Brazil,South,Rio Grande do Sul,Gravataí
+1911,Brazil,South,Rio de Janeiro,Niterói
+1912,France,Central,Provence-Alpes-Côte d'Azur,Avignon
+1913,Iran,EMEA,Kordestan,Sanandaj
+1914,Turkey,EMEA,Kocaeli,Gebze
+1915,France,Central,Nord-Pas-de-Calais,Hazebrouck
+1916,Sweden,North,Uppsala,Uppsala
+1917,Poland,EMEA,Pomerania,Slupsk
+1918,United States,Central,Indiana,South Bend
+1919,France,Central,Aquitaine,Agen
+1920,United Kingdom,North,England,Wallasey
+1921,United Arab Emirates,EMEA,Ra's Al Khaymah,Ras al Khaymah
+1922,Australia,Oceania,Tasmania,Burnie
+1923,China,North Asia,Henan,Xinxiang
+1924,Spain,South,Basque Country,Irun
+1925,Indonesia,Southeast Asia,Kalimantan Barat,Pontianak
+1926,United States,Central,Michigan,Roseville
+1927,Germany,Central,North Rhine-Westphalia,Grevenbroich
+1928,Canada,Canada,Ontario,Hamilton
+1929,Brazil,South,Rio Grande do Sul,Santa Rosa
+1930,Argentina,South,Entre Ríos,Paraná
+1931,United States,Central,Michigan,Canton
+1932,United Kingdom,North,England,Guildford
+1933,Poland,EMEA,Silesia,Ruda Slaska
+1934,France,Central,Provence-Alpes-Côte d'Azur,Six-Fours-les-Plages
+1935,United States,South,Kentucky,Murray
+1936,Brazil,South,Bahia,Salvador
+1937,United Kingdom,North,England,Luton
+1938,Germany,Central,Brandenburg,Cottbus
+1939,United Kingdom,North,Scotland,Kilwinning
+1940,China,North Asia,Sichuan,Neijiang
+1941,Albania,EMEA,Shkodër,Shkoder
+1942,Iran,EMEA,Khuzestan,Abadan
+1943,United States,Central,Kansas,Overland Park
+1944,Philippines,Southeast Asia,Calabarzon,Cainta
+1945,Netherlands,Central,North Holland,Velsen
+1946,Iran,EMEA,Khuzestan,Ahvaz
+1947,United States,Central,Oklahoma,Lawton
+1948,United States,East,New Jersey,Paterson
+1949,India,Central Asia,Gujarat,Jamnagar
+1950,Sweden,North,Västra Götaland,Gothenburg
+1951,South Africa,Africa,Kwazulu-natal,Durban
+1952,Cuba,Caribbean,Matanzas,Cárdenas
+1953,Germany,Central,North Rhine-Westphalia,Rheine
+1954,Venezuela,South,Zulia,Maracaibo
+1955,France,Central,Nord-Pas-de-Calais,Tourcoing
+1956,United States,Central,Missouri,Saint Peters
+1957,Brazil,South,Bahia,Guanambi
+1958,Pakistan,Central Asia,Sindh,Sukkur
+1959,France,Central,Rhône-Alpes,Firminy
+1960,Spain,South,Madrid,Las Rozas de Madrid
+1961,India,Central Asia,Uttar Pradesh,Moradabad
+1962,Tanzania,Africa,Shinyanga,Shinyanga
+1963,Moldova,EMEA,Chisinau,Chisinau
+1964,United States,West,California,Lakewood
+1965,Japan,North Asia,Ibaraki,Sakai
+1966,Brazil,South,Bahia,Barreiras
+1967,France,Central,Corsica,Ajaccio
+1968,France,Central,Rhône-Alpes,Meyzieu
+1969,Turkey,EMEA,Batman,Batman
+1970,United States,Central,Wisconsin,La Crosse
+1971,Democratic Republic of the Congo,Africa,South Kivu,Bukavu
+1972,Argentina,South,Mendoza,San Rafael
+1973,Iran,EMEA,Golestan,Gorgan
+1974,United States,South,Georgia,Woodstock
+1975,Italy,South,Lombardy,Brescia
+1976,Germany,Central,Baden-Württemberg,Heidelberg
+1977,France,Central,Alsace,Haguenau
+1978,Nigeria,Africa,Plateau,Jos
+1979,Chile,South,Magallanes y Antártica Chilena,Punta Arenas
+1980,Ireland,North,Galway,Galway
+1981,China,North Asia,Zhejiang,Wenzhou
+1982,Romania,EMEA,Gorj,Targu Jiu
+1983,Germany,Central,Bavaria,Ingolstadt
+1984,United States,East,West Virginia,Wheeling
+1985,United States,South,Mississippi,Southaven
+1986,Colombia,South,Huila,Neiva
+1987,France,Central,Ile-de-France,Savigny-le-Temple
+1988,Spain,South,Catalonia,Tarragona
+1989,China,North Asia,Henan,Pingdingshan
+1990,Brazil,South,Rio Grande do Sul,Canoas
+1991,Romania,EMEA,Timis,Timisoara
+1992,Germany,Central,Mecklenburg-Vorpommern,Stralsund
+1993,Spain,South,Ceuta,Ceuta
+1994,Bulgaria,EMEA,Varna,Varna
+1995,Turkey,EMEA,Nevsehir,Nevsehir
+1996,Mexico,North,Guanajuato,Guanajuato
+1997,Iran,EMEA,Qazvin,Takestan
+1998,Argentina,South,Provincia de Buenos Aires,Quilmes
+1999,Brazil,South,Acre,Rio Branco
+2000,United States,West,Oregon,Salem
+2001,El Salvador,Central,San Salvador,Delgado
+2002,Romania,EMEA,Bistrita-Nasaud,Bistrita
+2003,Philippines,Southeast Asia,Central Luzon,Angeles City
+2004,Germany,Central,North Rhine-Westphalia,Gelsenkirchen
+2005,Peru,South,Junín,Huancayo
+2006,United States,West,California,Vallejo
+2007,Netherlands,Central,Utrecht,Amersfoort
+2008,United States,West,California,Camarillo
+2009,China,North Asia,Shandong,Linyi
+2010,Ukraine,EMEA,Kherson,Kherson
+2011,Spain,South,Catalonia,Girona
+2012,Germany,Central,North Rhine-Westphalia,Dorsten
+2013,Ukraine,EMEA,Kirovohrad,Kirovohrad
+2014,Dominican Republic,Caribbean,Espaillat,Moca
+2015,Ukraine,EMEA,Zaporizhzhya,Berdyans'k
+2016,Brazil,South,São Paulo,Osasco
+2017,Italy,South,Apulia,Cerignola
+2018,Iran,EMEA,Bushehr,Borazjan
+2019,Austria,Central,Upper Austria,Wels
+2020,United States,West,California,Mission Viejo
+2021,Switzerland,Central,Bern,Berne
+2022,Brazil,South,Pernambuco,Surubim
+2023,United States,Central,Minnesota,Woodbury
+2024,India,Central Asia,Jammu and Kashmir,Jammu
+2025,United States,Central,Illinois,Des Plaines
+2026,Cote d'Ivoire,Africa,Dix-Huit Montagnes,Man
+2027,France,Central,Brittany,Saint-Malo
+2028,Cameroon,Africa,Sud,Ebolowa
+2029,Benin,Africa,Donga,Djougou
+2030,Senegal,Africa,Thies,Thies Nones
+2031,Brazil,South,Alagoas,Pilar
+2032,Algeria,Africa,Batna,Batna
+2033,United States,West,California,Roseville
+2034,France,Central,Aquitaine,Villenave-d'Ornon
+2035,United States,East,New Jersey,Passaic
+2036,United Kingdom,North,England,Wakefield
+2037,Germany,Central,Schleswig-Holstein,Norderstedt
+2038,France,Central,Ile-de-France,Saint-Michel-sur-Orge
+2039,Croatia,EMEA,Zagrebacka,Samobor
+2040,Canada,Canada,Saskatchewan,Regina
+2041,China,North Asia,Hunan,Changsha
+2042,United States,Central,Michigan,Dearborn Heights
+2043,United States,West,Idaho,Twin Falls
+2044,France,Central,Ile-de-France,Les Clayes-sous-Bois
+2045,China,North Asia,Chongqing,Yongchuan
+2046,France,Central,Ile-de-France,Melun
+2047,Germany,Central,Saxony,Chemnitz
+2048,Netherlands,Central,South Holland,Rotterdam
+2049,Germany,Central,Rhineland-Palatinate,Koblenz
+2050,Indonesia,Southeast Asia,Sumatera Utara,Binjai
+2051,United States,West,Arizona,Yuma
+2052,Jordan,EMEA,'Amman,Wadi as Sir
+2053,Germany,Central,North Rhine-Westphalia,Hagen
+2054,Iran,EMEA,Sistan Va Baluchestan,Zahedan
+2055,China,North Asia,Guangdong,Heyuan
+2056,United Kingdom,North,England,Halesowen
+2057,China,North Asia,Guangxi,Pingnan
+2058,Angola,Africa,Huila,Lubango
+2059,Turkey,EMEA,Adana,Ceyhan
+2060,United States,South,South Carolina,Mount Pleasant
+2061,China,North Asia,Hebei,Xingtai
+2062,Iran,EMEA,Hormozgan,Bandar Abbas
+2063,Haiti,Caribbean,Artibonite,Gonaïves
+2064,United States,South,North Carolina,Wilmington
+2065,Italy,South,Abruzzi,Chieti
+2066,France,Central,Burgundy,Auxerre
+2067,United States,West,New Mexico,Rio Rancho
+2068,France,Central,Aquitaine,Gradignan
+2069,United States,Central,Michigan,Trenton
+2070,Romania,EMEA,Satu Mare,Satu Mare
+2071,Spain,South,Catalonia,Badalona
+2072,Turkey,EMEA,Izmir,Bornova
+2073,Lebanon,EMEA,North Lebanon,Tripoli
+2074,United Kingdom,North,England,Lincoln
+2075,United Kingdom,North,England,Washington
+2076,United States,South,Louisiana,Monroe
+2077,United States,West,California,Lake Forest
+2078,Switzerland,Central,Zürich,Winterthur
+2079,France,Central,Lower Normandy,Caen
+2080,Brazil,South,Santa Catarina,Araranguá
+2081,France,Central,Languedoc-Roussillon,Frontignan
+2082,Mexico,North,Coahuila,Piedras Negras
+2083,China,North Asia,Anhui,Huangshan
+2084,Russia,EMEA,Dagestan,Derbent
+2085,United States,Central,Illinois,Wheeling
+2086,Romania,EMEA,Valcea,Ramnicu Valcea
+2087,United States,East,Pennsylvania,Reading
+2088,Israel,EMEA,Central,Hod HaSharon
+2089,United States,West,California,Hesperia
+2090,Democratic Republic of the Congo,Africa,Orientale,Kisangani
+2091,Australia,Oceania,Queensland,Gladstone
+2092,Brazil,South,São Paulo,Santos
+2093,France,Central,Provence-Alpes-Côte d'Azur,Pertuis
+2094,France,Central,Upper Normandy,Mont-Saint-Aignan
+2095,France,Central,Provence-Alpes-Côte d'Azur,Le Pontet
+2096,China,North Asia,Hunan,Zhuzhou
+2097,France,Central,Midi-Pyrénées,Colomiers
+2098,Australia,Oceania,New South Wales,Cessnock
+2099,China,North Asia,Henan,Nanyang
+2100,Colombia,South,Nariño,Pasto
+2101,United States,West,California,San Bernardino
+2102,United States,South,Florida,Apopka
+2103,Algeria,Africa,Batna,Barika
+2104,China,North Asia,Fujian,Fuzhou
+2105,Philippines,Southeast Asia,Calabarzon,Taytay
+2106,France,Central,Ile-de-France,Ermont
+2107,China,North Asia,Henan,Zhoukou
+2108,France,Central,Ile-de-France,Les Mureaux
+2109,Iran,EMEA,Razavi Khorasan,Quchan
+2110,Mexico,North,Tamaulipas,Miramar
+2111,Georgia,EMEA,Imereti,K'ut'aisi
+2112,Spain,South,Murcia,Cartagena
+2113,Poland,EMEA,Silesia,Myslowice
+2114,Ukraine,EMEA,Rivne,Rivne
+2115,Netherlands,Central,Drenthe,Emmen
+2116,China,North Asia,Hunan,Chenzhou
+2117,United States,East,Massachusetts,Revere
+2118,Poland,EMEA,Masovia,Siedlce
+2119,China,North Asia,Heilongjiang,Shuangyashan
+2120,Brazil,South,Minas Gerais,Paracatu
+2121,South Korea,North Asia,Jeju,Aewŏl-li
+2122,Colombia,South,Chocó,Quibdó
+2123,Russia,EMEA,Stavropol',Budënnovsk
+2124,Bulgaria,EMEA,Burgas,Burgas
+2125,Russia,EMEA,Chelyabinsk,Zlatoust
+2126,Brazil,South,Espírito Santo,Vitória
+2127,Afghanistan,Central Asia,Nangarhar,Jalalabad
+2128,Spain,South,Catalonia,Sabadell
+2129,Brazil,South,São Paulo,Presidente Prudente
+2130,Cameroon,Africa,Nord,Garoua
+2131,Democratic Republic of the Congo,Africa,Katanga,Kolwezi
+2132,Spain,South,Andalusía,San Fernando
+2133,Belgium,Central,Liège,Verviers
+2134,United States,Central,Kansas,Wichita
+2135,United States,West,Oregon,Eugene
+2136,India,Central Asia,Uttar Pradesh,Saharanpur
+2137,Italy,South,Lombardy,Cremona
+2138,Brazil,South,Rio de Janeiro,Duque de Caxias
+2139,Poland,EMEA,Masovia,Warsaw
+2140,United States,West,California,Bakersfield
+2141,Brazil,South,Rio Grande do Sul,Lajeado
+2142,Czech Republic,EMEA,Plzen,Plzen
+2143,Belarus,EMEA,Homyel',Mazyr
+2144,Spain,South,Madrid,Getafe
+2145,China,North Asia,Inner Mongolia,Tongliao
+2146,Mexico,North,Chiapas,San Cristóbal de Las Casas
+2147,United States,East,Ohio,Mentor
+2148,Turkey,EMEA,Bursa,Bursa
+2149,Brazil,South,Santa Catarina,Gaspar
+2150,South Korea,North Asia,Daegu,Daegu
+2151,Brazil,South,Minas Gerais,Betim
+2152,Australia,Oceania,New South Wales,Goulburn
+2153,Brazil,South,Parana,Rolândia
+2154,China,North Asia,Hubei,Laohekou
+2155,United Kingdom,North,England,Blackburn
+2156,Netherlands,Central,Gelderland,Doetinchem
+2157,Romania,EMEA,Botosani,Botosani
+2158,Egypt,Africa,Bani Suwayf,Beni Suef
+2159,France,Central,Midi-Pyrénées,Tarbes
+2160,Italy,South,Sicily,Modica
+2161,United States,Central,Texas,Grand Prairie
+2162,Swaziland,Africa,Manzini,Manzini
+2163,United States,Central,Texas,Port Arthur
+2164,Mexico,North,Guanajuato,San Francisco del Rincón
+2165,France,Central,Ile-de-France,Chatou
+2166,United States,East,Ohio,Akron
+2167,Italy,South,Piedmont,Novara
+2168,United States,West,Colorado,Broomfield
+2169,Netherlands,Central,South Holland,Capelle aan den IJssel
+2170,Brazil,South,São Paulo,Francisco Morato
+2171,Australia,Oceania,Queensland,Torquay
+2172,South Africa,Africa,Western Cape,Stellenbosch
+2173,United States,Central,Indiana,La Porte
+2174,France,Central,Lorraine,Bar-le-Duc
+2175,Brazil,South,São Paulo,Jundiaí
+2176,Mexico,North,México,Cuautitlán
+2177,Spain,South,Castile and León,Palencia
+2178,Nigeria,Africa,Enugu,Enugu
+2179,Egypt,Africa,Aswan,Idfu
+2180,United States,Central,Illinois,Buffalo Grove
+2181,United States,Central,Illinois,Woodstock
+2182,Mexico,North,Colima,Manzanillo
+2183,Brazil,South,Pernambuco,Recife
+2184,United Kingdom,North,England,Bedford
+2185,Tanzania,Africa,Ruvuma,Mbinga
+2186,United States,South,North Carolina,Monroe
+2187,Cameroon,Africa,Nord-Ouest,Bamenda
+2188,Germany,Central,Baden-Württemberg,Heilbronn
+2189,Mexico,North,Jalisco,Puerto Vallarta
+2190,China,North Asia,Heilongjiang,Qiqihar
+2191,France,Central,Ile-de-France,Sarcelles
+2192,France,Central,Nord-Pas-de-Calais,Carvin
+2193,Italy,South,Lazio,Latina
+2194,Indonesia,Southeast Asia,Jawa Tengah,Purwokerto
+2195,United States,Central,Minnesota,Rochester
+2196,Italy,South,Campania,Torre del Greco
+2197,Turkey,EMEA,Diyarbakir,Diyarbakir
+2198,France,Central,Ile-de-France,Mitry-Mory
+2199,India,Central Asia,Uttarakhand,Srinagar
+2200,Romania,EMEA,Mures,Targu Mures
+2201,Trinidad and Tobago,Caribbean,Chaguanas,Chaguanas
+2202,United States,East,New York,Utica
+2203,Colombia,South,Norte de Santander,Los Patios
+2204,Brazil,South,Goiás,Anápolis
+2205,United States,South,Florida,Orlando
+2206,United Kingdom,North,England,Bournemouth
+2207,Brazil,South,Rio Grande do Sul,Porto Alegre
+2208,Brazil,South,São Paulo,São José dos Campos
+2209,United States,West,California,Pico Rivera
+2210,Malaysia,Southeast Asia,Perak,Taiping
+2211,Brazil,South,São Paulo,Andradina
+2212,Germany,Central,Thuringia,Erfurt
+2213,United States,West,Washington,Olympia
+2214,United States,West,California,Vacaville
+2215,United States,West,Oregon,Tigard
+2216,United States,West,California,Stockton
+2217,Bulgaria,EMEA,Vratsa,Vratsa
+2218,Venezuela,South,Guárico,Valle de La Pascua
+2219,Spain,South,Castile-La Mancha,Talavera de la Reina
+2220,United States,East,New York,Hempstead
+2221,Italy,South,Tuscany,Montecatini Terme
+2222,Venezuela,South,Bolivar,Guayana
+2223,United States,Central,Missouri,Gladstone
+2224,China,North Asia,Hubei,Yingcheng
+2225,Mexico,North,Chiapas,Tuxtla Gutiérrez
+2226,Philippines,Southeast Asia,National Capital,Pasig
+2227,Peru,South,Ucayali,Pucallpa
+2228,United States,South,Tennessee,Johnson City
+2229,Canada,Canada,Ontario,Richmond Hill
+2230,Italy,South,Campania,Capua
+2231,Mexico,North,Querétaro,San Juan del Río
+2232,Peru,South,Ica,Chincha Alta
+2233,United States,West,California,Oceanside
+2234,Brazil,South,Paraíba,Sousa
+2235,United Kingdom,North,England,Norwich
+2236,Italy,South,Campania,Boscoreale
+2237,Germany,Central,Baden-Württemberg,Friedrichshafen
+2238,Uzbekistan,EMEA,Namangan,Namangan
+2239,Bolivia,South,Tarija,Yacuiba
+2240,Chile,South,Santiago,La Pintana
+2241,France,Central,Ile-de-France,Corbeil-Essonnes
+2242,France,Central,Aquitaine,Anglet
+2243,Cameroon,Africa,Est,Bertoua
+2244,Brazil,South,Piauí,Teresina
+2245,Honduras,Central,Yoro,El Progreso
+2246,Democratic Republic of the Congo,Africa,Bandundu,Kikwit
+2247,South Africa,Africa,Limpopo,Giyani
+2248,Colombia,South,Santander,Girón
+2249,Israel,EMEA,Tel Aviv,Holon
+2250,Brazil,South,Pará,Altamira
+2251,United States,Central,Michigan,Oak Park
+2252,Brazil,South,Rio de Janeiro,Cabo Frio
+2253,France,Central,Auvergne,Moulins
+2254,United Kingdom,North,England,Stockport
+2255,Guatemala,Central,Guatemala,Amatitlán
+2256,United States,Central,Wisconsin,Eau Claire
+2257,United Kingdom,North,England,Hove
+2258,Turkey,EMEA,Istanbul,Kartal
+2259,United States,East,Pennsylvania,York
+2260,Nigeria,Africa,Oyo,Ibadan
+2261,Brazil,South,São Paulo,Jacareí
+2262,Germany,Central,North Rhine-Westphalia,Marl
+2263,France,Central,Ile-de-France,Bonneuil-sur-Marne
+2264,United States,Central,Illinois,Skokie
+2265,Saudi Arabia,EMEA,'Asir,Abha
+2266,Tanzania,Africa,Tanga,Tanga
+2267,United Kingdom,North,England,Eastbourne
+2268,Egypt,Africa,Suhaj,Tahta
+2269,Belarus,EMEA,Vitsyebsk,Orsha
+2270,Yemen,EMEA,Ibb,Ibb
+2271,Brazil,South,Minas Gerais,Passos
+2272,France,Central,Lower Normandy,Cherbourg-Octeville
+2273,Mexico,North,Morelos,Temixco
+2274,United States,Central,Illinois,Oswego
+2275,United Kingdom,North,England,Rottingdean
+2276,China,North Asia,Heilongjiang,Hailin
+2277,United States,West,California,Salinas
+2278,Morocco,Africa,Souss-Massa-Draâ,Agadir
+2279,France,Central,Languedoc-Roussillon,Castelnau-le-Lez
+2280,Romania,EMEA,Neamt,Roman
+2281,United States,West,California,Costa Mesa
+2282,Ukraine,EMEA,Chernihiv,Chernihiv
+2283,Zambia,Africa,Southern,Livingstone
+2284,United States,Central,Wisconsin,Superior
+2285,United States,West,California,Whittier
+2286,Kenya,Africa,Nyanza,Kisumu
+2287,Algeria,Africa,Constantine,Constantine
+2288,Democratic Republic of the Congo,Africa,Maniema,Kindu
+2289,Egypt,Africa,Al Buhayrah,Damanhur
+2290,Egypt,Africa,Al Minufiyah,Minuf
+2291,Ukraine,EMEA,Cherkasy,Cherkasy
+2292,Turkey,EMEA,Bolu,Bolu
+2293,United States,West,California,Morgan Hill
+2294,India,Central Asia,Rajasthan,Kota
+2295,India,Central Asia,Haryana,Hisar
+2296,United States,Central,Illinois,Carol Stream
+2297,France,Central,Centre,Chartres
+2298,United States,Central,Texas,Lubbock
+2299,China,North Asia,Guangxi,Guiping
+2300,China,North Asia,Hebei,Shijiazhuang
+2301,Peru,South,Callao,Callao
+2302,Japan,North Asia,Oita,Yokkaichi
+2303,Kyrgyzstan,EMEA,Osh,Osh
+2304,United Kingdom,North,England,Rochdale
+2305,Mexico,North,Oaxaca,Salina Cruz
+2306,Germany,Central,Baden-Württemberg,Villingen-Schwenningen
+2307,China,North Asia,Jilin,Huadian
+2308,Venezuela,South,Vargas,Catia La Mar
+2309,France,Central,Pays de la Loire,Cholet
+2310,South Korea,North Asia,Gyeonggi,Bucheon
+2311,France,Central,Ile-de-France,Fontenay-sous-Bois
+2312,United States,South,Florida,Hollywood
+2313,Sweden,North,Stockholm,Nacka
+2314,France,Central,Provence-Alpes-Côte d'Azur,Cannes
+2315,Philippines,Southeast Asia,Calabarzon,Calamba
+2316,France,Central,Nord-Pas-de-Calais,La Madeleine
+2317,United Kingdom,North,Scotland,Livingston
+2318,Brazil,South,Roraima,Boa Vista
+2319,United States,South,Arkansas,Pine Bluff
+2320,Sudan,Africa,White Nile,Ad Diwem
+2321,India,Central Asia,Telangana,Karimnagar
+2322,Afghanistan,Central Asia,Hirat,Herat
+2323,Japan,North Asia,Osaka,Takatsuki
+2324,United States,East,New Jersey,Clifton
+2325,Russia,EMEA,Irkutsk,Angarsk
+2326,Italy,South,Lombardy,Gallarate
+2327,Mexico,North,Quintana Roo,Chetumal
+2328,United States,South,Tennessee,Franklin
+2329,United States,East,Maine,Bangor
+2330,Netherlands,Central,North Holland,Zaanstad
+2331,United States,Central,Indiana,Mishawaka
+2332,Ukraine,EMEA,Donetsk,Horlivka
+2333,Brazil,South,Alagoas,São Miguel dos Campos
+2334,Ghana,Africa,Northern,Tamale
+2335,France,Central,Provence-Alpes-Côte d'Azur,Salon-de-Provence
+2336,France,Central,Poitou-Charentes,Cognac
+2337,Bulgaria,EMEA,Plovdiv,Plovdiv
+2338,France,Central,Nord-Pas-de-Calais,Halluin
+2339,United Kingdom,North,England,Hereford
+2340,China,North Asia,Zhejiang,Huzhou
+2341,Germany,Central,North Rhine-Westphalia,Recklinghausen
+2342,Ecuador,South,Manabi,Portoviejo
+2343,Cameroon,Africa,Adamaoua,Ngaoundere
+2344,Brazil,South,Rio Grande do Sul,São Leopoldo
+2345,Italy,South,Tuscany,Pistoia
+2346,Spain,South,Catalonia,Rubí
+2347,China,North Asia,Chongqing,Hechuan
+2348,Poland,EMEA,Masovia,Radom
+2349,Turkey,EMEA,Istanbul,Esenyurt
+2350,Italy,South,Lombardy,Bergamo
+2351,Brazil,South,São Paulo,Diadema
+2352,France,Central,Ile-de-France,Vanves
+2353,Tanzania,Africa,Kilimanjaro,Moshi
+2354,Brazil,South,São Paulo,Jaú
+2355,Brazil,South,Santa Catarina,Caçador
+2356,United States,West,California,Murrieta
+2357,Bolivia,South,La Paz,La Paz
+2358,Philippines,Southeast Asia,Central Luzon,San Jose del Monte
+2359,United States,Central,Minnesota,Moorhead
+2360,Brazil,South,São Paulo,Lorena
+2361,United Kingdom,North,England,Northwich
+2362,India,Central Asia,Telangana,Warangal
+2363,Turkey,EMEA,Ankara,Polatli
+2364,United Kingdom,North,England,Dunstable
+2365,Turkmenistan,EMEA,Ashgabat,Ashgabat
+2366,Colombia,South,Caquetá,Florencia
+2367,India,Central Asia,Maharashtra,Dhule
+2368,Iran,EMEA,Esfahan,Najafabad
+2369,France,Central,Franche-Comté,Belfort
+2370,United States,West,California,Santa Maria
+2371,United States,West,New Mexico,Carlsbad
+2372,Mexico,North,Jalisco,Lagos de Moreno
+2373,France,Central,Ile-de-France,Pontault-Combault
+2374,United States,Central,Texas,Bryan
+2375,Turkey,EMEA,Manisa,Turgutlu
+2376,United States,South,Georgia,Athens
+2377,Italy,South,Marche,Pesaro
+2378,United States,South,Florida,Saint Petersburg
+2379,United States,East,Massachusetts,Quincy
+2380,Romania,EMEA,Iasi,Iasi
+2381,Brazil,South,Rio Grande do Norte,Mossoró
+2382,Germany,Central,Hesse,Friedberg
+2383,United States,East,Pennsylvania,Lancaster
+2384,China,North Asia,Henan,Puyang
+2385,Chile,South,Los Lagos,Puerto Montt
+2386,Egypt,Africa,Al Fayyum,Al Fayyum
+2387,Jordan,EMEA,Irbid,Irbid
+2388,Brazil,South,Minas Gerais,Barbacena
+2389,China,North Asia,Henan,Zhumadian
+2390,Iran,EMEA,Markazi,Arak
+2391,France,Central,Languedoc-Roussillon,Perpignan
+2392,United States,East,New Jersey,Westfield
+2393,United States,Central,Texas,Waco
+2394,Germany,Central,Baden-Württemberg,Ludwigsburg
+2395,France,Central,Ile-de-France,Franconville
+2396,Brazil,South,Alagoas,Penedo
+2397,Ukraine,EMEA,Dnipropetrovs'k,Dniprodzerzhyns'k
+2398,Cote d'Ivoire,Africa,Savanes,Korhogo
+2399,France,Central,Lower Normandy,Flers
+2400,Poland,EMEA,Lesser Poland,Tarnow
+2401,Germany,Central,Lower Saxony,Lohne
+2402,Tanzania,Africa,Mara,Musoma
+2403,Tanzania,Africa,Mbeya,Mbeya
+2404,Japan,North Asia,Aichi,Kasugai
+2405,Brazil,South,Bahia,Senhor do Bonfim
+2406,France,Central,Rhône-Alpes,Sallanches
+2407,Netherlands,Central,Gelderland,Apeldoorn
+2408,Turkey,EMEA,Bingol,Karliova
+2409,France,Central,Midi-Pyrénées,Plaisance-du-Touch
+2410,Turkey,EMEA,Kirsehir,Kirsehir
+2411,Iran,EMEA,Gilan,Bandar-e Anzali
+2412,Italy,South,Friuli-Venezia Giulia,Trieste
+2413,Turkey,EMEA,Balikesir,Balikesir
+2414,France,Central,Ile-de-France,Colombes
+2415,Mexico,North,Veracruz,Acayucan
+2416,United States,Central,Texas,Irving
+2417,Italy,South,Emilia-Romagna,Carpi
+2418,Iran,EMEA,Mazandaran,Amol
+2419,Pakistan,Central Asia,Punjab,Bahawalpur
+2420,Iran,EMEA,Sistan Va Baluchestan,Zabol
+2421,Spain,South,Catalonia,Reus
+2422,Portugal,South,Braga,Braga
+2423,Spain,South,Extremadura,Badajoz
+2424,France,Central,Lorraine,Hayange
+2425,Algeria,Africa,Bejaia,Bejaia
+2426,Germany,Central,North Rhine-Westphalia,Unna
+2427,United States,South,Arkansas,Texarkana
+2428,Bolivia,South,Chuquisaca,Sucre
+2429,United States,West,California,Ontario
+2430,France,Central,Pays de la Loire,La Roche-sur-Yon
+2431,Netherlands,Central,Overijssel,Almelo
+2432,Brazil,South,Rio Grande do Sul,Vacaria
+2433,Spain,South,Andalusía,Marbella
+2434,United States,South,Louisiana,Lake Charles
+2435,Turkey,EMEA,Malatya,Malatya
+2436,Brazil,South,Pernambuco,Bezerros
+2437,Saudi Arabia,EMEA,Ash Sharqiyah,Al Hufuf
+2438,Brazil,South,Rio Grande do Sul,Bagé
+2439,Netherlands,Central,South Holland,Delft
+2440,Netherlands,Central,Limburg,Sittard
+2441,India,Central Asia,West Bengal,Panihati
+2442,Mexico,North,Michoacán,Hidalgo
+2443,France,Central,Ile-de-France,Choisy-le-Roi
+2444,India,Central Asia,Rajasthan,Raipur
+2445,Netherlands,Central,North Holland,Uithoorn
+2446,United States,Central,South Dakota,Sioux Falls
+2447,France,Central,Ile-de-France,Eragny
+2448,United States,West,California,Lake Elsinore
+2449,Mexico,North,Baja California,Rosarito
+2450,United States,East,New York,New Rochelle
+2451,India,Central Asia,Chandigarh,Chandigarh
+2452,Japan,North Asia,Kanagawa,Sagamihara
+2453,China,North Asia,Sichuan,Xichang
+2454,France,Central,Provence-Alpes-Côte d'Azur,Cagnes-sur-Mer
+2455,Poland,EMEA,Silesia,Zabrze
+2456,Spain,South,Murcia,Molina de Segura
+2457,Democratic Republic of the Congo,Africa,Bas-Congo,Matadi
+2458,China,North Asia,Yunnan,Kaiyuan
+2459,Argentina,South,Corrientes,Esquina
+2460,Iran,EMEA,Markazi,Saveh
+2461,Turkey,EMEA,Ankara,Cankaya
+2462,Brazil,South,Rio Grande do Sul,Uruguaiana
+2463,France,Central,Rhône-Alpes,Valence
+2464,Zimbabwe,Africa,Harare,Chitungwiza
+2465,South Africa,Africa,Eastern Cape,East London
+2466,United States,South,Arkansas,Conway
+2467,Nigeria,Africa,Borno,Maiduguri
+2468,France,Central,Ile-de-France,Gonesse
+2469,Netherlands,Central,South Holland,Schiedam
+2470,United States,South,Mississippi,Hattiesburg
+2471,Germany,Central,North Rhine-Westphalia,Wetter (Ruhr)
+2472,Colombia,South,Santander,Floridablanca
+2473,United Kingdom,North,England,Halifax
+2474,United Kingdom,North,England,Bebington
+2475,France,Central,Ile-de-France,Saint-Cloud
+2476,Brazil,South,Mato Grosso,Pontes e Lacerda
+2477,United Kingdom,North,England,Solihull
+2478,Turkey,EMEA,Hatay,Iskenderun
+2479,Turkey,EMEA,Canakkale,Canakkale
+2480,United States,East,New York,Freeport
+2481,Turkey,EMEA,Adana,Kozan
+2482,United States,West,Montana,Helena
+2483,Albania,EMEA,Vlorë,Vlore
+2484,Italy,South,Lombardy,Monza
+2485,United States,South,Florida,Palm Coast
+2486,Brazil,South,Rio de Janeiro,São Pedro da Aldeia
+2487,Democratic Republic of the Congo,Africa,South Kivu,Uvira
+2488,Japan,North Asia,Tokyo,Edogawa-ku
+2489,Indonesia,Southeast Asia,Jawa Barat,Cirebon
+2490,Kazakhstan,EMEA,Aqmola,Kokshetau
+2491,Belgium,Central,Brussels,Brussels
+2492,China,North Asia,Jiangsu,Yancheng
+2493,Canada,Canada,British Columbia,Saanich
+2494,United States,West,California,Manteca
+2495,France,Central,Ile-de-France,Neuilly-sur-Marne
+2496,Thailand,Southeast Asia,Nakhon Ratchasima,Nakhon Ratchasima
+2497,France,Central,Lorraine,Saint-Avold
+2498,Turkey,EMEA,Izmir,Gaziemir
+2499,United States,Central,Texas,Edinburg
+2500,Netherlands,Central,Overijssel,Hengelo
+2501,Indonesia,Southeast Asia,Jawa Tengah,Pekalongan
+2502,Germany,Central,Saxony-Anhalt,Naumburg
+2503,Italy,South,Lazio,Civitavecchia
+2504,Germany,Central,North Rhine-Westphalia,Dinslaken
+2505,Poland,EMEA,Greater Poland,Pila
+2506,United States,West,California,Moreno Valley
+2507,Turkey,EMEA,Antalya,Antalya
+2508,France,Central,Lorraine,Epinal
+2509,France,Central,Provence-Alpes-Côte d'Azur,Grasse
+2510,United Kingdom,North,England,Ipswich
+2511,United Kingdom,North,Scotland,East Kilbride
+2512,Poland,EMEA,Silesia,Chorzow
+2513,France,Central,Ile-de-France,Montfermeil
+2514,Germany,Central,North Rhine-Westphalia,Gummersbach
+2515,Italy,South,Sicily,Marsala
+2516,South Korea,North Asia,Gyeonggi,Suwon
+2517,Turkey,EMEA,Izmir,Buca
+2518,Spain,South,Catalonia,Sant Boi de Llobregat
+2519,Turkey,EMEA,Van,Van
+2520,United States,East,New Jersey,Hackensack
+2521,Mexico,North,Jalisco,Guzmán
+2522,Brazil,South,Bahia,Cruz das Almas
+2523,Argentina,South,Río Negro,Cipolletti
+2524,China,North Asia,Jilin,Siping
+2525,Colombia,South,Arauca,Arauca
+2526,Indonesia,Southeast Asia,Jawa Barat,Sukabumi
+2527,Brazil,South,São Paulo,Registro
+2528,Ukraine,EMEA,Sevastopol',Sevastopol
+2529,Germany,Central,North Rhine-Westphalia,Langenfeld
+2530,India,Central Asia,Uttar Pradesh,Mirzapur
+2531,United States,East,New York,Rome
+2532,Netherlands,Central,Utrecht,Zeist
+2533,Italy,South,Campania,Benevento
+2534,Finland,North,Kymenlaakso,Kotka
+2535,Dominican Republic,Caribbean,Peravia,Baní
+2536,Japan,North Asia,Osaka,Ibaraki
+2537,Morocco,Africa,Taza-Al Hoceima-Taounate,Taza
+2538,Brazil,South,Ceará,Quixadá
+2539,Japan,North Asia,Osaka,Yao
+2540,Venezuela,South,Nueva Esparta,Porlamar
+2541,Uzbekistan,EMEA,Qashqadaryo,Qarshi
+2542,Ukraine,EMEA,Ternopil',Ternopil'
+2543,France,Central,Ile-de-France,Le Blanc-Mesnil
+2544,Indonesia,Southeast Asia,Jawa Barat,Tangerang
+2545,South Africa,Africa,Gauteng,Centurion
+2546,United States,South,Florida,Delray Beach
+2547,United States,South,Florida,Pembroke Pines
+2548,Colombia,South,Nariño,Ipiales
+2549,United States,East,Connecticut,Bristol
+2550,Russia,EMEA,Irkutsk,Bratsk
+2551,Pakistan,Central Asia,Punjab,Sialkot
+2552,France,Central,Aquitaine,Pessac
+2553,China,North Asia,Shandong,Rizhao
+2554,Vietnam,Southeast Asia,Khánh Hòa,Nha Trang
+2555,Germany,Central,Baden-Württemberg,Freiburg
+2556,Colombia,South,Norte de Santander,Ocaña
+2557,France,Central,Ile-de-France,Bezons
+2558,Bulgaria,EMEA,Yambol,Yambol
+2559,China,North Asia,Heilongjiang,Shangzhi
+2560,Russia,EMEA,Bashkortostan,Oktyabr'skiy
+2561,France,Central,Picardy,Senlis
+2562,Argentina,South,Provincia de Buenos Aires,Mar del Plata
+2563,Ethiopia,Africa,Dire Dawa,Dire Dawa
+2564,Italy,South,Sicily,Agrigento
+2565,United Kingdom,North,England,Sale
+2566,France,Central,Nord-Pas-de-Calais,Cambrai
+2567,Nigeria,Africa,Abia,Aba
+2568,Brazil,South,Minas Gerais,Poços de Caldas
+2569,France,Central,Rhône-Alpes,Vaulx-en-Velin
+2570,Rwanda,Africa,Southern,Butare
+2571,Paraguay,South,Asunción,Asunción
+2572,Argentina,South,Mendoza,Mendoza
+2573,United Kingdom,North,England,Southport
+2574,United States,West,Montana,Missoula
+2575,Brazil,South,Minas Gerais,Itaúna
+2576,Iran,EMEA,Razavi Khorasan,Sabzevar
+2577,Canada,Canada,Ontario,Markham
+2578,India,Central Asia,Maharashtra,Sangli
+2579,Germany,Central,Bremen,Bremerhaven
+2580,United States,South,Florida,Miramar
+2581,Romania,EMEA,Mehedinti,Drobeta-Turnu Severin
+2582,India,Central Asia,Gujarat,Jodhpur
+2583,Sierra Leone,Africa,Southern,Bo
+2584,Italy,South,Sicily,Acireale
+2585,France,Central,Picardy,Laon
+2586,United States,South,Virginia,Hampton
+2587,United States,West,California,Redding
+2588,Turkey,EMEA,Tekirdag,Corlu
+2589,Romania,EMEA,Maramures,Baia Mare
+2590,Venezuela,South,Anzoátegui,San José de Guanipa
+2591,Japan,North Asia,Shizuoka,Nagaoka
+2592,India,Central Asia,West Bengal,Durgapur
+2593,France,Central,Burgundy,Mâcon
+2594,China,North Asia,Heilongjiang,Zhaoyuan
+2595,United States,Central,Texas,Tyler
+2596,France,Central,Brittany,Ploemeur
+2597,Mexico,North,Baja California Sur,La Paz
+2598,Austria,EMEA,Tyrol,Innsbruck
+2599,France,Central,Pays de la Loire,Vertou
+2600,United States,East,Massachusetts,Holyoke
+2601,France,Central,Languedoc-Roussillon,Mauguio
+2602,Japan,North Asia,Chiba,Funabashi
+2603,Turkey,EMEA,Elazig,Elazig
+2604,Argentina,South,Santa Fe,San Justo
+2605,Ecuador,South,Pichincha,Santo Domingo de los Colorados
+2606,Germany,Central,North Rhine-Westphalia,Gladbeck
+2607,United States,West,California,Woodland
+2608,China,North Asia,Xinjiang Uygur,Korla
+2609,France,Central,Ile-de-France,Maisons-Alfort
+2610,Italy,South,Apulia,Bisceglie
+2611,United States,West,Utah,Draper
+2612,Brazil,South,Pernambuco,Jurema
+2613,India,Central Asia,Karnataka,Bijapur
+2614,Germany,Central,North Rhine-Westphalia,Witten
+2615,Italy,South,Tuscany,Marina di Carrara
+2616,Brazil,South,São Paulo,Taboão da Serra
+2617,France,Central,Ile-de-France,Meaux
+2618,Spain,South,Madrid,Alcobendas
+2619,Germany,Central,Lower Saxony,Cuxhaven
+2620,Benin,Africa,Atakora,Natitingou
+2621,United Kingdom,North,England,Basingstoke
+2622,Poland,EMEA,Silesia,Czestochowa
+2623,United States,South,Tennessee,Lebanon
+2624,Brazil,South,Maranhão,Pinheiro
+2625,France,Central,Midi-Pyrénées,Albi
+2626,China,North Asia,Guangxi,Wuzhou
+2627,Nigeria,Africa,Kwara,Ilorin
+2628,Brazil,South,Maranhão,Barreirinhas
+2629,United States,East,New Jersey,East Orange
+2630,France,Central,Ile-de-France,Goussainville
+2631,Kazakhstan,EMEA,Qostanay,Qostanay
+2632,United States,East,New Jersey,Vineland
+2633,Italy,South,Emilia-Romagna,Cesena
+2634,Iran,EMEA,Esfahan,Shahreza
+2635,Morocco,Africa,Chaouia-Ouardigha,Settat
+2636,United States,West,California,Rancho Cucamonga
+2637,Italy,South,Campania,Ercolano
+2638,France,Central,Ile-de-France,Vitry-sur-Seine
+2639,France,Central,Provence-Alpes-Côte d'Azur,Cavaillon
+2640,United Kingdom,North,England,Chesterfield
+2641,France,Central,Centre,Gien
+2642,Egypt,Africa,Bur Sa'id,Port Said
+2643,Sweden,North,Stockholm,Solna
+2644,Ukraine,EMEA,Dnipropetrovs'k,Nikopol'
+2645,United States,Central,Texas,San Angelo
+2646,Israel,EMEA,Haifa,Hadera
+2647,Brazil,South,São Paulo,Itapecerica da Serra
+2648,Mexico,North,Jalisco,Ocotlán
+2649,Brazil,South,Rondônia,Vilhena
+2650,Israel,EMEA,Tel Aviv,Tel Aviv
+2651,United States,Central,Michigan,Taylor
+2652,Chile,South,Antofagasta,Antofagasta
+2653,United Kingdom,North,England,Shrewsbury
+2654,France,Central,Upper Normandy,Evreux
+2655,Belgium,Central,Hainaut,Mouscron
+2656,Colombia,South,Santander,Bucaramanga
+2657,Poland,EMEA,Lodz,Piotrkow Trybunalski
+2658,China,North Asia,Zhejiang,Jiaxing
+2659,China,North Asia,Hebei,Zhangjiakou
+2660,Uzbekistan,EMEA,Andijan,Andijon
+2661,Germany,Central,North Rhine-Westphalia,Arnsberg
+2662,France,Central,Provence-Alpes-Côte d'Azur,Les Pennes-Mirabeau
+2663,Zimbabwe,Africa,Harare,Harare
+2664,United States,Central,Missouri,Saint Louis
+2665,Algeria,Africa,Tizi Ouzou,Boghni
+2666,United Kingdom,North,England,Runcorn
+2667,Uruguay,South,Canelones,Las Piedras
+2668,China,North Asia,Hunan,Changde
+2669,Cuba,Caribbean,Las Tunas,Puerto Padre
+2670,France,Central,Pays de la Loire,Carquefou
+2671,United States,Central,Iowa,Cedar Rapids
+2672,Morocco,Africa,Gharb-Chrarda-Béni Hssen,Kenitra
+2673,Italy,South,Campania,Caserta
+2674,France,Central,Picardy,Saint-Quentin
+2675,Turkey,EMEA,Osmaniye,Osmaniye
+2676,Argentina,South,Misiones,Posadas
+2677,Brazil,South,Bahia,Brumado
+2678,China,North Asia,Hubei,Xianning
+2679,United States,South,Tennessee,Chattanooga
+2680,United States,South,Virginia,Salem
+2681,Iran,EMEA,Khuzestan,Khorramshahr
+2682,Sweden,North,Södermanland,Eskilstuna
+2683,India,Central Asia,Maharashtra,Jalna
+2684,Kazakhstan,EMEA,Pavlodar,Pavlodar
+2685,Estonia,EMEA,Tartumaa,Tartu
+2686,United States,West,California,Encinitas
+2687,Algeria,Africa,Sidi Bel Abbes,Sidi Bel Abbes
+2688,Uganda,Africa,Kampala,Kampala
+2689,Iran,EMEA,Qazvin,Qazvin
+2690,Turkey,EMEA,Igdir,Igdir
+2691,France,Central,Upper Normandy,Louviers
+2692,Venezuela,South,Portuguesa,Guanare
+2693,Egypt,Africa,Al Minya,Mallawi
+2694,United States,Central,Texas,Bedford
+2695,United Kingdom,North,England,Kettering
+2696,Germany,Central,North Rhine-Westphalia,Leverkusen
+2697,Bosnia and Herzegovina,EMEA,Federation of Bosnia and Herzegovina,Zenica
+2698,Russia,EMEA,Chelyabinsk,Miass
+2699,Poland,EMEA,Silesia,Tychy
+2700,Morocco,Africa,Meknès-Tafilalet,Khenifra
+2701,Ukraine,EMEA,L'viv,Drogobych
+2702,United States,West,California,Visalia
+2703,Hungary,EMEA,Hajdu-Bihar,Balmazujvaros
+2704,Guatemala,Central,Guatemala,Guatemala City
+2705,France,Central,Centre,Fleury-les-Aubrais
+2706,Morocco,Africa,Grand Casablanca,Mohammedia
+2707,United States,South,Tennessee,Hendersonville
+2708,Venezuela,South,Portuguesa,Acarigua
+2709,Venezuela,South,Monagas,Maturín
+2710,Slovakia,EMEA,Nitra,Nitra
+2711,Venezuela,South,Lara,Barquisimeto
+2712,United States,Central,Texas,League City
+2713,El Salvador,Central,Cuscatlán,San Martín
+2714,Netherlands,Central,Gelderland,Barneveld
+2715,Turkey,EMEA,Mersin,Tarsus
+2716,Brazil,South,Minas Gerais,Pirapora
+2717,United States,Central,South Dakota,Rapid City
+2718,India,Central Asia,Karnataka,Bellary
+2719,United States,Central,Illinois,Frankfort
+2720,Russia,EMEA,Belgorod,Gubkin
+2721,Germany,Central,North Rhine-Westphalia,Velbert
+2722,Sri Lanka,Central Asia,Western,Colombo
+2723,India,Central Asia,Uttar Pradesh,Mau
+2724,Netherlands,Central,Overijssel,Zwolle
+2725,Algeria,Africa,Djelfa,Messaad
+2726,Brazil,South,Parana,Umuarama
+2727,United States,Central,Illinois,Park Ridge
+2728,United States,East,Connecticut,Norwich
+2729,Turkey,EMEA,Kayseri,Kayseri
+2730,Turkey,EMEA,Corum,Corum
+2731,Turkey,EMEA,Manisa,Manisa
+2732,France,Central,Ile-de-France,Domont
+2733,France,Central,Ile-de-France,Neuilly-Plaisance
+2734,Brazil,South,São Paulo,Lins
+2735,Turkey,EMEA,Hatay,Antakya
+2736,Canada,Canada,Ontario,St. Catharines
+2737,France,Central,Centre,Blois
+2738,Nigeria,Africa,Akwa Ibom,Ikot Ekpene
+2739,United States,Central,Kansas,Manhattan
+2740,Belgium,Central,Hainaut,Tournai
+2741,France,Central,Burgundy,Montceau-les-Mines
+2742,United States,Central,Texas,The Colony
+2743,Turkey,EMEA,Nigde,Nigde
+2744,United States,South,Florida,Sanford
+2745,France,Central,Rhône-Alpes,Bourgoin-Jallieu
+2746,China,North Asia,Zhejiang,Lanxi
+2747,United States,Central,Texas,Conroe
+2748,China,North Asia,Guangdong,Lianzhou
+2749,Turkey,EMEA,Mersin,Mezitli
+2750,France,Central,Ile-de-France,Sceaux
+2751,Norway,North,Rogaland,Stavanger
+2752,Germany,Central,Baden-Württemberg,Eggenstein-Leopoldshafen
+2753,Italy,South,Marche,Ancona
+2754,Mexico,North,Campeche,Campeche
+2755,France,Central,Pays de la Loire,Saint-Herblain
+2756,Russia,EMEA,Tambov,Uvarovo
+2757,Germany,Central,North Rhine-Westphalia,Hilden
+2758,France,Central,Pays de la Loire,Saint-Nazaire
+2759,Brazil,South,Santa Catarina,Navegantes
+2760,Canada,Canada,Saskatchewan,Saskatoon
+2761,France,Central,Ile-de-France,Cormeilles-en-Parisis
+2762,India,Central Asia,West Bengal,Bhatpara
+2763,Niger,Africa,Zinder,Zinder
+2764,United States,West,Washington,Covington
+2765,United States,Central,Kansas,Olathe
+2766,United Kingdom,North,England,Barnsley
+2767,United States,West,California,La Mesa
+2768,Japan,North Asia,Osaka,Sakai
+2769,Colombia,South,Atlántico,Malambo
+2770,Pakistan,Central Asia,Khyber Pakhtunkhwa,Mardan
+2771,Peru,South,Loreto,Iquitos
+2772,South Africa,Africa,Gauteng,Randfontein
+2773,Sweden,North,Stockholm,Huddinge
+2774,China,North Asia,Jiangsu,Chengjiang
+2775,United States,West,California,Lancaster
+2776,Angola,Africa,Bie,Kuito
+2777,Belarus,EMEA,Brest,Pinsk
+2778,France,Central,Midi-Pyrénées,Auch
+2779,Mexico,North,Michoacán,Sahuayo de José María Morelos
+2780,France,Central,Rhône-Alpes,Albertville
+2781,Italy,South,Sicily,Vittoria
+2782,Morocco,Africa,Tanger-Tétouan,Tetouan
+2783,Germany,Central,Hesse,Langen
+2784,Japan,North Asia,Aichi,Handa
+2785,France,Central,Brittany,Lanester
+2786,United States,South,Florida,Daytona Beach
+2787,Morocco,Africa,Chaouia-Ouardigha,Khouribga
+2788,France,Central,Provence-Alpes-Côte d'Azur,Gardanne
+2789,United States,Central,Illinois,Bloomington
+2790,Spain,South,Madrid,Valdemoro
+2791,India,Central Asia,Karnataka,Gulbarga
+2792,United States,East,Maryland,Rockville
+2793,Japan,North Asia,Fukui,Fukui
+2794,Spain,South,Castile and León,Salamanca
+2795,Argentina,South,Santiago del Estero,Santiago del Estero
+2796,China,North Asia,Jiangsu,Qidong
+2797,Dominican Republic,Caribbean,San Cristóbal,Bajos de Haina
+2798,France,Central,Lorraine,Forbach
+2799,United States,Central,Illinois,Freeport
+2800,China,North Asia,Jiangxi,Yichun
+2801,Spain,South,Andalusía,Cártama
+2802,France,Central,Ile-de-France,Villiers-sur-Marne
+2803,Nigeria,Africa,Niger,Minna
+2804,Kazakhstan,EMEA,Almaty City,Almaty
+2805,Mexico,North,Veracruz,Coatzacoalcos
+2806,Brazil,South,Minas Gerais,Contagem
+2807,United States,East,New York,Niagara Falls
+2808,Moldova,EMEA,Balti,Balti
+2809,South Korea,North Asia,Ulsan,Ulsan
+2810,United States,Central,Kansas,Garden City
+2811,Japan,North Asia,Saitama,Kawaguchi
+2812,Brazil,South,Minas Gerais,Boa Esperança
+2813,Colombia,South,Quindío,Armenia
+2814,Venezuela,South,Miranda,Petare
+2815,Brazil,South,São Paulo,Bragança Paulista
+2816,Brazil,South,São Paulo,Barretos
+2817,Italy,South,Lazio,Guidonia Montecelio
+2818,France,Central,Auvergne,Cournon-d'Auvergne
+2819,France,Central,Nord-Pas-de-Calais,Boulogne-sur-Mer
+2820,Cameroon,Africa,Littoral,Nkongsamba
+2821,United States,Central,Illinois,Palatine
+2822,Brazil,South,Ceará,Tianguá
+2823,United States,South,South Carolina,North Charleston
+2824,United States,Central,Illinois,Glenview
+2825,Madagascar,Africa,Diana,Antsiranana
+2826,Colombia,South,Cesar,Valledupar
+2827,Brazil,South,São Paulo,Pindamonhangaba
+2828,Mexico,North,Tamaulipas,Tampico
+2829,United States,Central,Texas,Coppell
+2830,Italy,South,Emilia-Romagna,Vignola
+2831,China,North Asia,Shanxi,Jincheng
+2832,United States,East,Maryland,Gaithersburg
+2833,Turkey,EMEA,Kahramanmaras,Kahramanmaras
+2834,United States,Central,Texas,Texas City
+2835,India,Central Asia,West Bengal,Kamarhati
+2836,Democratic Republic of the Congo,Africa,Bandundu,Bandundu
+2837,France,Central,Ile-de-France,Chevilly-Larue
+2838,United States,East,Ohio,Kent
+2839,United States,South,Florida,Port Saint Lucie
+2840,Venezuela,South,Bolivar,Bolívar
+2841,Nigeria,Africa,Delta,Warri
+2842,Mexico,North,Chihuahua,Delicias
+2843,France,Central,Ile-de-France,Alfortville
+2844,Venezuela,South,Yaracuy,Yaritagua
+2845,Ukraine,EMEA,Poltava,Kremenchuk
+2846,France,Central,Ile-de-France,Villeparisis
+2847,France,Central,Lorraine,Verdun
+2848,France,Central,Nord-Pas-de-Calais,Berck
+2849,France,Central,Rhône-Alpes,Roanne
+2850,United States,South,Georgia,Warner Robins
+2851,Tanzania,Africa,Mtwara,Mtwara
+2852,Indonesia,Southeast Asia,Aceh,Banda Aceh
+2853,United States,Central,Michigan,Westland
+2854,China,North Asia,Heilongjiang,Jiamusi
+2855,France,Central,Nord-Pas-de-Calais,Roubaix
+2856,France,Central,Ile-de-France,Villeneuve-la-Garenne
+2857,Japan,North Asia,Tokyo,Katsushika-ku
+2858,United States,West,California,San Mateo
+2859,Italy,South,Marche,Fano
+2860,Portugal,South,Aveiro,Feira
+2861,Cuba,Caribbean,Holguín,Moa
+2862,Germany,Central,North Rhine-Westphalia,Viersen
+2863,Brazil,South,São Paulo,Mococa
+2864,Poland,EMEA,Silesia,Gliwice
+2865,Spain,South,Andalusía,Estepona
+2866,United States,East,Delaware,Dover
+2867,Algeria,Africa,Mostaganem,Mostaganem
+2868,France,Central,Provence-Alpes-Côte d'Azur,Sanary-sur-Mer
+2869,Australia,Oceania,Victoria,Warrnambool
+2870,Turkey,EMEA,Mersin,Mersin
+2871,Bolivia,South,Beni,Trinidad
+2872,France,Central,Lower Normandy,Lisieux
+2873,China,North Asia,Anhui,Datong
+2874,Germany,Central,Bavaria,Neu-Ulm
+2875,Spain,South,Basque Country,Getxo
+2876,Mexico,North,San Luis Potosí,Soledad Díez Gutiérrez
+2877,Italy,South,Emilia-Romagna,Piacenza
+2878,France,Central,Ile-de-France,Clichy
+2879,Japan,North Asia,Aichi,Toyohashi
+2880,United States,East,Connecticut,Milford
+2881,Kazakhstan,EMEA,Astana,Astana
+2882,Ukraine,EMEA,Donetsk,Mariupol'
+2883,Brazil,South,Pernambuco,Garanhuns
+2884,Ukraine,EMEA,Zaporizhzhya,Zaporizhzhya
+2885,India,Central Asia,Rajasthan,Ganganagar
+2886,Venezuela,South,Aragua,Maracay
+2887,United States,South,South Carolina,Summerville
+2888,Egypt,Africa,Asyut,Asyut
+2889,Brazil,South,Rio de Janeiro,Vassouras
+2890,Algeria,Africa,Medea,Medea
+2891,Chile,South,Valparaíso,Viña del Mar
+2892,Canada,Canada,Nova Scotia,Halifax
+2893,Italy,South,Apulia,Trani
+2894,Spain,South,Castile-La Mancha,Toledo
+2895,United Kingdom,North,England,Loughborough
+2896,Netherlands,Central,North Brabant,Helmond
+2897,Germany,Central,Mecklenburg-Vorpommern,Neubrandenburg
+2898,Turkey,EMEA,Istanbul,Buyukcekmece
+2899,United Kingdom,North,England,Darton
+2900,China,North Asia,Jiangxi,Pingxiang
+2901,Morocco,Africa,Rabat-Salé-Zemmour-Zaer,Khemisset
+2902,United States,Central,Texas,College Station
+2903,Brazil,South,Pernambuco,Arcoverde
+2904,Kazakhstan,EMEA,Qaraghandy,Dzhezkazgan
+2905,United States,South,Kentucky,Bowling Green
+2906,China,North Asia,Jilin,Yanji
+2907,United Kingdom,North,Wales,Rhondda
+2908,Poland,EMEA,Silesia,Sosnowiec
+2909,Brazil,South,Bahia,Jequié
+2910,France,Central,Ile-de-France,Rosny-sous-Bois
+2911,Peru,South,Ancash,Chimbote
+2912,Colombia,South,Valle del Cauca,Cartago
+2913,France,Central,Champagne-Ardenne,Troyes
+2914,Spain,South,Madrid,Fuenlabrada
+2915,Turkey,EMEA,Konya,Konya
+2916,United States,South,North Carolina,Wilson
+2917,United Kingdom,North,England,Clacton-on-Sea
+2918,Italy,South,Lazio,Pomezia
+2919,South Africa,Africa,Gauteng,Springs
+2920,Germany,Central,North Rhine-Westphalia,Bergheim
+2921,Canada,Canada,British Columbia,Abbotsford
+2922,Belgium,Central,West Flanders,Bruges
+2923,Brazil,South,São Paulo,Cruzeiro
+2924,United States,Central,Texas,Harlingen
+2925,Egypt,Africa,Ash Sharqiyah,Bilbeis
+2926,Venezuela,South,Sucre,Cumaná
+2927,United States,West,Washington,Vancouver
+2928,India,Central Asia,Haryana,Panipat
+2929,Germany,Central,Baden-Württemberg,Bad Waldsee
+2930,India,Central Asia,Tripura,Udaipur
+2931,Brazil,South,Bahia,Eunápolis
+2932,Denmark,North,Zealand,Kalundborg
+2933,Germany,Central,North Rhine-Westphalia,Bergisch Gladbach
+2934,Brazil,South,Rio Grande do Sul,Santa Cruz do Sul
+2935,United States,West,Utah,Murray
+2936,Spain,South,Valenciana,Gandia
+2937,United States,Central,Michigan,Grand Rapids
+2938,Brazil,South,Goiás,Águas Lindas de Goiás
+2939,Italy,South,Piedmont,Moncalieri
+2940,Netherlands,Central,Limburg,Roermond
+2941,Germany,Central,Lower Saxony,Wolfsburg
+2942,Algeria,Africa,Skikda,Skikda
+2943,China,North Asia,Jilin,Yushu
+2944,Czech Republic,EMEA,Moravian-Silesian,Ostrava
+2945,Chile,South,Valparaíso,Valparaíso
+2946,Mexico,North,Zacatecas,Zacatecas
+2947,Portugal,South,Setúbal,Arrentela
+2948,United States,West,California,Citrus Heights
+2949,France,Central,Ile-de-France,Montesson
+2950,United States,South,Arkansas,Hot Springs
+2951,United States,Central,Minnesota,Coon Rapids
+2952,Israel,EMEA,Tel Aviv,Ramat Gan
+2953,China,North Asia,Shandong,Wendeng
+2954,France,Central,Rhône-Alpes,Caluire-et-Cuire
+2955,Brazil,South,Bahia,Camaçari
+2956,Poland,EMEA,Podlaskie,Bialystok
+2957,Mexico,North,Michoacán,Apatzingán de la Constitución
+2958,Brazil,South,Minas Gerais,Vespasiano
+2959,United States,East,Massachusetts,Cambridge
+2960,Algeria,Africa,Djelfa,Ain Oussera
+2961,Brazil,South,Rondônia,Ji-Paraná
+2962,Russia,EMEA,Moscow,Kashira
+2963,Turkey,EMEA,Adiyaman,Adiyaman
+2964,Romania,EMEA,Giurgiu,Giurgiu
+2965,Brazil,South,Rio de Janeiro,Barra do Piraí
+2966,Tajikistan,EMEA,Khatlon,Kulob
+2967,United States,West,New Mexico,Las Cruces
+2968,Spain,South,Galicia,Pontevedra
+2969,Denmark,North,South Denmark,Esbjerg
+2970,Italy,South,Tuscany,Arezzo
+2971,Spain,South,Andalusía,Mijas
+2972,Mozambique,Africa,Manica,Chimoio
+2973,Turkey,EMEA,Sanliurfa,Sanliurfa
+2974,Brazil,South,Ceará,Camocim
+2975,Russia,EMEA,Novgorod,Pestovo
+2976,France,Central,Lower Normandy,Argentan
+2977,United States,Central,Missouri,Saint Charles
+2978,France,Central,Lorraine,Sarreguemines
+2979,Germany,Central,Baden-Württemberg,Waiblingen
+2980,France,Central,Ile-de-France,Vigneux-sur-Seine
+2981,Algeria,Africa,Tlemcen,Tlemcen
+2982,Mexico,North,Zacatecas,Fresnillo de González Echeverría
+2983,Iran,EMEA,Kermanshah,Javanrud
+2984,France,Central,Poitou-Charentes,Rochefort
+2985,Russia,EMEA,Belgorod,Belgorod
+2986,Italy,South,Apulia,Molfetta
+2987,South Africa,Africa,Gauteng,Westonaria
+2988,Spain,South,Madrid,Majadahonda
+2989,France,Central,Ile-de-France,Maisons-Laffitte
+2990,Brazil,South,Piauí,Floriano
+2991,Netherlands,Central,Zeeland,Terneuzen
+2992,France,Central,Ile-de-France,Les Lilas
+2993,Bulgaria,EMEA,Sliven,Sliven
+2994,Spain,South,Valenciana,Sagunto
+2995,Nigeria,Africa,Delta,Sapele
+2996,Italy,South,Campania,Avellino
+2997,Algeria,Africa,Tipaza,Baraki
+2998,Australia,Oceania,Victoria,Echuca
+2999,Turkmenistan,EMEA,Lebap,Turkmenabat
+3000,Brazil,South,Pará,Oriximiná
+3001,Brazil,South,Rio Grande do Sul,Erechim
+3002,Netherlands,Central,Friesland,Leeuwarden
+3003,China,North Asia,Zhejiang,Yiwu
+3004,Peru,South,Ayacucho,Ayacucho
+3005,United States,Central,Texas,San Marcos
+3006,Argentina,South,Corrientes,Corrientes
+3007,Senegal,Africa,Ziguinchor,Ziguinchor
+3008,United Kingdom,North,Wales,Briton Ferry
+3009,United Kingdom,North,Wales,Barry
+3010,Iran,EMEA,Yazd,Yazd
+3011,Egypt,Africa,Qina,Qena
+3012,United Kingdom,North,England,Hinckley
+3013,Brazil,South,Espírito Santo,Guarapari
+3014,Sweden,North,Skåne,Lund
+3015,France,Central,Centre,Montargis
+3016,France,Central,Ile-de-France,La Celle-Saint-Cloud
+3017,Egypt,Africa,Ash Sharqiyah,Abu Kabir
+3018,United States,West,Idaho,Caldwell
+3019,China,North Asia,Guangxi,Lianzhou
+3020,China,North Asia,Hubei,Xinzhou
+3021,Romania,EMEA,Braila,Braila
+3022,China,North Asia,Hunan,Lianyuan
+3023,Brazil,South,Maranhão,Itapecuru Mirim
+3024,Nigeria,Africa,Yobe,Damaturu
+3025,Turkey,EMEA,Düzce,Duzce
+3026,Mali,Africa,Kayes,Kayes
+3027,Argentina,South,Santa Fe,Santa Fe
+3028,United States,East,Ohio,Grove City
+3029,United States,Central,Michigan,Rochester Hills
+3030,Germany,Central,Bavaria,Bamberg
+3031,Netherlands,Central,South Holland,Alphen aan den Rijn
+3032,Colombia,South,Boyacá,Sogamoso
+3033,Canada,Canada,Ontario,Oakville
+3034,Spain,South,Madrid,El Escorial
+3035,United States,South,North Carolina,Cary
+3036,United States,Central,Texas,Haltom City
+3037,Argentina,South,Santa Fe,Avellaneda
+3038,Italy,South,Lombardy,Treviglio
+3039,France,Central,Franche-Comté,Lons-le-Saunier
+3040,France,Central,Rhône-Alpes,Oullins
+3041,Brazil,South,São Paulo,Indaiatuba
+3042,United Kingdom,North,England,Hemel Hempstead
+3043,Germany,Central,Baden-Württemberg,Mannheim
+3044,Brazil,South,Bahia,Juazeiro
+3045,France,Central,Burgundy,Le Creusot
+3046,Canada,Canada,Quebec,Longueuil
+3047,Cameroon,Africa,Sud-Ouest,Limbe
+3048,Kazakhstan,EMEA,Qaraghandy,Temirtau
+3049,Austria,EMEA,Upper Austria,Linz
+3050,India,Central Asia,Karnataka,Mysore
+3051,China,North Asia,Inner Mongolia,Hohhot
+3052,United States,East,Rhode Island,Woonsocket
+3053,Turkey,EMEA,Kars,Kars
+3054,Turkey,EMEA,Eskisehir,Eskisehir
+3055,Japan,North Asia,Tochigi,Oyama
+3056,Italy,South,Calabria,Cosenza
+3057,China,North Asia,Hubei,Xiangfan
+3058,Uzbekistan,EMEA,Jizzakh,Jizzakh
+3059,Poland,EMEA,Lubusz,Zielona Gora
+3060,United Kingdom,North,England,Fareham
+3061,United States,South,Florida,Boynton Beach
+3062,Peru,South,Puno,Juliaca
+3063,Poland,EMEA,Silesia,Bielsko-Biala
+3064,Kazakhstan,EMEA,Qaraghandy,Qaraghandy
+3065,Italy,South,Basilicata,Potenza
+3066,Brazil,South,Mato Grosso do Sul,Dourados
+3067,United States,Central,Texas,Allen
+3068,France,Central,Ile-de-France,Montgeron
+3069,Canada,Canada,Ontario,Windsor
+3070,Germany,Central,North Rhine-Westphalia,Ennigerloh
+3071,Belgium,Central,East Flanders,Aalst
+3072,Bulgaria,EMEA,Stara Zagora,Stara Zagora
+3073,Croatia,EMEA,Primorsko-Goranska,Rijeka
+3074,United States,East,Ohio,Hamilton
+3075,Brazil,South,São Paulo,Catanduva
+3076,Cameroon,Africa,Ouest,Bafoussam
+3077,Italy,South,Lombardy,Cinisello Balsamo
+3078,Turkey,EMEA,Tokat,Tokat
+3079,Germany,Central,Thuringia,Sonneberg
+3080,Netherlands,Central,South Holland,Dordrecht
+3081,Turkey,EMEA,Ankara,Etimesgut
+3082,China,North Asia,Tianjin,Tanggu
+3083,United States,Central,Iowa,Marion
+3084,Portugal,South,Braga,Guimarães
+3085,United States,Central,Texas,Odessa
+3086,France,Central,Nord-Pas-de-Calais,Saint-Pol-sur-Mer
+3087,Venezuela,South,Aragua,Turmero
+3088,Colombia,South,Valle del Cauca,Palmira
+3089,Peru,South,Moquegua,Ilo
+3090,Belgium,Central,East Flanders,Hamme
+3091,China,North Asia,Zhejiang,Wenling
+3092,Uzbekistan,EMEA,Khorezm,Urganch
+3093,Netherlands,Central,Drenthe,Assen
+3094,Turkey,EMEA,Sivas,Sivas
+3095,Germany,Central,Bavaria,Passau
+3096,Nigeria,Africa,Ogun,Shagamu
+3097,Netherlands,Central,Overijssel,Enschede
+3098,United Kingdom,North,England,Southampton
+3099,France,Central,Brittany,Lorient
+3100,Brazil,South,Bahia,Ilhéus
+3101,Iraq,EMEA,Dhi Qar,An Nasiriyah
+3102,Mexico,North,Sonora,San Luis Río Colorado
+3103,Japan,North Asia,Okayama,Kurashiki
+3104,France,Central,Upper Normandy,Elbeuf
+3105,United States,Central,Michigan,Lincoln Park
+3106,Netherlands,Central,North Holland,Purmerend
+3107,Zambia,Africa,Central,Kabwe
+3108,Kazakhstan,EMEA,Almaty,Sarkand
+3109,United States,Central,Indiana,Elkhart
+3110,Nigeria,Africa,Imo,Owerri
+3111,France,Central,Ile-de-France,Les Pavillons-sous-Bois
+3112,Uganda,Africa,Gulu,Gulu
+3113,China,North Asia,Jiangsu,Taizhou
+3114,United Kingdom,North,England,Nuneaton
+3115,Germany,Central,North Rhine-Westphalia,Willich
+3116,France,Central,Ile-de-France,Tremblay-en-France
+3117,United States,Central,Illinois,Quincy
+3118,Argentina,South,Jujuy,San Salvador de Jujuy
+3119,Japan,North Asia,Ibaraki,Tsukuba
+3120,India,Central Asia,Chhattisgarh,Durg
+3121,Belarus,EMEA,Hrodna,Lida
+3122,United Kingdom,North,England,High Wycombe
+3123,Venezuela,South,Aragua,Palo Negro
+3124,Indonesia,Southeast Asia,Kalimantan Selatan,Banjarmasin
+3125,United States,Central,Illinois,Orland Park
+3126,United States,West,Idaho,Meridian
+3127,United States,South,Georgia,Macon
+3128,Nigeria,Africa,Anambra,Onitsha
+3129,India,Central Asia,Haryana,Sonipat
+3130,China,North Asia,Liaoning,Beipiao
+3131,United States,East,Massachusetts,Marlborough
+3132,Brazil,South,Alagoas,Arapiraca
+3133,Argentina,South,La Pampa,Santa Rosa
+3134,Italy,South,Lazio,Anzio
+3135,United States,Central,Michigan,Holland
+3136,Slovakia,EMEA,Banská Bystrica,Banska Bystrica
+3137,United States,West,Colorado,Commerce City
+3138,Germany,Central,North Rhine-Westphalia,Kerpen
+3139,Cameroon,Africa,Littoral,Edea
+3140,United Kingdom,North,England,Taunton
+3141,Mexico,North,Guanajuato,Acámbaro
+3142,Brazil,South,Rondônia,Ariquemes
+3143,Brazil,South,Rio Grande do Sul,Rio Grande
+3144,China,North Asia,Hunan,Loudi
+3145,United States,South,Tennessee,Bristol
+3146,Brazil,South,Pernambuco,Palmares
+3147,Brazil,South,São Paulo,Guarujá
+3148,France,Central,Alsace,Lingolsheim
+3149,Canada,Canada,Quebec,Quebec
+3150,France,Central,Rhône-Alpes,Montbrison
+3151,Brazil,South,São Paulo,Guaratinguetá
+3152,Germany,Central,Schleswig-Holstein,Flensburg
+3153,China,North Asia,Guangdong,Yangjiang
+3154,Burundi,Africa,Bujumbura-Mairie,Bujumbura
+3155,Netherlands,Central,Limburg,Maastricht
+3156,United States,West,California,Laguna Niguel
+3157,Peru,South,Puno,Puno
+3158,Somalia,Africa,Jubbada Hoose,Kismaayo
+3159,France,Central,Burgundy,Beaune
+3160,Bulgaria,EMEA,Pazardzhik,Pazardzhik
+3161,Japan,North Asia,Hokkaido,Asahikawa
+3162,United States,East,New Jersey,Linden
+3163,Tanzania,Africa,Tabora,Tabora
+3164,United States,Central,Illinois,Champaign
+3165,Mexico,North,Guerrero,Zihuatanejo
+3166,Brazil,South,Bahia,Jacobina
+3167,China,North Asia,Sichuan,Deyang
+3168,Argentina,South,Neuquén,Neuquén
+3169,United Kingdom,North,England,Chatham
+3170,Turkey,EMEA,Bursa,Inegol
+3171,Mali,Africa,Mopti,Mopti
+3172,Madagascar,Africa,Haute-Matsiatra,Fianarantsoa
+3173,United States,Central,Wisconsin,Wausau
+3174,Japan,North Asia,Chiba,Ichikawa
+3175,Peru,South,Cajamarca,Cajamarca
+3176,United States,West,California,Coachella
+3177,Belgium,Central,West Flanders,Kortrijk
+3178,Iraq,EMEA,Diyala,Baqubah
+3179,Italy,South,Piedmont,Alessandria
+3180,Italy,South,Sicily,Gela
+3181,Benin,Africa,Borgou,Parakou
+3182,Argentina,South,La Rioja,La Rioja
+3183,Poland,EMEA,Silesia,Jaworzno
+3184,Argentina,South,Provincia de Buenos Aires,Bahía Blanca
+3185,France,Central,Nord-Pas-de-Calais,Ronchin
+3186,South Africa,Africa,North-West,Rustenburg
+3187,France,Central,Champagne-Ardenne,Chaumont
+3188,Russia,EMEA,Yevrey,Birobidzhan
+3189,Brazil,South,São Paulo,Caraguatatuba
+3190,Canada,Canada,Ontario,Peterborough
+3191,United States,West,Colorado,Littleton
+3192,Turkey,EMEA,Samsun,Samsun
+3193,China,North Asia,Guangdong,Foshan
+3194,Russia,EMEA,Irkutsk,Usol'ye-Sibirskoye
+3195,Romania,EMEA,Arad,Arad
+3196,United States,West,Utah,West Jordan
+3197,Netherlands,Central,Gelderland,Nijmegen
+3198,Brazil,South,São Paulo,Tatuí
+3199,Iran,EMEA,Khuzestan,Shushtar
+3200,United States,South,Louisiana,Kenner
+3201,United Kingdom,North,England,Maidstone
+3202,Colombia,South,Meta,Villavicencio
+3203,China,North Asia,Beijing,Tongzhou
+3204,United States,Central,Illinois,Bolingbrook
+3205,Italy,South,Veneto,Chioggia
+3206,Brazil,South,São Paulo,Praia Grande
+3207,United States,South,Florida,Pompano Beach
+3208,United States,Central,Michigan,Saginaw
+3209,Egypt,Africa,Kafr Ash Shaykh,Disuq
+3210,France,Central,Ile-de-France,Limay
+3211,Turkey,EMEA,Istanbul,Maltepe
+3212,China,North Asia,Shanxi,Changzhi
+3213,New Zealand,Oceania,Waikato,Cambridge
+3214,Mexico,North,Tamaulipas,Valle Hermoso
+3215,China,North Asia,Hubei,Zaoyang
+3216,Brazil,South,São Paulo,Itapetininga
+3217,Italy,South,Tuscany,Pisa
+3218,China,North Asia,Jiangxi,Jingdezhen
+3219,France,Central,Nord-Pas-de-Calais,Mons-en-Baroeul
+3220,Canada,Canada,Quebec,Saint-Laurent
+3221,France,Central,Provence-Alpes-Côte d'Azur,Carpentras
+3222,China,North Asia,Inner Mongolia,Chifeng
+3223,India,Central Asia,Uttar Pradesh,Hapur
+3224,Tanzania,Africa,Morogoro,Morogoro
+3225,Mexico,North,Puebla,Teziutlán
+3226,Netherlands,Central,North Holland,Den Helder
+3227,India,Central Asia,Karnataka,Shimoga
+3228,France,Central,Rhône-Alpes,Annemasse
+3229,Italy,South,Sardinia,Sassari
+3230,United States,Central,Texas,Corpus Christi
+3231,Argentina,South,Provincia de Buenos Aires,San Nicolás de los Arroyos
+3232,Belgium,Central,Liège,Seraing
+3233,Netherlands,Central,North Holland,Hilversum
+3234,China,North Asia,Fujian,Zhangzhou
+3235,United States,South,Florida,Melbourne
+3236,Turkey,EMEA,Erzurum,Erzurum
+3237,Chile,South,Tarapacá,Iquique
+3238,Venezuela,South,Anzoátegui,Barcelona
+3239,Brazil,South,São Paulo,Votuporanga
+3240,Czech Republic,EMEA,Olomouc,Olomouc
+3241,Nigeria,Africa,Zamfara,Gusau
+3242,Saudi Arabia,EMEA,Al Madinah,Yanbu al Bahr
+3243,United States,West,New Mexico,Clovis
+3244,Portugal,South,Lisboa,Loures
+3245,Sweden,North,Stockholm,Upplands Väsby
+3246,France,Central,Franche-Comté,Vesoul
+3247,South Africa,Africa,Free State,Bloemfontein
+3248,Brazil,South,Mato Grosso,Várzea Grande
+3249,Mexico,North,México,Huixquilucan
+3250,Zambia,Africa,Copperbelt,Luanshya
+3251,Togo,Africa,Centrale,Sokode
+3252,China,North Asia,Hunan,Liuyang
+3253,India,Central Asia,West Bengal,Barddhaman
+3254,Argentina,South,Salta,Salta
+3255,Ireland,North,South Dublin,Tallaght
+3256,Italy,South,Sardinia,Quartu Sant'Elena
+3257,United States,East,Massachusetts,New Bedford
+3258,Turkey,EMEA,Manisa,Soma
+3259,Italy,South,Emilia-Romagna,Imola
+3260,France,Central,Centre,Olivet
+3261,France,Central,Ile-de-France,Bobigny
+3262,Philippines,Southeast Asia,Calabarzon,San Pedro
+3263,Iran,EMEA,Ilam,Ilam
+3264,Canada,Canada,Alberta,Red Deer
+3265,France,Central,Aquitaine,Biarritz
+3266,United States,West,California,Modesto
+3267,Iran,EMEA,Razavi Khorasan,Torbat-e Heydariyeh
+3268,Ukraine,EMEA,Luhans'k,Stakhanov
+3269,Belarus,EMEA,Vitsyebsk,Polatsk
+3270,France,Central,Picardy,Abbeville
+3271,China,North Asia,Ningxia,Shizuishan
+3272,Macedonia,EMEA,Kumanovo,Kumanovo
+3273,Turkey,EMEA,Mardin,Kiziltepe
+3274,Libya,Africa,Al Marqab,Al Khums
+3275,Sweden,North,Skåne,Helsingborg
+3276,Canada,Canada,Newfoundland,St. John's
+3277,Venezuela,South,Aragua,El Limón
+3278,Lithuania,EMEA,Šiauliai,Siauliai
+3279,Brazil,South,Ceará,Sobral
+3280,South Korea,North Asia,Gyeonggi,Kwangju
+3281,Romania,EMEA,Dolj,Craiova
+3282,Germany,Central,Baden-Württemberg,Baden-Baden
+3283,United States,Central,Texas,Cedar Hill
+3284,United States,East,New Jersey,Orange
+3285,United Kingdom,North,England,Bury
+3286,India,Central Asia,West Bengal,Barasat
+3287,Turkey,EMEA,Antalya,Alanya
+3288,United States,Central,Minnesota,Saint Paul
+3289,Italy,South,Apulia,Bitonto
+3290,Germany,Central,Hesse,Fulda
+3291,Mexico,North,México,Melchor Ocampo
+3292,Italy,South,Liguria,Savona
+3293,Austria,EMEA,Styria,Graz
+3294,Germany,Central,North Rhine-Westphalia,Borken
+3295,Italy,South,Lazio,Fiumicino
+3296,Brazil,South,São Paulo,Itu
+3297,Turkey,EMEA,Ordu,Ordu
+3298,Turkmenistan,EMEA,Mary,Mary
+3299,Austria,EMEA,Salzburg,Salzburg
+3300,Norway,North,Hedmark,Hamar
+3301,United States,West,California,La Quinta
+3302,Mexico,North,Nuevo León,Linares
+3303,India,Central Asia,Uttar Pradesh,Ghaziabad
+3304,China,North Asia,Henan,Shangqiu
+3305,United States,South,North Carolina,Hickory
+3306,United States,West,Oregon,Hillsboro
+3307,Poland,EMEA,Greater Poland,Kalisz
+3308,United States,South,Mississippi,Gulfport
+3309,Ukraine,EMEA,Ivano-Frankivsk,Ivano-Frankivs'k
+3310,United States,East,Maryland,Laurel
+3311,Brazil,South,Mato Grosso do Sul,Cassilândia
+3312,Germany,Central,Bavaria,Schweinfurt
+3313,South Africa,Africa,Gauteng,Benoni
+3314,Benin,Africa,Alibori,Kandi
+3315,Turkey,EMEA,Isparta,Isparta
+3316,Cameroon,Africa,Littoral,Loum
+3317,Tanzania,Africa,Pwani,Bagamoyo
+3318,United States,South,North Carolina,Goldsboro
+3319,United States,South,Florida,Homestead
+3320,Peru,South,La Libertad,Trujillo
+3321,Venezuela,South,Zulia,Cabimas
+3322,Ghana,Africa,Eastern,Koforidua
+3323,United States,Central,Indiana,New Albany
+3324,United States,Central,Indiana,Bloomington
+3325,Nigeria,Africa,Adamawa,Mubi
+3326,Italy,South,Emilia-Romagna,Rimini
+3327,Brazil,South,Amazonas,Manacapuru
+3328,Kazakhstan,EMEA,Pavlodar,Ekibastuz
+3329,United States,West,California,Santa Clara
+3330,Portugal,South,Porto,Vila Nova de Gaia
+3331,China,North Asia,Henan,Anyang
+3332,United Kingdom,North,England,Harlow
+3333,France,Central,Provence-Alpes-Côte d'Azur,La Ciotat
+3334,Brazil,South,Amazonas,Coari
+3335,Germany,Central,North Rhine-Westphalia,Hattingen
+3336,Slovakia,EMEA,Žilina,Zilina
+3337,Turkey,EMEA,Kocaeli,Kocaeli
+3338,India,Central Asia,Telangana,Kukatpalli
+3339,China,North Asia,Hunan,Huaihua
+3340,Brazil,South,Parana,Arapongas
+3341,Iran,EMEA,Mazandaran,Babol
+3342,France,Central,Nord-Pas-de-Calais,Faches-Thumesnil
+3343,France,Central,Centre,Saint-Pierre-des-Corps
+3344,Chile,South,Santiago,Lo Prado
+3345,Bangladesh,Central Asia,Chittagong,Cox’s Bāzār
+3346,Nigeria,Africa,Ondo,Owo
+3347,France,Central,Ile-de-France,Pierrefitte-sur-Seine
+3348,United States,South,Alabama,Tuscaloosa
+3349,Brazil,South,Pará,Santarém
+3350,Nigeria,Africa,Osun,Ilesha
+3351,China,North Asia,Hunan,Yuanjiang
+3352,United States,South,Georgia,East Point
+3353,Brazil,South,Rio Grande do Sul,Bento Gonçalves
+3354,United States,Central,Minnesota,Cottage Grove
+3355,United States,Central,Minnesota,Apple Valley
+3356,Japan,North Asia,Hokkaido,Atsugacho
+3357,France,Central,Ile-de-France,Longjumeau
+3358,United States,Central,Minnesota,Eagan
+3359,Brazil,South,Pará,Itaituba
+3360,Romania,EMEA,Arges,Pitesti
+3361,Cameroon,Africa,Sud-Ouest,Kumba
+3362,China,North Asia,Sichuan,Tongchuan
+3363,United States,East,Massachusetts,Leominster
+3364,Mexico,North,San Luis Potosí,Matehuala
+3365,United Arab Emirates,EMEA,'Ajman,Ajman
+3366,Turkey,EMEA,Istanbul,Umraniye
+3367,Japan,North Asia,Aomori,Hachinohe
+3368,United Kingdom,North,England,Gillingham
+3369,Canada,Canada,Ontario,Waterloo
+3370,Mexico,North,Sinaloa,Guamúchil
+3371,Algeria,Africa,Bechar,Bechar
+3372,Brazil,South,Santa Catarina,Palhoça
+3373,Brazil,South,Acre,Cruzeiro do Sul
+3374,United States,South,Tennessee,Murfreesboro
+3375,Russia,EMEA,Novosibirsk,Toguchin
+3376,South Africa,Africa,Gauteng,Tembisa
+3377,France,Central,Nord-Pas-de-Calais,Denain
+3378,United States,West,California,Lodi
+3379,United States,West,Colorado,Englewood
+3380,China,North Asia,Hebei,Baoding
+3381,United States,West,California,Thousand Oaks
+3382,Ukraine,EMEA,Zhytomyr,Berdychiv
+3383,Germany,Central,Saarland,Schiffweiler
+3384,China,North Asia,Shandong,Penglai
+3385,Spain,South,Valenciana,Elda
+3386,United Kingdom,North,England,Bideford
+3387,United States,East,New Jersey,Bayonne
+3388,China,North Asia,Anhui,Chaohu
+3389,United States,Central,Missouri,Jefferson City
+3390,Japan,North Asia,Hyogo,Amagasaki
+3391,Turkey,EMEA,Izmir,Menemen
+3392,Romania,EMEA,Vrancea,Focsani
+3393,Turkey,EMEA,Tekirdag,Tekirdag
+3394,Zimbabwe,Africa,Mashonaland West,Kadoma
+3395,United States,East,Ohio,Mason
+3396,Peru,South,Piura,Piura
+3397,United Kingdom,North,Scotland,Paisley
+3398,Argentina,South,Provincia de Buenos Aires,Junín
+3399,United Kingdom,North,England,Gosport
+3400,South Africa,Africa,Kwazulu-natal,Ulundi
+3401,Eritrea,Africa,Anseba,Keren
+3402,France,Central,Ile-de-France,Le Pré-Saint-Gervais
+3403,Israel,EMEA,Southern,Be'er Sheva
+3404,Netherlands,Central,North Holland,Alkmaar
+3405,Equatorial Guinea,Africa,Litoral,Bata
+3406,United States,Central,Iowa,Urbandale
+3407,Pakistan,Central Asia,Punjab,Gujrat
+3408,South Africa,Africa,Kwazulu-natal,Stanger
+3409,Canada,Canada,Ontario,Pickering
+3410,Turkey,EMEA,Aksaray,Aksaray
+3411,Turkey,EMEA,Amasya,Amasya
+3412,China,North Asia,Jiangsu,Taixing
+3413,France,Central,Ile-de-France,Moissy-Cramayel
+3414,Nigeria,Africa,Abuja Capital Territory,Abuja
+3415,Netherlands,Central,South Holland,Vlaardingen
+3416,United States,South,North Carolina,Thomasville
+3417,South Africa,Africa,Mpumalanga,eMbalenhle
+3418,Ukraine,EMEA,Luhans'k,Lisichansk
+3419,Turkey,EMEA,Sirnak,Silopi
+3420,Turkey,EMEA,Siirt,Siirt
+3421,Mozambique,Africa,Tete,Tete
+3422,Colombia,South,Cundinamarca,Mosquera
+3423,Italy,South,Emilia-Romagna,Faenza
+3424,Benin,Africa,Atlantique,Ouidah
+3425,South Africa,Africa,Kwazulu-natal,Mpumalanga
+3426,Brazil,South,Pernambuco,Vitória de Santo Antão
+3427,Peru,South,Lima,Barranca
+3428,United States,East,Massachusetts,Malden
+3429,Angola,Africa,Namibe,Namibe
+3430,United States,West,Washington,Marysville
+3431,Canada,Canada,Nova Scotia,Dartmouth
+3432,United Kingdom,North,England,Bracknell
+3433,Netherlands,Central,North Brabant,Roosendaal
+3434,Armenia,EMEA,Lori,Vanadzor
+3435,Italy,South,Umbria,Foligno
+3436,France,Central,Languedoc-Roussillon,Agde
+3437,France,Central,Provence-Alpes-Côte d'Azur,Vence
+3438,Denmark,North,Hovedstaden,Frederiksberg
+3439,United States,East,Massachusetts,Andover
+3440,Morocco,Africa,Gharb-Chrarda-Béni Hssen,Sidi Qacem
+3441,China,North Asia,Hunan,Yiyang
+3442,Egypt,Africa,Al Buhayrah,Kafr ad Dawwar
+3443,Canada,Canada,British Columbia,Coquitlam
+3444,Brazil,South,Parana,Apucarana
+3445,Germany,Central,Brandenburg,Forst
+3446,Sierra Leone,Africa,Northern,Makeni
+3447,Peru,South,Lambayeque,Chiclayo
+3448,United States,Central,Indiana,New Castle
+3449,United States,South,Florida,Coral Gables
+3450,United Kingdom,North,Scotland,Cumbernauld
+3451,United States,Central,Texas,Mesquite
+3452,Bosnia and Herzegovina,EMEA,Federation of Bosnia and Herzegovina,Tuzla
+3453,China,North Asia,Fujian,Quanzhou
+3454,Croatia,EMEA,Splitsko-Dalmatinska,Split
+3455,Colombia,South,Antioquia,Apartadó
+3456,Russia,EMEA,Kabardino-Balkariya,Nal'chik
+3457,Italy,South,Lombardy,Busto Arsizio
+3458,Brazil,South,Minas Gerais,Ipatinga
+3459,Spain,South,Catalonia,Manresa
+3460,Nigeria,Africa,Cross River,Ugep
+3461,Cameroon,Africa,Extreme-Nord,Maroua
+3462,United States,West,California,Redwood City
+3463,Brazil,South,São Paulo,Carapicuíba
+3464,Italy,South,Tuscany,Siena
+3465,Argentina,South,Entre Ríos,Concepción del Uruguay
+3466,Egypt,Africa,Al Minya,Samalut
+3467,South Africa,Africa,Free State,Botshabelo
+3468,Venezuela,South,Zulia,San Carlos del Zulia
+3469,Colombia,South,Cundinamarca,Facatativá
+3470,United States,Central,Michigan,Sterling Heights
+3471,Ukraine,EMEA,Cherkasy,Uman'
+3472,Nigeria,Africa,Katsina,Funtua
+3473,United States,West,California,San Clemente
+3474,France,Central,Rhône-Alpes,Cluses
+3475,Italy,South,Campania,Afragola
+3476,Mexico,North,Chiapas,Tapachula
+3477,Tanzania,Africa,Pwani,Chalinze
+3478,Brazil,South,Ceará,Aracati
+3479,China,North Asia,Shandong,Weihai
+3480,United States,South,Arkansas,Rogers
+3481,Italy,South,Campania,Cercola
+3482,United Kingdom,North,England,Stafford
+3483,Brazil,South,Ceará,São Benedito
+3484,Brazil,South,São Paulo,Itapeva
+3485,Czech Republic,EMEA,Liberec,Liberec
+3486,United States,East,New York,Lindenhurst
+3487,Mexico,North,Guanajuato,Silao
+3488,United States,Central,Texas,La Porte
+3489,France,Central,Brittany,Douarnenez
+3490,Italy,South,Emilia-Romagna,Modena
+3491,United States,West,California,Montebello
+3492,Brazil,South,São Paulo,São Vicente
+3493,Iran,EMEA,Mazandaran,Chalus
+3494,Poland,EMEA,Masovia,Plock
+3495,Czech Republic,EMEA,Usti nad Labem,Usti nad Labem
+3496,Romania,EMEA,Hunedoara,Deva
+3497,France,Central,Ile-de-France,Mantes-la-Ville
+3498,Spain,South,Melilla,Melilla
+3499,France,Central,Ile-de-France,Suresnes
+3500,France,Central,Limousin,Tulle
+3501,United States,South,Florida,West Palm Beach
+3502,United States,South,South Carolina,Rock Hill
+3503,Venezuela,South,Cojedes,Tinaquillo
+3504,Uganda,Africa,Jinja,Jinja
+3505,South Korea,North Asia,Gangwon,Chuncheon
+3506,Zambia,Africa,Northern,Kasama
+3507,United States,South,Virginia,Charlottesville
+3508,Nigeria,Africa,Gombe,Gombe
+3509,Lithuania,EMEA,Klaipeda,Klaipeda
+3510,United States,East,Connecticut,Shelton
+3511,China,North Asia,Jilin,Jiaohe
+3512,United States,Central,South Dakota,Aberdeen
+3513,India,Central Asia,Haryana,Rohtak
+3514,United States,Central,Texas,Grapevine
+3515,Morocco,Africa,Doukkala-Abda,El Jadida
+3516,Turkey,EMEA,Samsun,Bafra
+3517,Turkey,EMEA,Manisa,Salihli
+3518,Brazil,South,São Paulo,Campo Limpo Paulista
+3519,India,Central Asia,Uttar Pradesh,Etawah
+3520,Brazil,South,Goiás,Cidade Ocidental
+3521,United States,East,Maryland,Hagerstown
+3522,Netherlands,Central,Limburg,Venlo
+3523,United States,West,Arizona,Sierra Vista
+3524,France,Central,Auvergne,Riom
+3525,Austria,EMEA,Styria,Leoben
+3526,United States,West,California,Yucaipa
+3527,South Africa,Africa,Gauteng,Vereeniging
+3528,Venezuela,South,Mérida,Mérida
+3529,Brazil,South,Parana,Pato Branco
+3530,United Kingdom,North,England,Dronfield
+3531,United States,South,Florida,Boca Raton
+3532,France,Central,Ile-de-France,Viroflay
+3533,China,North Asia,Zhejiang,Yuyao
+3534,Brazil,South,São Paulo,Mogi das Cruzes
+3535,Bolivia,South,Beni,Riberalta
+3536,China,North Asia,Liaoning,Benxi
+3537,Denmark,North,South Denmark,Sonderborg
+3538,United States,West,Utah,Logan
+3539,Brazil,South,Parana,Londrina
+3540,France,Central,Aquitaine,Blanquefort
+3541,United Kingdom,North,England,Ferndown
+3542,Brazil,South,Parana,Araucária
+3543,Italy,South,Lombardy,Vigevano
+3544,India,Central Asia,Tamil Nadu,Ambattur
+3545,Iran,EMEA,Sistan Va Baluchestan,Iranshahr
+3546,France,Central,Nord-Pas-de-Calais,Lomme
+3547,United States,South,Kentucky,Owensboro
+3548,Morocco,Africa,Chaouia-Ouardigha,Berrechid
+3549,Russia,EMEA,Bashkortostan,Blagoveshchensk
+3550,Spain,South,Castile and León,Segovia
+3551,United States,Central,Iowa,Burlington
+3552,France,Central,Aquitaine,Dax
+3553,Nigeria,Africa,Sokoto,Sokoto
+3554,Turkey,EMEA,Ardahan,Ardahan
+3555,Italy,South,Piedmont,Cuneo
+3556,United States,West,Washington,Longview
+3557,Cuba,Caribbean,Ciego de Ávila,Morón
+3558,France,Central,Ile-de-France,Saint-Gratien
+3559,Iran,EMEA,Lorestan,Aligudarz
+3560,Mozambique,Africa,Cabo Delgado,Pemba
+3561,Colombia,South,Huila,Pitalito
+3562,Morocco,Africa,Guelmim-Es Semara,Guelmim
+3563,Canada,Canada,Quebec,Gatineau
+3564,South Korea,North Asia,South Chungcheong,Cheonan
+3565,Syria,EMEA,Ar Raqqah,Ar Raqqah
+3566,Brazil,South,Paraíba,Campina Grande
+3567,Germany,Central,Saxony,Zwickau
+3568,Turkey,EMEA,Yalova,Yalova
+3569,Bulgaria,EMEA,Pleven,Pleven
+3570,Turkey,EMEA,Manisa,Akhisar
+3571,Romania,EMEA,Suceava,Suceava
+3572,Nigeria,Africa,Ogun,Abeokuta
+3573,United Kingdom,North,England,Chapel Allerton
+3574,Madagascar,Africa,Atsimo-Andrefana,Toliara
+3575,South Africa,Africa,Mpumalanga,Volksrust
+3576,Netherlands,Central,Utrecht,Veenendaal
+3577,Brazil,South,Pernambuco,Camaragibe
+3578,China,North Asia,Shanxi,Yuncheng
+3579,United States,West,New Mexico,Santa Fe
+3580,Chile,South,Valparaíso,San Antonio
+3581,Italy,South,Calabria,Crotone
+3582,France,Central,Ile-de-France,Montigny-le-Bretonneux
+3583,Colombia,South,Atlántico,Sabanalarga
+3584,Brazil,South,Minas Gerais,Uberlândia
+3585,France,Central,Ile-de-France,Chilly-Mazarin
+3586,Angola,Africa,Malanje,Malanje
+3587,China,North Asia,Hebei,Langfang
+3588,Venezuela,South,Miranda,Cúa
+3589,Japan,North Asia,Aichi,Anjo
+3590,Russia,EMEA,Dagestan,Khasavyurt
+3591,Brazil,South,Bahia,Simões Filho
+3592,France,Central,Languedoc-Roussillon,Lattes
+3593,Dominican Republic,Caribbean,Monseñor Nouel,Bonao
+3594,United States,Central,Texas,Garland
+3595,United States,Central,Texas,Frisco
+3596,United States,West,California,Antioch
+3597,Zimbabwe,Africa,Harare,Epworth
+3598,Tanzania,Africa,Mbeya,Igurusi
+3599,France,Central,Provence-Alpes-Côte d'Azur,La Crau
+3600,Brazil,South,Amazonas,Parintins
+3601,Madagascar,Africa,Atsinanana,Toamasina
+3602,Belgium,Central,Limburg,Peer
+3603,China,North Asia,Jilin,Liaoyuan
+3604,United Kingdom,North,England,Darlington
+3605,Bangladesh,Central Asia,Dhaka,Narsingdi
+3606,Nigeria,Africa,Katsina,Katsina
+3607,Paraguay,South,Central,Lambaré
+3608,United States,Central,Wisconsin,West Allis
+3609,United States,West,California,Escondido
+3610,France,Central,Provence-Alpes-Côte d'Azur,Digne-les-Bains
+3611,India,Central Asia,Rajasthan,Bharatpur
+3612,Brazil,South,Minas Gerais,Novo Cruzeiro
+3613,Mongolia,North Asia,Ulaanbaatar,Ulan Bator
+3614,Brazil,South,São Paulo,Araraquara
+3615,South Africa,Africa,Gauteng,Boksburg
+3616,Brazil,South,Pernambuco,Igarassu
+3617,Chile,South,Biobio,Los Ángeles
+3618,France,Central,Centre,Saint-Jean-de-la-Ruelle
+3619,Togo,Africa,Kara,Kara
+3620,France,Central,Nord-Pas-de-Calais,Loos
+3621,United States,Central,Illinois,Danville
+3622,United States,Central,Wisconsin,Waukesha
+3623,Uruguay,South,Rivera,Rivera
+3624,United States,South,Tennessee,Bartlett
+3625,Iran,EMEA,South Khorasan,Birjand
+3626,Germany,Central,North Rhine-Westphalia,Detmold
+3627,China,North Asia,Shandong,Binzhou
+3628,United States,East,New Hampshire,Nashua
+3629,Liberia,Africa,Grand Gedeh,Zwedru
+3630,Egypt,Africa,Suhaj,Akhmim
+3631,Spain,South,Castile-La Mancha,Cuenca
+3632,Turkey,EMEA,Sanliurfa,Viransehir
+3633,Venezuela,South,Miranda,Guarenas
+3634,Venezuela,South,Anzoátegui,El Tigre
+3635,Iran,EMEA,Tehran,Varamin
+3636,Morocco,Africa,Tanger-Tétouan,Larache
+3637,Argentina,South,Catamarca,San Fernando del Valle de Catamarca
+3638,Poland,EMEA,Opole,Nysa
+3639,Italy,South,Campania,Battipaglia
+3640,Italy,South,Apulia,Andria
+3641,Italy,South,Campania,Castellammare di Stabia
+3642,Turkey,EMEA,Ankara,Cubuk
+3643,Switzerland,Central,St. Gallen,St. Gallen
+3644,Brazil,South,São Paulo,Cubatão
+3645,Germany,Central,Bavaria,Günzburg
+3646,Brazil,South,Minas Gerais,Pouso Alegre
+3647,France,Central,Aquitaine,Bergerac
+3648,Brazil,South,Tocantins,Gurupi
+3649,France,Central,Pays de la Loire,Fontenay-le-Comte
+3650,Venezuela,South,Aragua,Cagua
+3651,United States,West,Montana,Bozeman
+3652,Peru,South,Piura,Paita
+3653,Peru,South,Piura,Talara
+3654,China,North Asia,Shanxi,Yangquan
+3655,China,North Asia,Hubei,Suizhou
+3656,United Kingdom,North,England,Kidderminster
+3657,United States,Central,Michigan,Mount Pleasant
+3658,Ghana,Africa,Central,Cape Coast
+3659,Brazil,South,Goiás,Catalão
+3660,Japan,North Asia,Nagano,Ueda
+3661,United States,Central,Indiana,Portage
+3662,Turkey,EMEA,Afyonkarahisar,Afyon
+3663,Turkey,EMEA,Karaman,Karaman
+3664,Japan,North Asia,Kanagawa,Chigasaki
+3665,United States,East,New Jersey,Bridgeton
+3666,Yemen,EMEA,Al Hudaydah,Al Hudaydah
+3667,Ukraine,EMEA,Luhans'k,Krasnyy Luch
+3668,Ukraine,EMEA,Ivano-Frankivsk,Kalush
+3669,France,Central,Pays de la Loire,La Chapelle-sur-Erdre
+3670,Japan,North Asia,Hyogo,Kita-ku
+3671,United States,West,Oregon,Medford
+3672,Niger,Africa,Diffa,Nguigmi
+3673,Nigeria,Africa,Ondo,Akure
+3674,India,Central Asia,Maharashtra,Latur
+3675,United States,Central,Illinois,Tinley Park
+3676,United States,East,Pennsylvania,Altoona
+3677,France,Central,Franche-Comté,Dole
+3678,France,Central,Ile-de-France,Lagny-sur-Marne
+3679,Italy,South,Marche,Falconara Marittima
+3680,Turkey,EMEA,Kastamonu,Kastamonu
+3681,Turkey,EMEA,Kilis,Kilis
+3682,Iran,EMEA,Razavi Khorasan,Neyshabur
+3683,India,Central Asia,Haryana,Karnal
+3684,Romania,EMEA,Caras-Severin,Resita
+3685,France,Central,Alsace,Illkirch-Graffenstaden
+3686,Brazil,South,Espírito Santo,Linhares
+3687,Spain,South,Galicia,Ponteareas
+3688,China,North Asia,Henan,Hebi
+3689,Poland,EMEA,Lubusz,Gorzow Wielkopolski
+3690,United States,Central,Wisconsin,Sheboygan
+3691,Netherlands,Central,South Holland,Leiden
+3692,Turkey,EMEA,Usak,Usak
+3693,Venezuela,South,Guárico,Calabozo
+3694,Brazil,South,São Paulo,Jaboticabal
+3695,Peru,South,Ancash,Huaraz
+3696,India,Central Asia,Andhra Pradesh,Kakinada
+3697,United States,West,Washington,Bellevue
+3698,Kazakhstan,EMEA,Almaty,Taldyqorghan
+3699,Canada,Canada,Ontario,Brantford
+3700,China,North Asia,Shandong,Zaozhuang
+3701,Brazil,South,Mato Grosso,Sinop
+3702,Albania,EMEA,Korçë,Korce
+3703,Italy,South,Abruzzi,Teramo
+3704,South Africa,Africa,Gauteng,Krugersdorp
+3705,Indonesia,Southeast Asia,Maluku,Ambon
+3706,United States,East,Connecticut,Danbury
+3707,Colombia,South,Casanare,Yopal
+3708,United Kingdom,North,England,Morley
+3709,France,Central,Ile-de-France,Avon
+3710,Japan,North Asia,Kanagawa,Fujisawa
+3711,France,Central,Rhône-Alpes,Voiron
+3712,United States,West,California,Davis
+3713,Argentina,South,Provincia de Buenos Aires,Necochea
+3714,Venezuela,South,Táchira,San Cristóbal
+3715,United States,West,Washington,Redmond
+3716,Mozambique,Africa,Inhambane,Maxixe
+3717,Brazil,South,Parana,Guarapuava
+3718,Brazil,South,Bahia,Vitória da Conquista
+3719,China,North Asia,Hubei,Xiantao
+3720,Egypt,Africa,Matruh,Marsa Matruh
+3721,Canada,Canada,Ontario,Burlington
+3722,Italy,South,Sicily,Ragusa
+3723,France,Central,Aquitaine,Cestas
+3724,United States,East,Maine,Lewiston
+3725,China,North Asia,Hebei,Renqiu
+3726,France,Central,Languedoc-Roussillon,Sète
+3727,Japan,North Asia,Tottori,Tottori
+3728,Iran,EMEA,Semnan,Semnan
+3729,Brazil,South,Ceará,Crato
+3730,Croatia,EMEA,Osjecko-Baranjska,Osijek
+3731,Turkey,EMEA,Rize,Rize
+3732,Mexico,North,Veracruz,Altotonga
+3733,Brazil,South,São Paulo,Cosmópolis
+3734,United States,West,Colorado,Greeley
+3735,Italy,South,Apulia,Manfredonia
+3736,Italy,South,Tuscany,Massa
+3737,Denmark,North,Central Jutland,Randers
+3738,United States,Central,Michigan,Royal Oak
+3739,Kazakhstan,EMEA,Zhambyl,Taraz
+3740,Brazil,South,Goiás,Jataí
+3741,France,Central,Rhône-Alpes,Aix-les-Bains
+3742,United States,West,Montana,Billings
+3743,Nigeria,Africa,Ebonyi,Abakaliki
+3744,India,Central Asia,Uttar Pradesh,Shahjahanpur
+3745,Mexico,North,Puebla,Izúcar de Matamoros
+3746,Brazil,South,Rio de Janeiro,Seropédica
+3747,United States,South,North Carolina,Chapel Hill
+3748,Israel,EMEA,Central,Rehovot
+3749,Colombia,South,Córdoba,Montería
+3750,United States,South,Florida,Margate
+3751,United States,West,California,Dublin
+3752,France,Central,Provence-Alpes-Côte d'Azur,Sorgues
+3753,Turkey,EMEA,Sirnak,Cizre
+3754,Turkey,EMEA,Aydin,Aydin
+3755,Tanzania,Africa,Kigoma,Kigoma
+3756,Netherlands,Central,North Brabant,Oss
+3757,Portugal,South,Lisboa,Odivelas
+3758,Iran,EMEA,Razavi Khorasan,Gonabad
+3759,Chile,South,Antofagasta,Calama
+3760,Algeria,Africa,Djelfa,Dar Chioukh
+3761,United States,East,Ohio,Cuyahoga Falls
+3762,United States,Central,Texas,Missouri City
+3763,United States,West,Colorado,Loveland
+3764,Macedonia,EMEA,Bitola,Bitola
+3765,New Zealand,Oceania,Manawatu-Wanganui,Levin
+3766,Turkey,EMEA,Edirne,Edirne
+3767,United States,Central,Texas,Deer Park
+3768,United States,South,Florida,North Miami
+3769,Bulgaria,EMEA,Pernik,Pernik
+3770,Rwanda,Africa,Southern,Gitarama
+3771,United States,South,Florida,Pensacola
+3772,Japan,North Asia,Nagano,Matsumoto
+3773,Poland,EMEA,Silesia,Jastrzebie Zdroj
+3774,Brazil,South,São Paulo,Franco da Rocha
+3775,Benin,Africa,Mono,Lokossa
+3776,Germany,Central,North Rhine-Westphalia,Stadtlohn
+3777,United States,Central,Texas,Baytown
+3778,China,North Asia,Heilongjiang,Binzhou
+3779,United States,Central,Iowa,Waterloo
+3780,United States,West,Arizona,Bullhead City
+3781,Colombia,South,Antioquia,Envigado
+3782,India,Central Asia,Delhi,New Delhi
+3783,Turkey,EMEA,Mardin,Midyat
+3784,Zimbabwe,Africa,Manicaland,Mutare
+3785,United States,South,Florida,Port Orange
+3786,United States,Central,Illinois,Arlington Heights
+3787,Russia,EMEA,Kaluga,Obninsk
+3788,United States,East,New Jersey,New Brunswick
+3789,Egypt,Africa,Kafr Ash Shaykh,Kafr ash Shaykh
+3790,United States,Central,Nebraska,Norfolk
+3791,Belarus,EMEA,Homyel',Zhlobin
+3792,United States,Central,Iowa,Iowa City
+3793,United States,Central,Nebraska,Grand Island
+3794,United States,South,Arkansas,Springdale
+3795,United States,Central,Texas,Keller
+3796,United States,Central,Illinois,Oak Park
+3797,Canada,Canada,Ontario,Barrie
+3798,Brazil,South,Mato Grosso,Sorriso
+3799,France,Central,Midi-Pyrénées,Millau
+3800,United States,East,New Jersey,Atlantic City
+3801,Sudan,Africa,Gezira,Al Manaqil
+3802,United States,Central,Illinois,Romeoville
+3803,Spain,South,Andalusía,Torremolinos
+3804,Brazil,South,Maranhão,Buriticupu
+3805,Uganda,Africa,Kabarole,Fort Portal
+3806,South Africa,Africa,Gauteng,Vanderbijlpark
+3807,Argentina,South,Salta,Tartagal
+3808,United States,West,Utah,Layton
+3809,United States,East,Ohio,Elyria
+3810,United States,South,Florida,Jupiter
+3811,United States,West,Washington,Everett
+3812,France,Central,Ile-de-France,Osny
+3813,United States,West,Washington,Auburn
+3814,United States,South,Florida,Ormond Beach
+3815,United States,West,California,San Luis Obispo
+3816,United States,Central,Texas,Abilene
+3817,Turkey,EMEA,Kayseri,Felahiye
+3818,United States,West,Idaho,Lewiston
+3819,Zimbabwe,Africa,Matabeleland North,Victoria Falls
