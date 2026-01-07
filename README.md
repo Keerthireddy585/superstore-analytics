@@ -12,11 +12,11 @@ The analysis is based on the Global Superstore dataset, a commonly used retail d
 
 
 ## Business Questions Addressed
-How is the business performing overall, and are we growing?
-What are the key revenue and growth trends over time?
-Which product categories and products drive the most revenue?
-Which regions require attention based on revenue performance?
-Who are the most valuable customers, and how concentrated is revenue?
+  - How is the business performing overall, and are we growing?
+  - What are the key revenue and growth trends over time?
+  - Which product categories and products drive the most revenue?
+  - Which regions require attention based on revenue performance?
+  - Who are the most valuable customers, and how concentrated is revenue?
 
 
 ## Project Components
