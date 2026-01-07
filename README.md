@@ -7,6 +7,10 @@ The objective is to analyze business performance across revenue, growth, product
 The project emphasizes not only data analysis and visualization, but also structured business storytelling, KPI-driven decision-making, and readiness for real-world analytics workflows through basic automation and scalability considerations. 
 
 
+## Data Source:
+The analysis is based on the Global Superstore dataset, a commonly used retail dataset containing order-level sales, customer, product, and regional information
+
+
 ## Business Questions Addressed
 How is the business performing overall, and are we growing?
 What are the key revenue and growth trends over time?
